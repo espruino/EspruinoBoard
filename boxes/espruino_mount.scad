@@ -1,5 +1,10 @@
-PCB_LENGTH = 51;
-PCB_WIDTH = 42.5;
+// Copyright (c) 2013 Gordon Williams, Pur3 Ltd. See the file LICENSE for copying permission.
+//
+// PCB mount for Espruino. Print, flex apart, insert Espruino and then screw down
+
+
+PCB_LENGTH = 54+1;
+PCB_WIDTH = 41.5+1;
 PCB_HEIGHT = 1;
 BORDER = 1;
 

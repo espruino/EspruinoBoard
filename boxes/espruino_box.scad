@@ -1,3 +1,5 @@
+// Copyright (c) 2013 Gordon Williams, Pur3 Ltd. See the file LICENSE for copying permission.
+//
 // Simple Box for Espruino
 // Open at one end so Espruino slides in
 // Can be 3D printed on end
