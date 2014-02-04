@@ -1,0 +1,1999 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="189.56693"
+   x="0px"
+   version="1.1"
+   y="0px"
+   gorn="0"
+   height="143.50394"
+   viewBox="0 0 151.65373 114.80297"
+   id="Ebene_1"
+   enable-background="new 0 0 195.09 151.734"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="espruino_pcb.svg"><metadata
+   id="metadata6406"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs6404">
+        
+    
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </defs><sodipodi:namedview
+   pagecolor="#d0f0f5"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="1"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1629"
+   inkscape:window-height="940"
+   id="namedview6402"
+   showgrid="true"
+   units="mm"
+   inkscape:snap-page="true"
+   inkscape:zoom="3.2127748"
+   inkscape:cx="79.945062"
+   inkscape:cy="83.214494"
+   inkscape:window-x="45"
+   inkscape:window-y="354"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Ebene_1"
+   inkscape:snap-object-midpoints="true"
+   inkscape:snap-bbox="true"
+   inkscape:snap-nodes="true"
+   inkscape:bbox-paths="false"
+   inkscape:bbox-nodes="false"><inkscape:grid
+     type="xygrid"
+     id="grid9186"
+     empspacing="5"
+     visible="true"
+     enabled="true"
+     snapvisiblegridlinesonly="true"
+     units="in"
+     spacingx="2.54mm"
+     spacingy="0.1in" /></sodipodi:namedview>
+    
+<g
+   id="copper1"><g
+     id="copper0"><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="28.212"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.63598257,114.06577)"
+       cx="384.005"
+       cy="28.212"
+       r="7.6669998"
+       id="circle4556" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="54.879002"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.84283595,114.06577)"
+       cx="384.005"
+       cy="54.879002"
+       r="7.6669998"
+       id="circle4558" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="79.878998"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.58667212,114.06577)"
+       cx="384.005"
+       cy="79.878998"
+       r="7.6669998"
+       id="circle4560" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="106.546"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.79352497,114.06577)"
+       cx="384.005"
+       cy="106.546"
+       r="7.6669998"
+       id="circle4562" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="131.879"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.62985428,114.06577)"
+       cx="384.005"
+       cy="131.879"
+       r="7.6669998"
+       id="circle4564" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="158.213"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932705,0.27775385,0,-0.74421513,114.06598)"
+       cx="384.005"
+       cy="158.213"
+       r="7.6669998"
+       id="circle4566" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="183.54601"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.58054648,114.06577)"
+       cx="384.005"
+       cy="183.54601"
+       r="7.6669998"
+       id="circle4568" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="210.213"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="210.213"
+       r="7.6669998"
+       id="circle4570" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4572" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="183.54601"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="183.54601"
+       r="7.6669998"
+       id="circle4574" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="210.213"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="210.213"
+       r="7.6669998"
+       id="circle4576" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4578" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4580" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="308.33701"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="308.33701"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4582" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="282.33801"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="282.33801"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4584" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="257.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="257.004"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4586" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="231.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="231.005"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4588" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="205.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="205.67101"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4590" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="180.338"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="180.338"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4592" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="155.004"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4594" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.02364)"
+       cx="129.67101"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4596" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="262.21301"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="262.21301"
+       r="7.6669998"
+       id="circle4598" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="287.48901"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="287.48901"
+       r="7.6669998"
+       id="circle4600" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="314.15601"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="314.15601"
+       r="7.6669998"
+       id="circle4602" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="340.15601"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="340.15601"
+       r="7.6669998"
+       id="circle4604" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="366.48901"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="366.48901"
+       r="7.6669998"
+       id="circle4606" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="392.457"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="392.457"
+       r="7.6669998"
+       id="circle4608" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="418.457"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="418.457"
+       r="7.6669998"
+       id="circle4610" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4612" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4614" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,114.06577)"
+       cx="384.005"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4616" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="384.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,114.06577)"
+       cx="384.005"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4618" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="28.212"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.63598257,115.31477)"
+       cx="27.608"
+       cy="28.212"
+       r="7.6669998"
+       id="circle4620" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="54.879002"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.84283595,115.31477)"
+       cx="27.608"
+       cy="54.879002"
+       r="7.6669998"
+       id="circle4622" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="79.878998"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.58667212,115.31477)"
+       cx="27.608"
+       cy="79.878998"
+       r="7.6669998"
+       id="circle4624" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="106.546"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.79352497,115.31477)"
+       cx="27.608"
+       cy="106.546"
+       r="7.6669998"
+       id="circle4626" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="131.879"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.62985428,115.31477)"
+       cx="27.608"
+       cy="131.879"
+       r="7.6669998"
+       id="circle4628" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="158.213"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.74421505,115.31477)"
+       cx="27.608"
+       cy="158.213"
+       r="7.6669998"
+       id="circle4630" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="183.54601"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.58054648,115.31477)"
+       cx="27.608"
+       cy="183.54601"
+       r="7.6669998"
+       id="circle4632" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="210.213"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.78739721,115.31477)"
+       cx="27.608"
+       cy="210.213"
+       r="7.6669998"
+       id="circle4634" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="235.213"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,115.31477)"
+       cx="27.608"
+       cy="235.213"
+       r="7.6669998"
+       id="circle4636" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="262.21301"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83058361,115.31477)"
+       cx="27.608"
+       cy="262.21301"
+       r="7.6669998"
+       id="circle4638" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="287.48901"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.65108117,115.31477)"
+       cx="27.608"
+       cy="287.48901"
+       r="7.6669998"
+       id="circle4640" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="314.15601"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.8579319,115.31477)"
+       cx="27.608"
+       cy="314.15601"
+       r="7.6669998"
+       id="circle4642" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="340.15601"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.87952298,115.31477)"
+       cx="27.608"
+       cy="340.15601"
+       r="7.6669998"
+       id="circle4644" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="366.48901"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.99360827,115.31477)"
+       cx="27.608"
+       cy="366.48901"
+       r="7.6669998"
+       id="circle4646" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="392.457"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-1.0063076,115.31477)"
+       cx="27.608"
+       cy="392.457"
+       r="7.6669998"
+       id="circle4648" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="418.457"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-1.0278987,115.31477)"
+       cx="27.608"
+       cy="418.457"
+       r="7.6669998"
+       id="circle4650" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-1.141984,115.31477)"
+       cx="27.608"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4652" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.31477)"
+       cx="27.608"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4654" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.31477)"
+       cx="27.608"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4656" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="27.608"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.31477)"
+       cx="27.608"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4658" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="52.608002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-1.141984,115.09792)"
+       cx="52.608002"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4660" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="52.608002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.09792)"
+       cx="52.608002"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4662" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="52.608002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="52.608002"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4664" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="52.608002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="52.608002"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4666" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="78.941002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-1.141984,115.09792)"
+       cx="78.941002"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4668" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="78.941002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.09792)"
+       cx="78.941002"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4670" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="78.941002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="78.941002"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4672" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="78.941002"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="78.941002"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4674" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="104.607"
+       transform="matrix(0,-0.27932651,0.27775385,0,-1.141984,115.09792)"
+       cx="104.607"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4676" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="104.607"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.09792)"
+       cx="104.607"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4678" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="104.607"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="104.607"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4680" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="104.607"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="104.607"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4682" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="287.48901"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="287.48901"
+       r="7.6669998"
+       id="circle4684" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="314.15601"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="314.15601"
+       r="7.6669998"
+       id="circle4686" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="340.15601"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="340.15601"
+       r="7.6669998"
+       id="circle4688" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="366.48901"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="366.48901"
+       r="7.6669998"
+       id="circle4690" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="392.457"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="392.457"
+       r="7.6669998"
+       id="circle4692" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="418.457"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="418.457"
+       r="7.6669998"
+       id="circle4694" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4696" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4698" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4700" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="358.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.18932)"
+       cx="358.67099"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4702" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="287.48901"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="287.48901"
+       r="7.6669998"
+       id="circle4704" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="314.15601"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="314.15601"
+       r="7.6669998"
+       id="circle4706" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="340.15601"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="340.15601"
+       r="7.6669998"
+       id="circle4708" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="366.48901"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="366.48901"
+       r="7.6669998"
+       id="circle4710" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="392.457"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="392.457"
+       r="7.6669998"
+       id="circle4712" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="418.457"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="418.457"
+       r="7.6669998"
+       id="circle4714" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4716" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4718" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4720" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="333.67099"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.53123444,114.40617)"
+       cx="333.67099"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4722" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="309.33899"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="309.33899"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4724" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="309.33899"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="309.33899"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4726" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="284.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="284.005"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4728" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="284.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="284.005"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4730" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="259.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="259.005"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4732" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="259.005"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="259.005"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4734" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="231.672"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="231.672"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4736" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="231.672"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="231.672"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4738" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="206.338"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="206.338"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4740" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="206.338"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="206.338"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4742" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="181.338"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="181.338"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4744" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="181.338"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="181.338"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4746" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="287.48901"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="287.48901"
+       r="7.6669998"
+       id="circle4748" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="314.15601"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="314.15601"
+       r="7.6669998"
+       id="circle4750" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="340.15601"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="340.15601"
+       r="7.6669998"
+       id="circle4752" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="366.48901"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="366.48901"
+       r="7.6669998"
+       id="circle4754" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="392.457"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="392.457"
+       r="7.6669998"
+       id="circle4756" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="418.457"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="418.457"
+       r="7.6669998"
+       id="circle4758" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="444.79001"
+       r="7.6669998"
+       id="circle4760" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,114.8998)"
+       cx="155.004"
+       cy="469.12399"
+       r="7.6669998"
+       id="circle4762" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="155.004"
+       cy="495.12399"
+       r="7.6669998"
+       id="circle4764" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="155.004"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="155.004"
+       cy="521.45697"
+       r="7.6669998"
+       id="circle4766" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="287.48901"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       cy="287.48901"
+       r="7.6669998"
+       id="circle4768" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="314.15601"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       cy="314.15601"
+       r="7.6669998"
+       id="circle4770" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="340.15601"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       cy="340.15601"
+       r="7.6669998"
+       id="circle4772" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="366.48901"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       cy="366.48901"
+       r="7.6669998"
+       id="circle4774" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="392.457"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       cy="392.457"
+       r="7.6669998"
+       id="circle4776" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="418.457"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       cy="418.457"
+       r="7.6669998"
+       id="circle4778" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="444.79001"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       gorn="0.114"
+       cy="444.79001"
+       id="connector_8_"
+       r="7.6669998" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="469.12399"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.70083282,115.02364)"
+       cx="129.67101"
+       gorn="0.115"
+       cy="469.12399"
+       id="connector_3_"
+       r="7.6669998" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="495.12399"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.72242391,115.09792)"
+       cx="129.67101"
+       gorn="0.116"
+       cy="495.12399"
+       id="connector_2_"
+       r="7.6669998" /><circle
+       style="fill:none;stroke:#f7bd13;stroke-width:3.59016514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:ry="7.6669998"
+       sodipodi:rx="7.6669998"
+       sodipodi:cy="521.45697"
+       sodipodi:cx="129.67101"
+       transform="matrix(0,-0.27932651,0.27775385,0,-0.83650071,115.09792)"
+       cx="129.67101"
+       gorn="0.117"
+       cy="521.45697"
+       id="connector_1_"
+       r="7.6669998" /></g></g><g
+   id="silkscreen"><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4924"
+     transform="matrix(0.27775385,0,0,0.27932651,5.281498,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4926"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4928"><text
+   id="text4930"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B2</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4932"
+     transform="matrix(0.27775385,0,0,0.27932651,5.0037405,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4934"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4936"><text
+   id="text4938"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A15</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4940"
+     transform="matrix(0.27775385,0,0,0.27932651,11.953012,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4942"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4944"><text
+   id="text4946"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A14</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4948"
+     transform="matrix(0.27775385,0,0,0.27932651,19.174338,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4950"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4952"><text
+   id="text4954"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A13</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4956"
+     transform="matrix(0.27775385,0,0,0.27932651,26.766469,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4958"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4960"><text
+   id="text4962"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A10</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4964"
+     transform="matrix(0.27775385,0,0,0.27932651,34.543587,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4966"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4968"><text
+   id="text4970"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A9</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4972"
+     transform="matrix(0.27775385,0,0,0.27932651,41.765336,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4974"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4976"><text
+   id="text4978"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A8</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4980"
+     transform="matrix(0.27775385,0,0,0.27932651,47.875789,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4982"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4984"><text
+   id="text4986"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C11</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4988"
+     transform="matrix(0.27775385,0,0,0.27932651,55.375151,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4990"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g4992"><text
+   id="text4994"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C10</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g4996"
+     transform="matrix(0.27775385,0,0,0.27932651,63.152404,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g4998"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5000"><text
+   id="text5002"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C9</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5004"
+     transform="matrix(0.27775385,0,0,0.27932651,70.744394,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5006"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5008"><text
+   id="text5010"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C8</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5012"
+     transform="matrix(0.27775385,0,0,0.27932651,77.410633,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5014"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5016"><text
+   id="text5018"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C7</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5020"
+     transform="matrix(0.27775385,0,0,0.27932651,84.801753,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5022"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5024"><text
+   id="text5026"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C6</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5028"
+     transform="matrix(0.27775385,0,0,0.27932651,92.408802,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5030"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5032"><text
+   id="text5034"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C5</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5036"
+     transform="matrix(0.27775385,0,0,0.27932651,99.445422,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5038"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5040"><text
+   id="text5042"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C4</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5044"
+     transform="matrix(0.27775385,0,0,0.27932651,105.92654,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5046"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5048"><text
+   id="text5050"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B15</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5052"
+     transform="matrix(0.27775385,0,0,0.27932651,112.96288,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5054"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5056"><text
+   id="text5058"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B14</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5060"
+     transform="matrix(0.27775385,0,0,0.27932651,120.53004,3.9639283)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5062"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5064"><text
+   id="text5066"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B13</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5068"
+     transform="matrix(0.27775385,0,0,0.27932651,13.064031,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5070"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5072"><text
+   id="text5074"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B3</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5076"
+     transform="matrix(0.27775385,0,0,0.27932651,19.822759,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5078"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5080"><text
+   id="text5082"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B4</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5084"
+     transform="matrix(0.27775385,0,0,0.27932651,27.044367,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5086"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5088"><text
+   id="text5090"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B5</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5092"
+     transform="matrix(0.27775385,0,0,0.27932651,34.451093,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5094"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5096"><text
+   id="text5098"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B6</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5100"
+     transform="matrix(0.27775385,0,0,0.27932651,41.209826,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5102"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5104"><text
+   id="text5106"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B7</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5108"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,80.726977)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5110"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5112"><text
+   id="text5114"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A2</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5116"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,73.650651)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5118"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5120"><text
+   id="text5122"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A3</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5124"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,66.574188)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5126"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5128"><text
+   id="text5130"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A4</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5132"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,59.498003)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5134"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5136"><text
+   id="text5138"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A5</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5140"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,51.490682)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5142"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5144"><text
+   id="text5146"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A6</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5148"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,44.693821)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5150"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5152"><text
+   id="text5154"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A7</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5156"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,38.082996)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5158"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5160"><text
+   id="text5162"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B0</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5164"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,31.286136)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5166"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5168"><text
+   id="text5170"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B1</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5172"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,24.489003)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5174"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5176"><text
+   id="text5178"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B10</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5180"
+     transform="matrix(0,-0.27932651,0.27775385,0,71.536436,16.761146)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5182"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5184"><text
+   id="text5186"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B11</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5188"
+     transform="matrix(0.27775385,0,0,0.27932651,48.523928,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5190"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5192"><text
+   id="text5194"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B8</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5196"
+     transform="matrix(0.27775385,0,0,0.27932651,56.208413,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5198"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5200"><text
+   id="text5202"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B9</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5204"
+     transform="matrix(0.27775385,0,0,0.27932651,61.763627,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5206"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5208"><text
+   id="text5210"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">B12</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5212"
+     transform="matrix(0.27775385,0,0,0.27932651,69.540745,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5214"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5216"><text
+   id="text5218"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C12</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5220"
+     transform="matrix(0.27775385,0,0,0.27932651,76.461544,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5222"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5224"><text
+   id="text5226"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C15</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5228"
+     transform="matrix(0.27775385,0,0,0.27932651,84.97943,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5230"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5232"><text
+   id="text5234"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C0</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5236"
+     transform="matrix(0.27775385,0,0,0.27932651,92.015775,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5238"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5240"><text
+   id="text5242"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C1</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5244"
+     transform="matrix(0.27775385,0,0,0.27932651,99.328236,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5246"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5248"><text
+   id="text5250"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C2</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5252"
+     transform="matrix(0.27775385,0,0,0.27932651,106.82788,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5254"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5256"><text
+   id="text5258"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">C3</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5260"
+     transform="matrix(0.27775385,0,0,0.27932651,113.49397,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5262"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5264"><text
+   id="text5266"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A0</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5268"
+     transform="matrix(0.27775385,0,0,0.27932651,121.1786,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5270"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5272"><text
+   id="text5274"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">A1</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5276"
+     transform="matrix(0.27775385,0,0,0.27932651,127.47446,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5278"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5280"><text
+   id="text5282"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">3.3</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5284"
+     transform="matrix(0.27775385,0,0,0.27932651,134.60329,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5286"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5288"><text
+   id="text5290"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">Bat</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5292"
+     transform="matrix(0.27775385,0,0,0.27932651,141.17689,113.64647)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5294"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5296"><text
+   id="text5298"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">GND</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5300"
+     transform="matrix(0.27775385,0,0,0.27932651,127.75221,4.0572235)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5302"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5304"><text
+   id="text5306"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">3.3</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5308"
+     transform="matrix(0.27775385,0,0,0.27932651,134.88105,4.0572235)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5310"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5312"><text
+   id="text5314"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">Bat</text>
+
+
+
+</g></g></g><g
+     style="stroke:none;stroke-width:1;fill:#ffffff"
+     id="g5316"
+     transform="matrix(0.27775385,0,0,0.27932651,141.17689,4.0572235)"><g
+       style="stroke:none;stroke-width:1;fill:#ffffff"
+       id="g5318"><g
+         style="stroke:none;stroke-width:1;fill:#ffffff"
+         id="g5320"><text
+   id="text5322"
+   font-size="12"
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans">GND</text>
+
+
+
+</g></g></g><g
+     transform="matrix(0.27932651,0,0,0.27775385,45.598378,20.722579)"
+     id="g8959"
+     style="stroke:none;stroke-width:1;fill:#ffffff"><g
+       id="g8961"
+       style="stroke:none;stroke-width:1;fill:#ffffff"><g
+         id="g8963"
+         style="stroke:none;stroke-width:1;fill:#ffffff"><text
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans"
+   font-size="12"
+   id="text8965">RST</text>
+
+
+
+</g></g></g><g
+     transform="matrix(0.27932651,0,0,0.27775385,52.146482,20.722579)"
+     id="g8967"
+     style="stroke:none;stroke-width:1;fill:#ffffff"><g
+       id="g8969"
+       style="stroke:none;stroke-width:1;fill:#ffffff"><g
+         id="g8971"
+         style="stroke:none;stroke-width:1;fill:#ffffff"><text
+   style="font-size:12px;fill:#ffffff;stroke:none;stroke-width:1;font-family:Droid Sans"
+   font-size="12"
+   id="text8973">BOOT0</text>
+
+
+
+</g></g></g><path
+     transform="matrix(0.800001,0,0,0.800001,0,-1.6160814e-4)"
+     inkscape:connector-curvature="0"
+     id="path3520"
+     d="m 0,0 189.56693,0 0,143.50394 L 0,143.50394 0,-0.49606323 z"
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></g></svg>

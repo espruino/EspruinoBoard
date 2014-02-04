@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="153"
+   x="0px"
+   version="1.2"
+   y="0px"
+   gorn="0"
+   height="216"
+   viewBox="0 0 122.4 172.80001"
+   id="Layer_1"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="espruino_sch.svg"><metadata
+   id="metadata7013"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs7011">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+                    
+                
+            
+        
+                
+            
+                        
+                    
+                            
+                        </defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1515"
+   inkscape:window-height="924"
+   id="namedview7009"
+   showgrid="true"
+   inkscape:document-units="in"
+   inkscape:snap-object-midpoints="true"
+   inkscape:snap-nodes="false"
+   inkscape:snap-center="true"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="4.9947094"
+   inkscape:cx="33.183376"
+   inkscape:cy="159.0122"
+   inkscape:window-x="921"
+   inkscape:window-y="131"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1"
+   units="in"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"><inkscape:grid
+     type="xygrid"
+     id="grid9823"
+     empspacing="5"
+     visible="true"
+     enabled="true"
+     snapvisiblegridlinesonly="true"
+     units="in"
+     spacingx="0.1in"
+     spacingy="0.1in"
+     originx="0in"
+     originy="0in" /><sodipodi:guide
+     orientation="1,0"
+     position="105.63766,149.94059"
+     id="guide10180" /></sodipodi:namedview>
+    <desc
+   id="desc6409">
+        <referenceFile
+   id="referenceFile6411">Arduino_Leonardo_Rev3(fix)_schematic.svg</referenceFile>
+    </desc>
+    <rect
+   style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round"
+   id="rect6414"
+   height="143.60663"
+   y="14.779134"
+   x="14.869281"
+   width="93.150009" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.04984"
+   y2="28.775513"
+   x1="107.64885"
+   y1="28.775513"
+   id="connector103pin"
+   gorn="0.1.1" /><g
+   id="g6417"
+   transform="translate(90.934244,29.476013)">
+            <g
+   id="g6419">
+                <g
+   id="g6421">
+                    <g
+   id="g6423">
+                        <g
+   id="g6425">
+                            <g
+   id="g6427">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6429"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10178">A15</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector103terminal"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="28.425514"
+   x="122.04984"
+   width="0.699" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="28.785759"
+   x1="0.36928058"
+   y1="28.785759"
+   id="connector105pin"
+   gorn="0.1.49" /><g
+   id="g6673"
+   transform="translate(16.169681,29.48626)">
+            <g
+   id="g6675">
+                <g
+   id="g6677">
+                    <g
+   id="g6679">
+                        <g
+   id="g6681">
+                            <g
+   id="g6683">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6685"
+   font-size="3.5">B2 (BOOT1)</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   id="g6687"
+   transform="translate(16.169681,36.68546)">
+            <g
+   id="g6689">
+                <g
+   id="g6691">
+                    <g
+   id="g6693">
+                        <g
+   id="g6695">
+                            <g
+   id="g6697">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6699"
+   font-size="3.5">B3</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector105terminal"
+   height="0.69999999"
+   gorn="0.1.52"
+   y="28.43576"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="35.98576"
+   x1="0.36928058"
+   y1="35.98576"
+   id="connector86pin"
+   gorn="0.1.53" /><rect
+   style="fill:none"
+   id="connector86terminal"
+   height="0.69999999"
+   gorn="0.1.54"
+   y="35.635761"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="50.385761"
+   x1="0.36928058"
+   y1="50.385761"
+   id="connector84pin"
+   gorn="0.1.55" /><g
+   id="g6705"
+   transform="translate(16.169681,43.88666)">
+            <g
+   id="g6707">
+                <g
+   id="g6709">
+                    <g
+   id="g6711">
+                        <g
+   id="g6713">
+                            <g
+   id="g6715">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6717"
+   font-size="3.5">B4</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   id="g6775"
+   transform="translate(16.169681,51.08876)">
+            <g
+   id="g6777">
+                <g
+   id="g6779">
+                    <g
+   id="g6781">
+                        <g
+   id="g6783">
+                            <g
+   id="g6785">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6787"
+   font-size="3.5">B5</text>
+
+
+                            <text
+   font-size="3.5"
+   id="text9997"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   y="7.7291703">B6</text>
+
+</g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector84terminal"
+   height="0.69999999"
+   gorn="0.1.62"
+   y="50.035759"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="43.18576"
+   x1="0.36928058"
+   y1="43.18576"
+   id="connector85pin"
+   gorn="0.1.63" /><rect
+   style="fill:none"
+   id="connector85terminal"
+   height="0.69999999"
+   gorn="0.1.64"
+   y="42.835758"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="36.019279"
+   y2="14.385751"
+   x1="36.019279"
+   y1="-0.014250306"
+   id="connector88pin"
+   gorn="0.1.65" /><rect
+   style="fill:none"
+   id="connector88terminal"
+   height="0.69999999"
+   gorn="0.1.66"
+   y="-0.71425027"
+   x="35.669277"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="64.785759"
+   x1="0.36928058"
+   y1="64.785759"
+   id="connector92pin"
+   gorn="0.1.67" /><g
+   id="g6795"
+   transform="translate(16.169681,65.48626)">
+            <g
+   id="g6797">
+                <g
+   id="g6799">
+                    <g
+   id="g6801">
+                        <g
+   id="g6803">
+                            <g
+   id="g6805">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6807"
+   font-size="3.5">B7</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector92terminal"
+   height="0.69999999"
+   gorn="0.1.69"
+   y="64.435753"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="71.985756"
+   x1="0.36928058"
+   y1="71.985756"
+   id="connector93pin"
+   gorn="0.1.70" /><g
+   id="g6811"
+   transform="translate(16.169681,72.68546)">
+            <g
+   id="g6813">
+                <g
+   id="g6815">
+                    <g
+   id="g6817">
+                        <g
+   id="g6819">
+                            <g
+   id="g6821">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6823"
+   font-size="3.5">B8</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector93terminal"
+   height="0.69999999"
+   gorn="0.1.72"
+   y="71.635757"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="79.185753"
+   x1="0.36928058"
+   y1="79.185753"
+   id="connector94pin"
+   gorn="0.1.73" /><g
+   id="g6827"
+   transform="translate(16.169681,79.88666)">
+            <g
+   id="g6829">
+                <g
+   id="g6831">
+                    <g
+   id="g6833">
+                        <g
+   id="g6835">
+                            <g
+   id="g6837">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6839"
+   font-size="3.5">B9</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector94terminal"
+   height="0.699"
+   gorn="0.1.75"
+   y="78.835754"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="86.385757"
+   x1="0.36928058"
+   y1="86.385757"
+   id="connector95pin"
+   gorn="0.1.76" /><g
+   id="g6843"
+   transform="translate(16.169681,87.08586)">
+            <g
+   id="g6845">
+                <g
+   id="g6847">
+                    <g
+   id="g6849">
+                        <g
+   id="g6851">
+                            <g
+   id="g6853">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6855"
+   font-size="3.5">B12</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector95terminal"
+   height="0.70099998"
+   gorn="0.1.78"
+   y="86.03476"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="93.585754"
+   x1="0.36928058"
+   y1="93.585754"
+   id="connector96pin"
+   gorn="0.1.79" /><g
+   id="g6859"
+   transform="translate(16.169681,94.28796)">
+            <g
+   id="g6861">
+                <g
+   id="g6863">
+                    <g
+   id="g6865">
+                        <g
+   id="g6867">
+                            <g
+   id="g6869">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6871"
+   font-size="3.5">C12</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector96terminal"
+   height="0.699"
+   gorn="0.1.81"
+   y="93.235756"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.769281"
+   y2="100.78477"
+   x1="0.36928058"
+   y1="100.78477"
+   id="connector97pin"
+   gorn="0.1.82" /><g
+   id="g6875"
+   transform="translate(16.169681,101.48626)">
+            <g
+   id="g6877">
+                <g
+   id="g6879">
+                    <g
+   id="g6881">
+                        <g
+   id="g6883">
+                            <g
+   id="g6885">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6887"
+   font-size="3.5">C15</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="connector97terminal"
+   height="0.69999999"
+   gorn="0.1.84"
+   y="100.43575"
+   x="-0.33071938"
+   width="0.69999999" /><line
+   style="fill:none"
+   x2="43.21928"
+   y2="-0.014258771"
+   x1="43.21928"
+   y1="14.385751"
+   id="connector89pin"
+   gorn="0.1.85" /><rect
+   style="fill:none"
+   id="connector89terminal"
+   height="0.699"
+   gorn="0.1.86"
+   y="0.014258771"
+   x="-43.569283"
+   width="0.69999999"
+   transform="scale(-1,-1)" /><line
+   style="fill:none"
+   x2="43.21928"
+   y2="-0.014258771"
+   x1="43.21928"
+   y1="14.385751"
+   id="connector90pin"
+   gorn="0.1.87" /><rect
+   style="fill:none"
+   id="connector90terminal"
+   height="0.699"
+   gorn="0.1.88"
+   y="0.014258771"
+   x="-43.569283"
+   width="0.69999999"
+   transform="scale(-1,-1)" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="43.21928"
+   y2="-0.01425877"
+   x1="43.21928"
+   y1="14.385751"
+   id="connector104pin"
+   gorn="0.1.89" /><rect
+   style="fill:none"
+   id="connector104terminal"
+   height="0.699"
+   gorn="0.1.90"
+   y="0.014258771"
+   x="-43.569283"
+   width="0.69999999"
+   transform="scale(-1,-1)" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="28.819277"
+   y2="14.385751"
+   x1="28.819277"
+   y1="-0.014250306"
+   id="connector87pin"
+   gorn="0.1.91" /><g
+   id="g6907"
+   transform="translate(5.7661769,5.3331098)">
+                                <g
+   id="g6909">
+                                    <g
+   transform="matrix(0,-1,1,0,0,0)"
+   id="g6911">
+                                        <g
+   id="g6913">
+                                            <g
+   id="g6915">
+                                                <g
+   id="g6917">
+                                                    <g
+   id="g6919">
+                                                        <g
+   id="g6921">
+                                                            <g
+   id="g6923">
+                                                                <g
+   transform="translate(-16.2953,24.2523)"
+   id="g6925">
+                                                                    <g
+   id="g6927">
+                                                                        <g
+   id="g6929">
+                                                                            <g
+   id="g6931">
+                                                                                <g
+   id="g6933">
+                                                                                    <g
+   id="g6935">
+                                                                                        <text
+   font-size="3.5"
+   id="text6937"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">3V3</text>
+
+
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g
+   transform="translate(-14.4633,31.3011)"
+   id="g6939">
+                                                                    <g
+   id="g6941">
+                                                                        <g
+   id="g6943">
+                                                                            <g
+   id="g6945">
+                                                                                <g
+   id="g6947">
+                                                                                    <g
+   id="g6949">
+                                                                                        <text
+   font-size="3.5"
+   id="text6951"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   x="-4.1905065"
+   y="0.20639396">VBAT</text>
+
+
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g
+   transform="translate(-16.2953,45.8846)"
+   id="g6953">
+                                                                    <g
+   id="g6955">
+                                                                        <g
+   id="g6957">
+                                                                            <g
+   id="g6959">
+                                                                                <g
+   id="g6961">
+                                                                                    <g
+   id="g6963">
+                                                                                        <text
+   font-size="3.5"
+   id="text6965"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans" />
+
+
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><rect
+   style="fill:none"
+   id="connector87terminal"
+   height="0.69999999"
+   gorn="0.1.93"
+   y="-0.71425027"
+   x="28.469278"
+   width="0.69999999" /><rect
+   style="fill:none"
+   id="connector91terminal"
+   height="0.69999999"
+   gorn="0.1.95"
+   y="-0.36423901"
+   x="57.269279"
+   width="0.70099998" /><g
+   id="g6983"
+   transform="translate(49.994519,87.504009)">
+            <g
+   id="g6985">
+                <g
+   id="g6987">
+                    <g
+   id="g6989">
+                        <g
+   id="g6991">
+                            <g
+   id="g6993">
+                                <text
+   style="font-size:4.25px;font-family:DroidSans"
+   font-size="4.25"
+   id="label_1_"
+   gorn="0.1.97.0.0.0.0.0.0">Espruino Board</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   id="g6996"
+   transform="translate(54.79784,92.037207)">
+            <g
+   id="g6998">
+                <g
+   id="g7000">
+                    <g
+   id="g7002">
+                        <g
+   id="g7004">
+                            <g
+   id="g7006">
+                                <text
+   style="font-size:4.25px;font-family:DroidSans"
+   font-size="4.25"
+   id="label_2_"
+   gorn="0.1.98.0.0.0.0.0.0">(rev 1v3)</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+<g
+   transform="matrix(0,-1,1,0,47.636151,21.233488)"
+   id="g9825">
+            <g
+   id="g9827">
+                <g
+   id="g9829">
+                    <g
+   id="g9831">
+                        <g
+   id="g9833">
+                            <g
+   id="g9835">
+                                <text
+   font-size="3.5"
+   id="text9837"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   x="-2.4916525"
+   y="-3.166748">GND</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.67"
+   id="line9999"
+   y1="57.585751"
+   x1="0.019277111"
+   y2="57.585751"
+   x2="14.419279"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><line
+   gorn="0.1.79"
+   id="line10070"
+   y1="107.98675"
+   x1="0.019277707"
+   y2="107.98675"
+   x2="14.419279"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(15.819678,108.68895)"
+   id="g10072">
+            <g
+   id="g10074">
+                <g
+   id="g10076">
+                    <g
+   id="g10078">
+                        <g
+   id="g10080">
+                            <g
+   id="g10082">
+                                <text
+   font-size="3.5"
+   id="text10084"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">C0</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-0.68072236"
+   y="107.63676"
+   gorn="0.1.81"
+   height="0.699"
+   id="rect10086"
+   style="fill:none" /><line
+   gorn="0.1.82"
+   id="line10088"
+   y1="115.18576"
+   x1="0.019277707"
+   y2="115.18576"
+   x2="14.419279"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(15.819678,115.88725)"
+   id="g10090">
+            <g
+   id="g10092">
+                <g
+   id="g10094">
+                    <g
+   id="g10096">
+                        <g
+   id="g10098">
+                            <g
+   id="g10100">
+                                <text
+   font-size="3.5"
+   id="text10102"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">C1</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-0.68072236"
+   y="114.83675"
+   gorn="0.1.84"
+   height="0.69999999"
+   id="rect10104"
+   style="fill:none" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.419279"
+   y2="122.38676"
+   x1="0.019278064"
+   y1="122.38676"
+   id="line10106"
+   gorn="0.1.79" /><g
+   id="g10108"
+   transform="translate(15.819678,123.08895)">
+            <g
+   id="g10110">
+                <g
+   id="g10112">
+                    <g
+   id="g10114">
+                        <g
+   id="g10116">
+                            <g
+   id="g10118">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10120"
+   font-size="3.5">C2</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10122"
+   height="0.699"
+   gorn="0.1.81"
+   y="122.03674"
+   x="-0.680722"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.419279"
+   y2="129.58575"
+   x1="0.019278064"
+   y1="129.58575"
+   id="line10124"
+   gorn="0.1.82" /><g
+   id="g10126"
+   transform="translate(15.819678,130.28725)">
+            <g
+   id="g10128">
+                <g
+   id="g10130">
+                    <g
+   id="g10132">
+                        <g
+   id="g10134">
+                            <g
+   id="g10136">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10138"
+   font-size="3.5">C3</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10140"
+   height="0.69999999"
+   gorn="0.1.84"
+   y="129.23676"
+   x="-0.680722"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.419279"
+   y2="136.78676"
+   x1="0.01927729"
+   y1="136.78676"
+   id="line10142"
+   gorn="0.1.79" /><g
+   id="g10144"
+   transform="translate(15.819678,137.48895)">
+            <g
+   id="g10146">
+                <g
+   id="g10148">
+                    <g
+   id="g10150">
+                        <g
+   id="g10152">
+                            <g
+   id="g10154">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10156"
+   font-size="3.5">A0</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10158"
+   height="0.699"
+   gorn="0.1.81"
+   y="136.43675"
+   x="-0.68072277"
+   width="0.69999999" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="14.419279"
+   y2="143.98576"
+   x1="0.01927729"
+   y1="143.98576"
+   id="line10160"
+   gorn="0.1.82" /><g
+   id="g10162"
+   transform="translate(15.819678,144.68725)">
+            <g
+   id="g10164">
+                <g
+   id="g10166">
+                    <g
+   id="g10168">
+                        <g
+   id="g10170">
+                            <g
+   id="g10172">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10174"
+   font-size="3.5">A1</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10176"
+   height="0.69999999"
+   gorn="0.1.84"
+   y="143.63675"
+   x="-0.68072277"
+   width="0.69999999" /><line
+   gorn="0.1.1"
+   id="line10182"
+   y1="35.975506"
+   x1="107.99886"
+   y2="35.975506"
+   x2="122.39983"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.284244,36.676004)"
+   id="g10184">
+            <g
+   id="g10186">
+                <g
+   id="g10188">
+                    <g
+   id="g10190">
+                        <g
+   id="g10192">
+                            <g
+   id="g10194">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10196"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10198"
+     style="text-align:end;text-anchor:end">A14</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39983"
+   y="35.625507"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10200"
+   style="fill:none" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39935"
+   y2="43.175507"
+   x1="107.99836"
+   y1="43.175507"
+   id="line10202"
+   gorn="0.1.1" /><g
+   id="g10204"
+   transform="translate(91.283753,43.876003)">
+            <g
+   id="g10206">
+                <g
+   id="g10208">
+                    <g
+   id="g10210">
+                        <g
+   id="g10212">
+                            <g
+   id="g10214">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10216"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10218">A13</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10220"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="42.825508"
+   x="122.39935"
+   width="0.699" /><line
+   gorn="0.1.1"
+   id="line10222"
+   y1="50.375504"
+   x1="107.99836"
+   y2="50.375504"
+   x2="122.39935"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.28375,51.076002)"
+   id="g10224">
+            <g
+   id="g10226">
+                <g
+   id="g10228">
+                    <g
+   id="g10230">
+                        <g
+   id="g10232">
+                            <g
+   id="g10234">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10236"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10238"
+     style="text-align:end;text-anchor:end">A10</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39935"
+   y="50.025505"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10240"
+   style="fill:none" /><line
+   gorn="0.1.1"
+   id="line10242"
+   y1="57.575508"
+   x1="107.99886"
+   y2="57.575508"
+   x2="122.39983"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.284243,58.276006)"
+   id="g10244">
+            <g
+   id="g10246">
+                <g
+   id="g10248">
+                    <g
+   id="g10250">
+                        <g
+   id="g10252">
+                            <g
+   id="g10254">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10256"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10258"
+     style="text-align:end;text-anchor:end">A9</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39983"
+   y="57.22551"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10260"
+   style="fill:none" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39983"
+   y2="64.775497"
+   x1="107.99886"
+   y1="64.775497"
+   id="line10262"
+   gorn="0.1.1" /><g
+   id="g10264"
+   transform="translate(91.28424,65.476005)">
+            <g
+   id="g10266">
+                <g
+   id="g10268">
+                    <g
+   id="g10270">
+                        <g
+   id="g10272">
+                            <g
+   id="g10274">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10276"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10278">A8</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10280"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="64.425499"
+   x="122.39983"
+   width="0.699" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39935"
+   y2="71.975494"
+   x1="107.99836"
+   y1="71.975494"
+   id="line10282"
+   gorn="0.1.1" /><g
+   id="g10284"
+   transform="translate(91.283752,72.676005)">
+            <g
+   id="g10286">
+                <g
+   id="g10288">
+                    <g
+   id="g10290">
+                        <g
+   id="g10292">
+                            <g
+   id="g10294">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10296"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10298">C11</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10300"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="71.625496"
+   x="122.39935"
+   width="0.699" /><line
+   gorn="0.1.1"
+   id="line10302"
+   y1="79.175499"
+   x1="107.99836"
+   y2="79.175499"
+   x2="122.39935"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.283749,79.876004)"
+   id="g10304">
+            <g
+   id="g10306">
+                <g
+   id="g10308">
+                    <g
+   id="g10310">
+                        <g
+   id="g10312">
+                            <g
+   id="g10314">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10316"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10318"
+     style="text-align:end;text-anchor:end">C10</tspan><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10322" /></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39935"
+   y="78.8255"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10320"
+   style="fill:none" /><line
+   gorn="0.1.1"
+   id="line10324"
+   y1="86.375496"
+   x1="107.99886"
+   y2="86.375496"
+   x2="122.39983"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.284242,87.076003)"
+   id="g10326">
+            <g
+   id="g10328">
+                <g
+   id="g10330">
+                    <g
+   id="g10332">
+                        <g
+   id="g10334">
+                            <g
+   id="g10336">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10338"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10340"
+     style="text-align:end;text-anchor:end">C9</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39983"
+   y="86.025497"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10342"
+   style="fill:none" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39983"
+   y2="93.5755"
+   x1="107.99886"
+   y1="93.5755"
+   id="line10344"
+   gorn="0.1.1" /><g
+   id="g10346"
+   transform="translate(91.284239,94.276002)">
+            <g
+   id="g10348">
+                <g
+   id="g10350">
+                    <g
+   id="g10352">
+                        <g
+   id="g10354">
+                            <g
+   id="g10356">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10358"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10360">C8</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10364"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="93.225502"
+   x="122.39983"
+   width="0.699" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39983"
+   y2="100.7755"
+   x1="107.99886"
+   y1="100.7755"
+   id="line10366"
+   gorn="0.1.1" /><g
+   id="g10368"
+   transform="translate(91.284243,101.476)">
+            <g
+   id="g10370">
+                <g
+   id="g10372">
+                    <g
+   id="g10374">
+                        <g
+   id="g10376">
+                            <g
+   id="g10378">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10380"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10382">C7</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10384"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="100.42551"
+   x="122.39983"
+   width="0.699" /><line
+   gorn="0.1.1"
+   id="line10386"
+   y1="107.97552"
+   x1="107.99886"
+   y2="107.97552"
+   x2="122.39983"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.28424,108.676)"
+   id="g10388">
+            <g
+   id="g10390">
+                <g
+   id="g10392">
+                    <g
+   id="g10394">
+                        <g
+   id="g10396">
+                            <g
+   id="g10398">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10400"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10402"
+     style="text-align:end;text-anchor:end">C6</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39983"
+   y="107.6255"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10404"
+   style="fill:none" /><line
+   gorn="0.1.1"
+   id="line10406"
+   y1="115.17551"
+   x1="107.99886"
+   y2="115.17551"
+   x2="122.39983"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.284245,115.876)"
+   id="g10408">
+            <g
+   id="g10410">
+                <g
+   id="g10412">
+                    <g
+   id="g10414">
+                        <g
+   id="g10416">
+                            <g
+   id="g10418">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10420"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10422"
+     style="text-align:end;text-anchor:end">C5</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39983"
+   y="114.8255"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10424"
+   style="fill:none" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39983"
+   y2="122.37547"
+   x1="107.99886"
+   y1="122.37547"
+   id="line10426"
+   gorn="0.1.1" /><g
+   id="g10428"
+   transform="translate(91.284242,123.076)">
+            <g
+   id="g10430">
+                <g
+   id="g10432">
+                    <g
+   id="g10434">
+                        <g
+   id="g10436">
+                            <g
+   id="g10438">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10440"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10442">C4</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10444"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="122.0255"
+   x="122.39983"
+   width="0.699" /><line
+   gorn="0.1.1"
+   id="line10446"
+   y1="129.57553"
+   x1="107.99886"
+   y2="129.57553"
+   x2="122.39983"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.284245,130.27602)"
+   id="g10448">
+            <g
+   id="g10450">
+                <g
+   id="g10452">
+                    <g
+   id="g10454">
+                        <g
+   id="g10456">
+                            <g
+   id="g10458">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10460"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10462"
+     style="text-align:end;text-anchor:end">B15</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39983"
+   y="129.22552"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10464"
+   style="fill:none" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39983"
+   y2="136.77553"
+   x1="107.99886"
+   y1="136.77553"
+   id="line10466"
+   gorn="0.1.1" /><g
+   id="g10468"
+   transform="translate(91.284242,137.47602)">
+            <g
+   id="g10470">
+                <g
+   id="g10472">
+                    <g
+   id="g10474">
+                        <g
+   id="g10476">
+                            <g
+   id="g10478">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10480"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10482">B14</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10484"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="136.42552"
+   x="122.39983"
+   width="0.699" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.39983"
+   y2="143.97552"
+   x1="107.99886"
+   y1="143.97552"
+   id="line10486"
+   gorn="0.1.1" /><g
+   id="g10488"
+   transform="translate(91.284247,144.67602)">
+            <g
+   id="g10490">
+                <g
+   id="g10492">
+                    <g
+   id="g10494">
+                        <g
+   id="g10496">
+                            <g
+   id="g10498">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10500"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10502">B13</tspan></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   style="fill:none"
+   id="rect10504"
+   height="0.69999999"
+   gorn="0.1.3"
+   y="143.62552"
+   x="122.39983"
+   width="0.699" /><g
+   transform="translate(70.385401,151.17552)"
+   id="g10508">
+            <g
+   id="g10510">
+                <g
+   id="g10512">
+                    <g
+   id="g10514">
+                        <g
+   id="g10516">
+                            <g
+   id="g10518">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10520"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10522"
+     style="text-align:end;text-anchor:end" /></text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.699"
+   x="122.39983"
+   y="150.82553"
+   gorn="0.1.3"
+   height="0.69999999"
+   id="rect10524"
+   style="fill:none" /><line
+   gorn="0.1.65"
+   id="line10526"
+   y1="-0.014250426"
+   x1="72.019287"
+   y2="14.385751"
+   x2="72.019287"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><rect
+   width="0.69999999"
+   x="71.669289"
+   y="-0.71425039"
+   gorn="0.1.66"
+   height="0.69999999"
+   id="rect10528"
+   style="fill:none" /><line
+   gorn="0.1.91"
+   id="line10530"
+   y1="-0.014250426"
+   x1="64.819283"
+   y2="14.385751"
+   x2="64.819283"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(41.766179,5.3331096)"
+   id="g10532">
+                                <g
+   id="g10534">
+                                    <g
+   id="g10536"
+   transform="matrix(0,-1,1,0,0,0)">
+                                        <g
+   id="g10538">
+                                            <g
+   id="g10540">
+                                                <g
+   id="g10542">
+                                                    <g
+   id="g10544">
+                                                        <g
+   id="g10546">
+                                                            <g
+   id="g10548">
+                                                                <g
+   id="g10550"
+   transform="translate(-16.2953,24.2523)">
+                                                                    <g
+   id="g10552">
+                                                                        <g
+   id="g10554">
+                                                                            <g
+   id="g10556">
+                                                                                <g
+   id="g10558">
+                                                                                    <g
+   id="g10560">
+                                                                                        <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10562"
+   font-size="3.5">RST</text>
+
+
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g
+   id="g10564"
+   transform="translate(-14.4633,31.3011)">
+                                                                    <g
+   id="g10566">
+                                                                        <g
+   id="g10568">
+                                                                            <g
+   id="g10570">
+                                                                                <g
+   id="g10572">
+                                                                                    <g
+   id="g10574">
+                                                                                        <text
+   y="0.2038348"
+   x="-7.3837013"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10576"
+   font-size="3.5">BOOT0</text>
+
+
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g
+   id="g10578"
+   transform="translate(-16.2953,45.8846)">
+                                                                    <g
+   id="g10580">
+                                                                        <g
+   id="g10582">
+                                                                            <g
+   id="g10584">
+                                                                                <g
+   id="g10586">
+                                                                                    <g
+   id="g10588">
+                                                                                        <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10590"
+   font-size="3.5" />
+
+
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><rect
+   width="0.69999999"
+   x="64.469284"
+   y="-0.71425039"
+   gorn="0.1.93"
+   height="0.69999999"
+   id="rect10592"
+   style="fill:none" /><line
+   gorn="0.1.49"
+   id="line10594"
+   y1="172.78577"
+   x1="28.819283"
+   y2="158.38576"
+   x2="28.819283"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,29.519781,156.98537)"
+   id="g10596">
+            <g
+   id="g10598">
+                <g
+   id="g10600">
+                    <g
+   id="g10602">
+                        <g
+   id="g10604">
+                            <g
+   id="g10606">
+                                <text
+   font-size="3.5"
+   id="text10608"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">A2</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,36.718981,156.98537)"
+   id="g10610">
+            <g
+   id="g10612">
+                <g
+   id="g10614">
+                    <g
+   id="g10616">
+                        <g
+   id="g10618">
+                            <g
+   id="g10620">
+                                <text
+   font-size="3.5"
+   id="text10622"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">A3</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="28.469284"
+   gorn="0.1.52"
+   height="0.69999999"
+   id="rect10624"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.53"
+   id="line10626"
+   y1="172.78577"
+   x1="36.019279"
+   y2="158.38576"
+   x2="36.019279"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="35.669281"
+   gorn="0.1.54"
+   height="0.69999999"
+   id="rect10628"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.55"
+   id="line10630"
+   y1="172.78577"
+   x1="50.419281"
+   y2="158.38576"
+   x2="50.419281"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,43.920181,156.98537)"
+   id="g10632">
+            <g
+   id="g10634">
+                <g
+   id="g10636">
+                    <g
+   id="g10638">
+                        <g
+   id="g10640">
+                            <g
+   id="g10642">
+                                <text
+   font-size="3.5"
+   id="text10644"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">A4</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,51.122282,156.98537)"
+   id="g10646">
+            <g
+   id="g10648">
+                <g
+   id="g10650">
+                    <g
+   id="g10652">
+                        <g
+   id="g10654">
+                            <g
+   id="g10656">
+                                <text
+   font-size="3.5"
+   id="text10658"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">A5</text>
+
+
+                            <text
+   y="7.7291703"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10660"
+   font-size="3.5">A6</text>
+
+</g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="50.069283"
+   gorn="0.1.62"
+   height="0.69999999"
+   id="rect10662"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.63"
+   id="line10664"
+   y1="172.78577"
+   x1="43.219284"
+   y2="158.38576"
+   x2="43.219284"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="42.869278"
+   gorn="0.1.64"
+   height="0.69999999"
+   id="rect10666"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.67"
+   id="line10668"
+   y1="172.78577"
+   x1="64.81929"
+   y2="158.38576"
+   x2="64.81929"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,65.519782,156.98537)"
+   id="g10670">
+            <g
+   id="g10672">
+                <g
+   id="g10674">
+                    <g
+   id="g10676">
+                        <g
+   id="g10678">
+                            <g
+   id="g10680">
+                                <text
+   font-size="3.5"
+   id="text10682"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">A7</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="64.469276"
+   gorn="0.1.69"
+   height="0.69999999"
+   id="rect10684"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.70"
+   id="line10686"
+   y1="172.78577"
+   x1="72.019287"
+   y2="158.38576"
+   x2="72.019287"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,72.718982,156.98537)"
+   id="g10688">
+            <g
+   id="g10690">
+                <g
+   id="g10692">
+                    <g
+   id="g10694">
+                        <g
+   id="g10696">
+                            <g
+   id="g10698">
+                                <text
+   font-size="3.5"
+   id="text10700"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B0</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="71.669289"
+   gorn="0.1.72"
+   height="0.69999999"
+   id="rect10702"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.73"
+   id="line10704"
+   y1="172.78577"
+   x1="79.219284"
+   y2="158.38576"
+   x2="79.219284"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,79.920182,156.98537)"
+   id="g10706">
+            <g
+   id="g10708">
+                <g
+   id="g10710">
+                    <g
+   id="g10712">
+                        <g
+   id="g10714">
+                            <g
+   id="g10716">
+                                <text
+   font-size="3.5"
+   id="text10718"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B1</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="78.869293"
+   gorn="0.1.75"
+   height="0.699"
+   id="rect10720"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.76"
+   id="line10722"
+   y1="172.78577"
+   x1="86.419296"
+   y2="158.38576"
+   x2="86.419296"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,87.119382,156.98537)"
+   id="g10724">
+            <g
+   id="g10726">
+                <g
+   id="g10728">
+                    <g
+   id="g10730">
+                        <g
+   id="g10732">
+                            <g
+   id="g10734">
+                                <text
+   font-size="3.5"
+   id="text10736"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B10</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="86.068298"
+   gorn="0.1.78"
+   height="0.70099998"
+   id="rect10738"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   gorn="0.1.79"
+   id="line10740"
+   y1="172.78577"
+   x1="93.619293"
+   y2="158.38576"
+   x2="93.619293"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,94.321482,156.98537)"
+   id="g10742">
+            <g
+   id="g10744">
+                <g
+   id="g10746">
+                    <g
+   id="g10748">
+                        <g
+   id="g10750">
+                            <g
+   id="g10752">
+                                <text
+   font-size="3.5"
+   id="text10754"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B11</text>
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><rect
+   width="0.69999999"
+   x="-173.48576"
+   y="93.269287"
+   gorn="0.1.81"
+   height="0.699"
+   id="rect10756"
+   style="fill:none"
+   transform="matrix(0,-1,1,0,0,0)" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="57.61927"
+   y2="158.73576"
+   x1="57.61927"
+   y1="173.13576"
+   id="line10758"
+   gorn="0.1.67" /></svg>
