@@ -1,2007 +1,842 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5.70861in"
-   x="0px"
-   version="1.1"
-   y="0px"
-   gorn="0"
-   height="7.59847in"
-   viewBox="0 0 411.02 547.09"
-   id="Layer_1"
-   enable-background="new 0 0 411.02 547.09"
-   xml:space="preserve"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="svg.icon.Espruino_8e1efbaf4636b366bccfde1f53fdc607_6_icon.svg"><metadata
-   id="metadata5328"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs5326" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="1358"
-   inkscape:window-height="1018"
-   id="namedview5324"
-   showgrid="false"
-   inkscape:zoom="0.97608655"
-   inkscape:cx="42.653668"
-   inkscape:cy="387.3681"
-   inkscape:window-x="0"
-   inkscape:window-y="24"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
-    <desc
-   id="desc4550">
-        <referenceFile
-   id="referenceFile4552">Espruino.svg</referenceFile>
-    </desc>
-    <rect
-   width="411"
-   x="0.01"
-   y="0.545"
-   fill="#24AE5A"
-   height="546"
-   id="rect4554" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="28.212"
-   r="7.667"
-   id="circle4556" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="54.879"
-   r="7.667"
-   id="circle4558" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="79.879"
-   r="7.667"
-   id="circle4560" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="106.546"
-   r="7.667"
-   id="circle4562" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="131.879"
-   r="7.667"
-   id="circle4564" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="158.213"
-   r="7.667"
-   id="circle4566" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="183.546"
-   r="7.667"
-   id="circle4568" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="210.213"
-   r="7.667"
-   id="circle4570" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="235.213"
-   r="7.667"
-   id="circle4572" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="183.546"
-   r="7.667"
-   id="circle4574" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="210.213"
-   r="7.667"
-   id="circle4576" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="235.213"
-   r="7.667"
-   id="circle4578" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="235.213"
-   r="7.667"
-   id="circle4580" />
-    <circle
-   fill="#7EAB99"
-   cx="308.337"
-   cy="235.213"
-   r="7.667"
-   id="circle4582" />
-    <circle
-   fill="#7EAB99"
-   cx="282.338"
-   cy="235.213"
-   r="7.667"
-   id="circle4584" />
-    <circle
-   fill="#7EAB99"
-   cx="257.004"
-   cy="235.213"
-   r="7.667"
-   id="circle4586" />
-    <circle
-   fill="#7EAB99"
-   cx="231.005"
-   cy="235.213"
-   r="7.667"
-   id="circle4588" />
-    <circle
-   fill="#7EAB99"
-   cx="205.671"
-   cy="235.213"
-   r="7.667"
-   id="circle4590" />
-    <circle
-   fill="#7EAB99"
-   cx="180.338"
-   cy="235.213"
-   r="7.667"
-   id="circle4592" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="235.213"
-   r="7.667"
-   id="circle4594" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   cy="235.213"
-   r="7.667"
-   id="circle4596" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="262.213"
-   r="7.667"
-   id="circle4598" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="287.489"
-   r="7.667"
-   id="circle4600" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="314.156"
-   r="7.667"
-   id="circle4602" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="340.156"
-   r="7.667"
-   id="circle4604" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="366.489"
-   r="7.667"
-   id="circle4606" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="392.457"
-   r="7.667"
-   id="circle4608" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="418.457"
-   r="7.667"
-   id="circle4610" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="444.79"
-   r="7.667"
-   id="circle4612" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="469.124"
-   r="7.667"
-   id="circle4614" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="495.124"
-   r="7.667"
-   id="circle4616" />
-    <circle
-   fill="#7EAB99"
-   cx="384.005"
-   cy="521.457"
-   r="7.667"
-   id="circle4618" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="28.212"
-   r="7.667"
-   id="circle4620" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="54.879"
-   r="7.667"
-   id="circle4622" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="79.879"
-   r="7.667"
-   id="circle4624" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="106.546"
-   r="7.667"
-   id="circle4626" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="131.879"
-   r="7.667"
-   id="circle4628" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="158.213"
-   r="7.667"
-   id="circle4630" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="183.546"
-   r="7.667"
-   id="circle4632" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="210.213"
-   r="7.667"
-   id="circle4634" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="235.213"
-   r="7.667"
-   id="circle4636" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="262.213"
-   r="7.667"
-   id="circle4638" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="287.489"
-   r="7.667"
-   id="circle4640" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="314.156"
-   r="7.667"
-   id="circle4642" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="340.156"
-   r="7.667"
-   id="circle4644" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="366.489"
-   r="7.667"
-   id="circle4646" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="392.457"
-   r="7.667"
-   id="circle4648" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="418.457"
-   r="7.667"
-   id="circle4650" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="444.79"
-   r="7.667"
-   id="circle4652" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="469.124"
-   r="7.667"
-   id="circle4654" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="495.124"
-   r="7.667"
-   id="circle4656" />
-    <circle
-   fill="#7EAB99"
-   cx="27.608"
-   cy="521.457"
-   r="7.667"
-   id="circle4658" />
-    <circle
-   fill="#7EAB99"
-   cx="52.608"
-   cy="444.79"
-   r="7.667"
-   id="circle4660" />
-    <circle
-   fill="#7EAB99"
-   cx="52.608"
-   cy="469.124"
-   r="7.667"
-   id="circle4662" />
-    <circle
-   fill="#7EAB99"
-   cx="52.608"
-   cy="495.124"
-   r="7.667"
-   id="circle4664" />
-    <circle
-   fill="#7EAB99"
-   cx="52.608"
-   cy="521.457"
-   r="7.667"
-   id="circle4666" />
-    <circle
-   fill="#7EAB99"
-   cx="78.941"
-   cy="444.79"
-   r="7.667"
-   id="circle4668" />
-    <circle
-   fill="#7EAB99"
-   cx="78.941"
-   cy="469.124"
-   r="7.667"
-   id="circle4670" />
-    <circle
-   fill="#7EAB99"
-   cx="78.941"
-   cy="495.124"
-   r="7.667"
-   id="circle4672" />
-    <circle
-   fill="#7EAB99"
-   cx="78.941"
-   cy="521.457"
-   r="7.667"
-   id="circle4674" />
-    <circle
-   fill="#7EAB99"
-   cx="104.607"
-   cy="444.79"
-   r="7.667"
-   id="circle4676" />
-    <circle
-   fill="#7EAB99"
-   cx="104.607"
-   cy="469.124"
-   r="7.667"
-   id="circle4678" />
-    <circle
-   fill="#7EAB99"
-   cx="104.607"
-   cy="495.124"
-   r="7.667"
-   id="circle4680" />
-    <circle
-   fill="#7EAB99"
-   cx="104.607"
-   cy="521.457"
-   r="7.667"
-   id="circle4682" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="287.489"
-   r="7.667"
-   id="circle4684" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="314.156"
-   r="7.667"
-   id="circle4686" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="340.156"
-   r="7.667"
-   id="circle4688" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="366.489"
-   r="7.667"
-   id="circle4690" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="392.457"
-   r="7.667"
-   id="circle4692" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="418.457"
-   r="7.667"
-   id="circle4694" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="444.79"
-   r="7.667"
-   id="circle4696" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="469.124"
-   r="7.667"
-   id="circle4698" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="495.124"
-   r="7.667"
-   id="circle4700" />
-    <circle
-   fill="#7EAB99"
-   cx="358.671"
-   cy="521.457"
-   r="7.667"
-   id="circle4702" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="287.489"
-   r="7.667"
-   id="circle4704" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="314.156"
-   r="7.667"
-   id="circle4706" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="340.156"
-   r="7.667"
-   id="circle4708" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="366.489"
-   r="7.667"
-   id="circle4710" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="392.457"
-   r="7.667"
-   id="circle4712" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="418.457"
-   r="7.667"
-   id="circle4714" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="444.79"
-   r="7.667"
-   id="circle4716" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="469.124"
-   r="7.667"
-   id="circle4718" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="495.124"
-   r="7.667"
-   id="circle4720" />
-    <circle
-   fill="#7EAB99"
-   cx="333.671"
-   cy="521.457"
-   r="7.667"
-   id="circle4722" />
-    <circle
-   fill="#7EAB99"
-   cx="309.339"
-   cy="495.124"
-   r="7.667"
-   id="circle4724" />
-    <circle
-   fill="#7EAB99"
-   cx="309.339"
-   cy="521.457"
-   r="7.667"
-   id="circle4726" />
-    <circle
-   fill="#7EAB99"
-   cx="284.005"
-   cy="495.124"
-   r="7.667"
-   id="circle4728" />
-    <circle
-   fill="#7EAB99"
-   cx="284.005"
-   cy="521.457"
-   r="7.667"
-   id="circle4730" />
-    <circle
-   fill="#7EAB99"
-   cx="259.005"
-   cy="495.124"
-   r="7.667"
-   id="circle4732" />
-    <circle
-   fill="#7EAB99"
-   cx="259.005"
-   cy="521.457"
-   r="7.667"
-   id="circle4734" />
-    <circle
-   fill="#7EAB99"
-   cx="231.672"
-   cy="495.124"
-   r="7.667"
-   id="circle4736" />
-    <circle
-   fill="#7EAB99"
-   cx="231.672"
-   cy="521.457"
-   r="7.667"
-   id="circle4738" />
-    <circle
-   fill="#7EAB99"
-   cx="206.338"
-   cy="495.124"
-   r="7.667"
-   id="circle4740" />
-    <circle
-   fill="#7EAB99"
-   cx="206.338"
-   cy="521.457"
-   r="7.667"
-   id="circle4742" />
-    <circle
-   fill="#7EAB99"
-   cx="181.338"
-   cy="495.124"
-   r="7.667"
-   id="circle4744" />
-    <circle
-   fill="#7EAB99"
-   cx="181.338"
-   cy="521.457"
-   r="7.667"
-   id="circle4746" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="287.489"
-   r="7.667"
-   id="circle4748" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="314.156"
-   r="7.667"
-   id="circle4750" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="340.156"
-   r="7.667"
-   id="circle4752" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="366.489"
-   r="7.667"
-   id="circle4754" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="392.457"
-   r="7.667"
-   id="circle4756" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="418.457"
-   r="7.667"
-   id="circle4758" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="444.79"
-   r="7.667"
-   id="circle4760" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="469.124"
-   r="7.667"
-   id="circle4762" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="495.124"
-   r="7.667"
-   id="circle4764" />
-    <circle
-   fill="#7EAB99"
-   cx="155.004"
-   cy="521.457"
-   r="7.667"
-   id="circle4766" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   cy="287.489"
-   r="7.667"
-   id="circle4768" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   cy="314.156"
-   r="7.667"
-   id="circle4770" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   cy="340.156"
-   r="7.667"
-   id="circle4772" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   cy="366.489"
-   r="7.667"
-   id="circle4774" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   cy="392.457"
-   r="7.667"
-   id="circle4776" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   cy="418.457"
-   r="7.667"
-   id="circle4778" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   gorn="0.114"
-   cy="444.79"
-   id="connector_8_"
-   r="7.667" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   gorn="0.115"
-   cy="469.124"
-   id="connector_3_"
-   r="7.667" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   gorn="0.116"
-   cy="495.124"
-   id="connector_2_"
-   r="7.667" />
-    <circle
-   fill="#7EAB99"
-   cx="129.671"
-   gorn="0.117"
-   cy="521.457"
-   id="connector_1_"
-   r="7.667" />
-    <g
-   id="g4784">
-        <path
-   fill="#929C83"
-   d="M112.608,287.294c0,3.131-2.538,5.669-5.669,5.669H58.277c-3.131,0-5.669-2.538-5.669-5.669v-50.162c0-3.131,2.538-5.669,5.669-5.669h48.662c3.131,0,5.669,2.538,5.669,5.669V287.294z"
-   id="path4786" />
-        <circle
-   fill="#534637"
-   cx="84.014"
-   cy="262.213"
-   r="18.25"
-   id="circle4788" />
-        <circle
-   fill="#958671"
-   cx="62.01"
-   cy="240.963"
-   r="5.75"
-   id="circle4790" />
-        <circle
-   fill="#958671"
-   cx="104.51"
-   cy="240.963"
-   r="5.75"
-   id="circle4792" />
-        <circle
-   fill="#958671"
-   cx="62.01"
-   cy="284.463"
-   r="5.75"
-   id="circle4794" />
-        <circle
-   fill="#958671"
-   cx="104.51"
-   cy="284.463"
-   r="5.75"
-   id="circle4796" />
-    </g>
-    <g
-   id="g4798">
-        <path
-   fill="#929C83"
-   d="M112.608,405.121c0,3.131-2.538,5.669-5.669,5.669H58.277c-3.131,0-5.669-2.538-5.669-5.669v-50.162c0-3.131,2.538-5.669,5.669-5.669h48.662c3.131,0,5.669,2.538,5.669,5.669V405.121z"
-   id="path4800" />
-        <circle
-   fill="#534637"
-   cx="84.014"
-   cy="380.04"
-   r="18.25"
-   id="circle4802" />
-        <circle
-   fill="#958671"
-   cx="62.01"
-   cy="358.79"
-   r="5.75"
-   id="circle4804" />
-        <circle
-   fill="#958671"
-   cx="104.51"
-   cy="358.79"
-   r="5.75"
-   id="circle4806" />
-        <circle
-   fill="#958671"
-   cx="62.01"
-   cy="402.29"
-   r="5.75"
-   id="circle4808" />
-        <circle
-   fill="#958671"
-   cx="104.51"
-   cy="402.29"
-   r="5.75"
-   id="circle4810" />
-    </g>
-    <rect
-   width="34.504"
-   x="67.76"
-   y="114.213"
-   fill="#2A2D26"
-   height="65.332"
-   id="rect4812" />
-    <rect
-   width="97"
-   x="221.01"
-   y="76.045"
-   fill="#2A2D26"
-   height="99.834"
-   id="rect4814" />
-    <rect
-   width="33"
-   x="129.671"
-   y="38.045"
-   fill="#2A2D26"
-   height="49.501"
-   id="rect4816" />
-    <rect
-   width="82.161"
-   x="47.51"
-   y="6.545"
-   fill="#FAF9DD"
-   height="63.5"
-   id="rect4818" />
-    <rect
-   width="11"
-   x="65.01"
-   y="26.045"
-   fill="#736C47"
-   height="34"
-   id="rect4820" />
-    <rect
-   width="11"
-   x="65.01"
-   y="60.045"
-   fill="#D5D1AE"
-   height="10"
-   id="rect4822" />
-    <rect
-   width="11"
-   x="102.264"
-   y="26.045"
-   fill="#736C47"
-   height="34"
-   id="rect4824" />
-    <rect
-   width="11"
-   x="102.264"
-   y="60.045"
-   fill="#D5D1AE"
-   height="10"
-   id="rect4826" />
-    <g
-   id="g4828">
-        <rect
-   width="4"
-   x="206.511"
-   y="188.545"
-   fill="#FEFDF2"
-   height="8"
-   id="rect4830" />
-        <rect
-   width="7.667"
-   x="210.511"
-   y="188.545"
-   fill="#867751"
-   height="8"
-   id="rect4832" />
-        <rect
-   width="4"
-   x="218.178"
-   y="188.545"
-   fill="#FEFDF2"
-   height="8"
-   id="rect4834" />
-    </g>
-    <g
-   id="g4836">
-        <rect
-   width="4"
-   x="304.343"
-   y="196.545"
-   fill="#FEFDF2"
-   height="8"
-   id="rect4838" />
-        <rect
-   width="7.667"
-   x="308.343"
-   y="196.545"
-   fill="#867751"
-   height="8"
-   id="rect4840" />
-        <rect
-   width="4"
-   x="316.01"
-   y="196.545"
-   fill="#FEFDF2"
-   height="8"
-   id="rect4842" />
-    </g>
-    <g
-   id="g4844">
-        <rect
-   width="4"
-   x="325.677"
-   y="71.211"
-   fill="#FEFDF2"
-   height="8"
-   id="rect4846" />
-        <rect
-   width="7.667"
-   x="329.677"
-   y="71.211"
-   fill="#867751"
-   height="8"
-   id="rect4848" />
-        <rect
-   width="4"
-   x="337.344"
-   y="71.211"
-   fill="#FEFDF2"
-   height="8"
-   id="rect4850" />
-    </g>
-    <g
-   id="g4852">
-        <rect
-   width="8"
-   x="208.511"
-   y="59.544"
-   fill="#FEFDF2"
-   height="4"
-   id="rect4854" />
-        <rect
-   width="8"
-   x="208.511"
-   y="63.544"
-   fill="#867751"
-   height="7.667"
-   id="rect4856" />
-        <rect
-   width="8"
-   x="208.511"
-   y="71.211"
-   fill="#FEFDF2"
-   height="4"
-   id="rect4858" />
-    </g>
-    <rect
-   width="63"
-   x="246.677"
-   y="274.212"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4860" />
-    <rect
-   width="63"
-   x="246.677"
-   y="287.489"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4862" />
-    <rect
-   width="63"
-   x="246.677"
-   y="300.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4864" />
-    <rect
-   width="63"
-   x="246.677"
-   y="313.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4866" />
-    <rect
-   width="63"
-   x="246.677"
-   y="326.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4868" />
-    <rect
-   width="63"
-   x="246.677"
-   y="339.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4870" />
-    <rect
-   width="63"
-   x="246.677"
-   y="352.878"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4872" />
-    <rect
-   width="63"
-   x="246.677"
-   y="366.155"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4874" />
-    <rect
-   width="63"
-   x="246.677"
-   y="378.212"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4876" />
-    <rect
-   width="63"
-   x="246.677"
-   y="391.489"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4878" />
-    <rect
-   width="63"
-   x="246.677"
-   y="404.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4880" />
-    <rect
-   width="63"
-   x="246.677"
-   y="417.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4882" />
-    <rect
-   width="63"
-   x="246.677"
-   y="430.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4884" />
-    <rect
-   width="63"
-   x="246.677"
-   y="443.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4886" />
-    <rect
-   width="63"
-   x="246.677"
-   y="456.878"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4888" />
-    <rect
-   width="63"
-   x="246.677"
-   y="470.155"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4890" />
-    <rect
-   width="63"
-   x="175.011"
-   y="274.212"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4892" />
-    <rect
-   width="63"
-   x="175.011"
-   y="287.489"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4894" />
-    <rect
-   width="63"
-   x="175.011"
-   y="300.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4896" />
-    <rect
-   width="63"
-   x="175.011"
-   y="313.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4898" />
-    <rect
-   width="63"
-   x="175.011"
-   y="326.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4900" />
-    <rect
-   width="63"
-   x="175.011"
-   y="339.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4902" />
-    <rect
-   width="63"
-   x="175.011"
-   y="352.878"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4904" />
-    <rect
-   width="63"
-   x="175.011"
-   y="366.155"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4906" />
-    <rect
-   width="63"
-   x="175.011"
-   y="378.212"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4908" />
-    <rect
-   width="63"
-   x="175.011"
-   y="391.489"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4910" />
-    <rect
-   width="63"
-   x="175.011"
-   y="404.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4912" />
-    <rect
-   width="63"
-   x="175.011"
-   y="417.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4914" />
-    <rect
-   width="63"
-   x="175.011"
-   y="430.545"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4916" />
-    <rect
-   width="63"
-   x="175.011"
-   y="443.822"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4918" />
-    <rect
-   width="63"
-   x="175.011"
-   y="456.878"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4920" />
-    <rect
-   width="63"
-   x="175.011"
-   y="470.155"
-   fill="#E3F1E2"
-   height="5.333"
-   id="rect4922" />
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 21.1929)"
-   id="g4924">
-        <g
-   id="g4926">
-            <g
-   id="g4928">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4930">B2</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 20.1929)"
-   id="g4932">
-        <g
-   id="g4934">
-            <g
-   id="g4936">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4938">A15</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 45.2124)"
-   id="g4940">
-        <g
-   id="g4942">
-            <g
-   id="g4944">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4946">A14</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 71.2114)"
-   id="g4948">
-        <g
-   id="g4950">
-            <g
-   id="g4952">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4954">A13</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 98.5454)"
-   id="g4956">
-        <g
-   id="g4958">
-            <g
-   id="g4960">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4962">A10</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 126.5454)"
-   id="g4964">
-        <g
-   id="g4966">
-            <g
-   id="g4968">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4970">A9</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 152.5459)"
-   id="g4972">
-        <g
-   id="g4974">
-            <g
-   id="g4976">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4978">A8</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 174.5454)"
-   id="g4980">
-        <g
-   id="g4982">
-            <g
-   id="g4984">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4986">C11</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 201.5454)"
-   id="g4988">
-        <g
-   id="g4990">
-            <g
-   id="g4992">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text4994">C10</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 229.5459)"
-   id="g4996">
-        <g
-   id="g4998">
-            <g
-   id="g5000">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5002">C9</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 256.8794)"
-   id="g5004">
-        <g
-   id="g5006">
-            <g
-   id="g5008">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5010">C8</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 280.8799)"
-   id="g5012">
-        <g
-   id="g5014">
-            <g
-   id="g5016">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5018">C7</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 307.4902)"
-   id="g5020">
-        <g
-   id="g5022">
-            <g
-   id="g5024">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5026">C6</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 334.8779)"
-   id="g5028">
-        <g
-   id="g5030">
-            <g
-   id="g5032">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5034">C5</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 360.2119)"
-   id="g5036">
-        <g
-   id="g5038">
-            <g
-   id="g5040">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5042">C4</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 383.5459)"
-   id="g5044">
-        <g
-   id="g5046">
-            <g
-   id="g5048">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5050">B15</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 408.8789)"
-   id="g5052">
-        <g
-   id="g5054">
-            <g
-   id="g5056">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5058">B14</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.8184 436.123)"
-   id="g5060">
-        <g
-   id="g5062">
-            <g
-   id="g5064">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5066">B13</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 49.2124)"
-   id="g5068">
-        <g
-   id="g5070">
-            <g
-   id="g5072">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5074">B3</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 73.5459)"
-   id="g5076">
-        <g
-   id="g5078">
-            <g
-   id="g5080">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5082">B4</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 99.5459)"
-   id="g5084">
-        <g
-   id="g5086">
-            <g
-   id="g5088">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5090">B5</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 126.2124)"
-   id="g5092">
-        <g
-   id="g5094">
-            <g
-   id="g5096">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5098">B6</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 150.5459)"
-   id="g5100">
-        <g
-   id="g5102">
-            <g
-   id="g5104">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5106">B7</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 122.0039 259.731)"
-   id="g5108">
-        <g
-   id="g5110">
-            <g
-   id="g5112">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5114">A2</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 147.3374 259.731)"
-   id="g5116">
-        <g
-   id="g5118">
-            <g
-   id="g5120">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5122">A3</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 172.6714 259.731)"
-   id="g5124">
-        <g
-   id="g5126">
-            <g
-   id="g5128">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5130">A4</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 198.0044 259.731)"
-   id="g5132">
-        <g
-   id="g5134">
-            <g
-   id="g5136">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5138">A5</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 226.6709 259.731)"
-   id="g5140">
-        <g
-   id="g5142">
-            <g
-   id="g5144">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5146">A6</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 251.0039 259.731)"
-   id="g5148">
-        <g
-   id="g5150">
-            <g
-   id="g5152">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5154">A7</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 274.6709 259.731)"
-   id="g5156">
-        <g
-   id="g5158">
-            <g
-   id="g5160">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5162">B0</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 299.0039 259.731)"
-   id="g5164">
-        <g
-   id="g5166">
-            <g
-   id="g5168">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5170">B1</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 323.3379 259.731)"
-   id="g5172">
-        <g
-   id="g5174">
-            <g
-   id="g5176">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5178">B10</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(1 0 0 1 351.0039 259.731)"
-   id="g5180">
-        <g
-   id="g5182">
-            <g
-   id="g5184">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5186">B11</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 176.8789)"
-   id="g5188">
-        <g
-   id="g5190">
-            <g
-   id="g5192">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5194">B8</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 204.5454)"
-   id="g5196">
-        <g
-   id="g5198">
-            <g
-   id="g5200">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5202">B9</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 224.5459)"
-   id="g5204">
-        <g
-   id="g5206">
-            <g
-   id="g5208">
-                <text
-   font-size="12"
-   id="text5210"
-   style="font-size:12px;fill:#c0e0b8;font-family:Droid Sans">B12</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 252.5459)"
-   id="g5212">
-        <g
-   id="g5214">
-            <g
-   id="g5216">
-                <text
-   font-size="12"
-   id="text5218"
-   style="font-size:12px;fill:#c0e0b8;font-family:Droid Sans">C12</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 277.4629)"
-   id="g5220">
-        <g
-   id="g5222">
-            <g
-   id="g5224">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5226">C15</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 308.1299)"
-   id="g5228">
-        <g
-   id="g5230">
-            <g
-   id="g5232">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5234">C0</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 333.4629)"
-   id="g5236">
-        <g
-   id="g5238">
-            <g
-   id="g5240">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5242">C1</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 359.79)"
-   id="g5244">
-        <g
-   id="g5246">
-            <g
-   id="g5248">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5250">C2</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 386.791)"
-   id="g5252">
-        <g
-   id="g5254">
-            <g
-   id="g5256">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5258">C3</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 410.791)"
-   id="g5260">
-        <g
-   id="g5262">
-            <g
-   id="g5264">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5266">A0</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 438.458)"
-   id="g5268">
-        <g
-   id="g5270">
-            <g
-   id="g5272">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5274">A1</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 461.125)"
-   id="g5276">
-        <g
-   id="g5278">
-            <g
-   id="g5280">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5282">3.3</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 486.791)"
-   id="g5284">
-        <g
-   id="g5286">
-            <g
-   id="g5288">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5290">Bat</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 4.1509 510.458)"
-   id="g5292">
-        <g
-   id="g5294">
-            <g
-   id="g5296">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5298">GND</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.4844 462.125)"
-   id="g5300">
-        <g
-   id="g5302">
-            <g
-   id="g5304">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5306">3.3</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.4844 487.791)"
-   id="g5308">
-        <g
-   id="g5310">
-            <g
-   id="g5312">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5314">Bat</text>
-
-            </g>
-        </g>
-    </g>
-    <g
-   transform="matrix(-4.371139e-008 1 -1 -4.371139e-008 396.4844 510.458)"
-   id="g5316">
-        <g
-   id="g5318">
-            <g
-   id="g5320">
-                <text
-   fill="#C0E0B8"
-   font-family="Droid Sans"
-   font-size="12"
-   id="text5322">GND</text>
-
-            </g>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="116.22px" height="153.07px" viewBox="0 0 116.22 153.07" enable-background="new 0 0 116.22 153.07" xml:space="preserve">
+<g id="Layer_2">
+	
+		<image overflow="visible" width="2890" height="2184" xlink:href="edit.jpg"  transform="matrix(0 0.0532 -0.0532 0 116.2236 -0.0024)">
+	</image>
+</g>
+<g id="Layer_3">
+	<rect x="-0.044" fill="#24AE5A" width="116.264" height="153.07"/>
+</g>
+<g id="Layer_4">
+	<rect x="12.25" y="1.667" fill="#FFFFFF" width="23.833" height="17.151"/>
+	<rect x="15.25" y="89.753" fill="#C1B58E" width="3.813" height="7.872"/>
+	<rect x="27.525" y="89.753" fill="#C1B58E" width="3.813" height="7.872"/>
+	<rect x="15.25" y="114.188" fill="#C1B58E" width="3.813" height="6.685"/>
+	<rect x="27.525" y="114.188" fill="#C1B58E" width="3.813" height="6.685"/>
+	<path fill="#211C1F" d="M32.5,112.268c0,1.566-1.269,2.836-2.834,2.836H16.919c-1.565,0-2.834-1.27-2.834-2.836V99.459
+		c0-1.564,1.269-2.834,2.834-2.834h12.747c1.565,0,2.834,1.27,2.834,2.834V112.268z"/>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="14.875" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="14.875" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="22.296" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="22.296" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="29.667" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="29.667" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="36.833" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="36.833" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="44.333" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="44.333" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="51.75" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="51.75" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="59.251" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="59.252" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.363" cy="59.251" r="2.458"/>
+		<circle fill="#261D29" cx="102.362" cy="59.252" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.758" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="109.758" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.758" cy="73.709" r="2.458"/>
+		<circle fill="#261D29" cx="109.758" cy="73.71" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="81.126" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="81.127" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="88.473" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="88.474" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="95.89" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="95.891" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="103.406" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="103.407" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="110.664" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="110.665" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="117.893" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="117.894" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="81.126" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="81.127" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="88.473" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="88.474" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="95.89" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="95.891" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="103.406" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="103.407" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="110.664" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="110.665" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="117.893" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="117.894" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="81.126" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="81.127" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="88.473" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="88.474" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="95.89" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="95.891" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="103.406" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="103.407" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="110.664" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="110.665" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="117.893" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="117.894" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="132.577" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="132.578" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="109.8" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="109.8" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<rect x="107.917" y="5.083" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="110.088" cy="7.333" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="14.875" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="14.875" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="22.296" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="22.296" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="29.667" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="29.667" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="36.833" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="36.833" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="44.333" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="44.333" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="51.75" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="51.75" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="59.251" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="59.252" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.337" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="6.336" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.337" cy="73.709" r="2.458"/>
+		<circle fill="#261D29" cx="6.336" cy="73.71" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="81.126" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="81.127" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="88.473" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="88.474" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="95.89" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="95.891" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="103.406" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="103.407" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="110.664" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="110.665" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="117.893" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="117.894" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="88.473" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="88.474" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="95.89" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="95.891" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="103.406" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="103.407" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="110.664" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="110.665" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="117.893" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="117.894" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="43.796" cy="88.473" r="2.458"/>
+		<circle fill="#261D29" cx="43.796" cy="88.474" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="43.796" cy="95.89" r="2.458"/>
+		<circle fill="#261D29" cx="43.796" cy="95.891" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="43.796" cy="103.406" r="2.458"/>
+		<circle fill="#261D29" cx="43.796" cy="103.407" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="43.796" cy="110.664" r="2.458"/>
+		<circle fill="#261D29" cx="43.796" cy="110.665" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="43.796" cy="117.893" r="2.458"/>
+		<circle fill="#261D29" cx="43.796" cy="117.894" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="132.577" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="132.578" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="6.379" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="6.378" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="14.334" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="14.333" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="14.334" cy="132.577" r="2.458"/>
+		<circle fill="#261D29" cx="14.333" cy="132.578" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="14.334" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="14.333" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="14.334" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="14.333" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="21.825" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="21.825" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="21.825" cy="132.577" r="2.458"/>
+		<circle fill="#261D29" cx="21.825" cy="132.578" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="21.825" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="21.825" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="21.825" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="21.825" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="28.841" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="28.841" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="28.841" cy="132.577" r="2.458"/>
+		<circle fill="#261D29" cx="28.841" cy="132.578" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="28.841" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="28.841" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="28.841" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="28.841" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="132.577" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="132.578" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="36.796" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="44.288" cy="125.393" r="2.458"/>
+		<circle fill="#261D29" cx="44.287" cy="125.394" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="44.288" cy="132.577" r="2.458"/>
+		<circle fill="#261D29" cx="44.287" cy="132.578" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="44.288" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="44.287" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="44.288" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="44.287" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="51.038" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="51.037" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="51.038" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="51.037" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="58.111" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="58.11" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="58.111" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="58.11" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="65.75" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="65.75" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="65.75" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="65.75" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="73.083" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="73.083" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="73.083" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="73.083" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="80.425" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="80.425" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="80.425" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="80.425" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="87.943" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="87.942" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="87.943" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="87.942" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.115" cy="140.021" r="2.458"/>
+		<circle fill="#261D29" cx="95.114" cy="140.021" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.115" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="95.114" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="102.364" cy="147.104" r="2.458"/>
+		<circle fill="#261D29" cx="102.363" cy="147.104" r="1.468"/>
+	</g>
+	<g>
+		<rect x="4.496" y="5.083" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="6.667" cy="7.333" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="95.116" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="95.115" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="87.7" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="87.699" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="80.367" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="80.366" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="72.95" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="72.949" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="65.783" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="65.782" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="58.616" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="58.615" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="51.196" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="51.196" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="43.796" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="43.795" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" cx="36.796" cy="66.626" r="2.458"/>
+		<circle fill="#261D29" cx="36.795" cy="66.627" r="1.468"/>
+	</g>
+	<g>
+		<rect x="100.48" y="49.46" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="102.651" cy="51.71" r="1.468"/>
+	</g>
+	<g>
+		<rect x="100.48" y="64.376" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="102.651" cy="66.626" r="1.468"/>
+	</g>
+	<g>
+		<rect x="33.922" y="78.876" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="36.093" cy="81.126" r="1.468"/>
+	</g>
+	<g>
+		<rect x="41.625" y="78.875" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="43.796" cy="81.125" r="1.468"/>
+	</g>
+	<g>
+		<rect x="100.192" y="130.119" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="102.363" cy="132.369" r="1.468"/>
+	</g>
+	<g>
+		<rect x="92.944" y="130.119" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="95.115" cy="132.369" r="1.468"/>
+	</g>
+	<g>
+		<rect x="100.192" y="137.771" fill="#FFFFFF" width="4.342" height="4.5"/>
+		<circle fill="#261D29" cx="102.363" cy="140.021" r="1.468"/>
+	</g>
+	<rect x="49.25" y="76.535" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="80.461" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="83.977" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="87.902" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="91.298" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="94.823" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="98.815" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="102.34" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="105.865" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="109.598" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="113.122" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="116.826" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="120.352" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="123.925" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="127.851" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="49.25" y="131.511" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="76.535" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="80.461" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="83.977" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="87.902" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="91.298" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="94.823" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="98.815" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="102.34" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="105.865" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="109.598" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="113.122" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="116.826" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="120.352" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="123.925" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="127.851" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="69.856" y="131.511" fill="#A3A092" width="18.991" height="2.133"/>
+	<rect x="62.5" y="20.829" fill="#3A3636" width="28.5" height="28.462"/>
+	<rect x="65.25" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="66.75" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="68.125" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="69.625" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="71.125" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="72.563" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="73.813" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="75.375" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="76.75" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="78.313" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="79.688" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="81.188" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="82.813" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="84.313" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="85.688" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="87.125" y="49.291" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="65.25" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="66.75" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="68.125" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="69.625" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="71.125" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="72.563" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="73.813" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="75.375" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="76.75" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="78.313" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="79.688" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="81.188" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="82.813" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="84.313" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="85.688" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="87.125" y="16.807" fill="#FFFFFF" width="0.875" height="4.021"/>
+	<rect x="91" y="23.685" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="25.185" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="26.56" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="28.06" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="29.56" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="30.997" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="32.247" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="33.81" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="35.185" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="36.747" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="38.122" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="39.622" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="41.247" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="42.747" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="44.122" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="91" y="45.56" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="23.685" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="25.185" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="26.56" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="28.06" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="29.56" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="30.997" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="32.247" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="33.81" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="35.185" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="36.747" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="38.122" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="39.622" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="41.247" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="42.747" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="44.122" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="58.479" y="45.56" fill="#FFFFFF" width="4.021" height="0.875"/>
+	<rect x="14.875" y="33.832" fill="#FBDC12" width="5.25" height="8.938"/>
+	<circle fill="#855E3A" cx="17.308" cy="99.881" r="2.058"/>
+	<circle fill="#855E3A" cx="29.431" cy="99.881" r="2.058"/>
+	<circle fill="#855E3A" cx="17.308" cy="112.132" r="2.058"/>
+	<circle fill="#855E3A" cx="29.431" cy="112.132" r="2.058"/>
+	<circle fill="#272A22" cx="23.292" cy="105.69" r="5.809"/>
+	<rect x="15.25" y="56.682" fill="#C1B58E" width="3.813" height="7.872"/>
+	<rect x="27.525" y="56.682" fill="#C1B58E" width="3.813" height="7.872"/>
+	<rect x="15.25" y="81.117" fill="#C1B58E" width="3.813" height="6.686"/>
+	<rect x="27.525" y="81.117" fill="#C1B58E" width="3.813" height="6.686"/>
+	<path fill="#211C1F" d="M32.5,79.197c0,1.566-1.269,2.836-2.834,2.836H16.919c-1.565,0-2.834-1.27-2.834-2.836V66.388
+		c0-1.564,1.269-2.834,2.834-2.834h12.747c1.565,0,2.834,1.27,2.834,2.834V79.197z"/>
+	<circle fill="#855E3A" cx="17.308" cy="66.81" r="2.058"/>
+	<circle fill="#855E3A" cx="29.431" cy="66.81" r="2.058"/>
+	<circle fill="#855E3A" cx="17.308" cy="79.061" r="2.058"/>
+	<circle fill="#855E3A" cx="29.431" cy="79.061" r="2.058"/>
+	<circle fill="#272A22" cx="23.292" cy="72.62" r="5.809"/>
+	<g>
+		<rect x="57.147" y="52.625" fill="#FFFFFF" width="6.79" height="2.625"/>
+		<rect x="59.604" y="52.625" fill="#EBCD85" width="2.271" height="2.625"/>
+	</g>
+	<rect x="37.521" y="46.887" fill="#FFFFFF" width="2.625" height="6.79"/>
+	<rect x="37.521" y="48.872" fill="#4A3831" width="2.625" height="2.878"/>
+	<g>
+		<rect x="85.688" y="54.438" fill="#FFFFFF" width="6.79" height="2.625"/>
+		<rect x="88.145" y="54.438" fill="#EBCD85" width="2.271" height="2.625"/>
+	</g>
+	<g>
+		<rect x="95.77" y="20.372" fill="#FFFFFF" width="6.79" height="2.625"/>
+		<rect x="98.227" y="20.372" fill="#EBCD85" width="2.271" height="2.625"/>
+	</g>
+	<g>
+		<rect x="59.177" y="14.477" fill="#FFFFFF" width="2.625" height="6.79"/>
+		<rect x="59.177" y="16.934" fill="#EBCD85" width="2.625" height="2.271"/>
+	</g>
+	<rect x="15.167" fill="#FFFFFF" width="18.583" height="2"/>
+	<rect x="17.5" y="5.5" fill="#D9CA73" width="1.333" height="11.833"/>
+	<rect x="30.083" y="5.5" fill="#D9CA73" width="1.333" height="11.833"/>
+	<rect x="12.25" y="18.818" fill="#FFFFFF" width="2.917" height="4.516"/>
+	<rect x="33.167" y="18.818" fill="#FFFFFF" width="2.917" height="4.516"/>
+	<rect x="28.083" y="36.06" fill="#323026" width="8.75" height="4"/>
+	<rect x="29" y="40.06" fill="#FEFFFF" width="1.75" height="3.563"/>
+	<rect x="29" y="32.466" fill="#FEFFFF" width="1.75" height="3.563"/>
+	<rect x="31.583" y="32.466" fill="#FEFFFF" width="1.75" height="3.563"/>
+	<rect x="34.625" y="32.466" fill="#FEFFFF" width="1.75" height="3.563"/>
+	<rect x="34.625" y="40.06" fill="#FEFFFF" width="1.75" height="3.563"/>
+	<rect x="37.25" y="9.583" fill="#323026" width="9" height="14.539"/>
+	<rect x="38.833" y="24.122" fill="#FFFFFE" width="5.833" height="1.938"/>
+	<rect x="38.833" y="7.832" fill="#FFFFFE" width="5.833" height="1.938"/>
+	<rect x="46.75" y="7.832" fill="#323026" width="9.25" height="3.084"/>
+	<rect x="49.917" y="10.917" fill="#FFFFFE" width="3.25" height="3.561"/>
+	<rect x="47.333" y="4.833" fill="#FFFFFE" width="2.917" height="2.999"/>
+	<rect x="52.417" y="4.833" fill="#FFFFFE" width="2.917" height="2.999"/>
+	<g>
+		<rect x="93.011" y="11.25" fill="#FBF9D8" width="2.759" height="7.167"/>
+		<rect x="93.011" y="13.407" fill="#1C1719" width="2.759" height="2.935"/>
+	</g>
+	<g>
+		<rect x="97.785" y="11.25" fill="#FBF9D8" width="2.759" height="7.167"/>
+		<rect x="97.785" y="13.407" fill="#1C1719" width="2.759" height="2.935"/>
+	</g>
+	<g>
+		<rect x="102.035" y="11.25" fill="#FBF9D8" width="2.759" height="7.167"/>
+		<rect x="102.035" y="13.407" fill="#1C1719" width="2.759" height="2.935"/>
+	</g>
+	<g>
+		<rect x="93.011" y="2.833" fill="#FFFFFF" width="2.759" height="6.936"/>
+		<rect x="93.011" y="4.833" fill="#F8F4B1" width="2.759" height="2.999"/>
+	</g>
+	<g>
+		<rect x="97.785" y="2.833" fill="#FFFFFF" width="2.759" height="6.936"/>
+		<rect x="97.785" y="4.833" fill="#F8F4B1" width="2.759" height="2.999"/>
+	</g>
+	<g>
+		<rect x="102.035" y="2.833" fill="#FFFFFF" width="2.759" height="6.936"/>
+		<rect x="102.035" y="4.833" fill="#F8F4B1" width="2.759" height="2.999"/>
+	</g>
+	<g>
+		<rect x="79.688" y="1.333" fill="#E2EBD2" width="3.125" height="7.467"/>
+		<rect x="79.688" y="2.833" fill="#2C2D25" width="3.125" height="3.468"/>
+	</g>
+	<rect x="54.5" y="1" fill="#E2EBD2" width="7.302" height="3"/>
+	<rect x="56.583" y="1" fill="#2C2D25" width="3.333" height="3"/>
+	<rect x="53.875" y="20.829" fill="#939081" width="2.708" height="2.505"/>
+	<rect x="53.875" y="25.307" fill="#939081" width="2.708" height="2.505"/>
+	<rect x="49.229" y="23.932" fill="#939081" width="2.708" height="2.505"/>
+	<rect x="49.229" y="28.307" fill="#939081" width="2.708" height="2.505"/>
+	<rect x="44.896" y="30.62" fill="#939081" width="2.708" height="2.505"/>
+	<rect x="40.396" y="30.62" fill="#939081" width="2.708" height="2.505"/>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 4.834)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 113.0703 3.1465)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A15</text>
+	</g>
+	<g>
+		<text transform="matrix(-1.1361 0 0 -1 113.585 0.5825)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">LED1</text>
+	</g>
+	<g>
+		<text transform="matrix(-1.1361 0 0 -1 92.502 0.5825)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">LED3</text>
+	</g>
+	<g>
+		<text transform="matrix(-1.2032 0 0 -1 102.9189 0.1489)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.165">LED2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 113.0703 11.7715)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 113.0703 18.8184)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 113.0703 24.6226)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 33.4175)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A9</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 40.8057 74.2476)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A3</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 33.3379 62.3413)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A2</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 49.25 74.2476)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A4</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 56.1567 74.2476)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A5</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 77.625 74.2476)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B0</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 83.6875 74.2476)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B1</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 64.7188 72.2422)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A6</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 71.125 72.2422)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A7</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 91 72.2422)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B10</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 99.4375 72.2422)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 40.0601)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 46.792)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 55.2505)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 63.667)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 70.417)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 76.8936)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 85.5605)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 91.8945)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 98.3486)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 104.875)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 113.542)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 119.959)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 128.665)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">3.3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 11.7715)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 20.2129)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 26.9004)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 33.4004)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 41.8413)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 48.4038)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 54.9038)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 61.3413)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">B12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 11.3823 66.8105)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">RST</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 11.3823 95.8906)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">BTN1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 69.7163)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 76.8936)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 84.8311)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C0</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 93.4326)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 100.2451)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 106.4951)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">C3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 115.1045)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A0</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 121.3545)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">A1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 128.6641)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">3.3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 0.6323 135.4766)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">Bat</text>
+	</g>
+	<g>
+		<text transform="matrix(0 0.8768 -1 0 0.6323 143.3311)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">GND</text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 112.7754 136.0537)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">Bat</text>
+	</g>
+	<g>
+		<text transform="matrix(0 0.8768 -1 0 112.7754 143.9082)" fill="#FFFFFF" font-family="'Calibri'" font-size="3.7585">GND</text>
+	</g>
+	<rect x="20.75" y="18.818" fill="#9F8E7A" width="1.5" height="8.617"/>
+	<rect x="26.775" y="18.818" fill="#9F8E7A" width="1.5" height="8.617"/>
+	<rect x="20.125" y="26.997" fill="#AFA580" width="2.875" height="5.688"/>
+	<rect x="26.088" y="26.997" fill="#AFA580" width="2.875" height="5.688"/>
+</g>
 </svg>
