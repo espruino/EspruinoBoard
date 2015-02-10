@@ -8,8 +8,8 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 |  |  Arduino footprint (I'd also set this up so you could adapt the original Espruino board, and would fill spare space with adaptors for some of the stuff below) |
 |  |  0.05" to 0.1" adaptor |
 |  |  MAX1551 LiPo battery charger |
-|  [Link](eagle/esp8266.brd) |  NRF24L01P wireless |
-|  |  ESP8266 WiFi |
+|  |  NRF24L01P wireless |
+| [Link](eagle/esp8266_small.brd) |  ESP8266 WiFi |
 |  |  CC3000 WiFi (would solder right on apart from GND + power) |
 |  |  WIZnet W5500 Ethernet (would solder right on apart from GND + power) |
 |  |  Generic XBee footprint (will handle SRF via the XRF module) |
