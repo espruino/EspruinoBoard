@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -188,6 +188,64 @@
 <smd name="B9" x="6.858" y="-3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
 <smd name="B8" x="6.858" y="-4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
 </package>
+<package name="ESPRUINO">
+<pad name="GND" x="24.13" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="VBAT" x="21.59" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="3.3" x="19.05" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B13" x="16.51" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B14" x="13.97" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B15" x="11.43" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C4" x="8.89" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C5" x="6.35" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C6" x="3.81" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C7" x="1.27" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C8" x="-1.27" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C9" x="-3.81" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C10" x="-6.35" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C11" x="-8.89" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A8" x="-11.43" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A9" x="-13.97" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A10" x="-16.51" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A13" x="-19.05" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A14" x="-21.59" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A15" x="-24.13" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B11" x="-3.81" y="13.97" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="BOOT0" x="-6.35" y="13.97" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="RST" x="-8.89" y="13.97" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B10" x="-3.81" y="11.43" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B1" x="-3.81" y="8.89" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B0" x="-3.81" y="6.35" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A7" x="-3.81" y="3.81" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A6" x="-3.81" y="1.27" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A5" x="-3.81" y="-1.27" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A4" x="-3.81" y="-3.81" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A3" x="-3.81" y="-6.35" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A2" x="-3.81" y="-8.89" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="GND." x="24.13" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="VBAT." x="21.59" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="3.3." x="19.05" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A1" x="16.51" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="A0" x="13.97" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C3" x="11.43" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C2" x="8.89" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C1" x="6.35" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C0" x="3.81" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C15" x="1.27" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="C12" x="-1.27" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B12" x="-3.81" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B9" x="-6.35" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B8" x="-8.89" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B7" x="-11.43" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B6" x="-13.97" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B5" x="-16.51" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B4" x="-19.05" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B3" x="-21.59" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<pad name="B2" x="-24.13" y="-19.05" drill="1.016" shape="octagon" rot="R180"/>
+<wire x1="-26.67" y1="19.05" x2="26.67" y2="19.05" width="0.127" layer="21"/>
+<wire x1="26.67" y1="19.05" x2="26.67" y2="-21.59" width="0.127" layer="21"/>
+<wire x1="26.67" y1="-21.59" x2="-26.67" y2="-21.59" width="0.127" layer="21"/>
+<wire x1="-26.67" y1="-21.59" x2="-26.67" y2="19.05" width="0.127" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="ESPRUINO_PICO">
@@ -250,6 +308,64 @@ Pico</text>
 <wire x1="-20.32" y1="7.62" x2="-20.32" y2="10.16" width="0.254" layer="94"/>
 <text x="-27.94" y="0" size="1.27" layer="94" rot="MR180">Espruino
 Pico</text>
+</symbol>
+<symbol name="ESPRUINO">
+<pin name="B2" x="-35.56" y="20.32" length="middle"/>
+<pin name="B3" x="-35.56" y="17.78" length="middle"/>
+<pin name="B4" x="-35.56" y="15.24" length="middle"/>
+<pin name="B5" x="-35.56" y="12.7" length="middle"/>
+<pin name="B6" x="-35.56" y="10.16" length="middle"/>
+<pin name="B7" x="-35.56" y="7.62" length="middle"/>
+<pin name="B8" x="-35.56" y="5.08" length="middle"/>
+<pin name="B9" x="-35.56" y="2.54" length="middle"/>
+<pin name="B12" x="-35.56" y="0" length="middle"/>
+<pin name="C12" x="-35.56" y="-2.54" length="middle"/>
+<pin name="C15" x="-35.56" y="-5.08" length="middle"/>
+<pin name="C0" x="-35.56" y="-7.62" length="middle"/>
+<pin name="C1" x="-35.56" y="-10.16" length="middle"/>
+<pin name="C2" x="-35.56" y="-12.7" length="middle"/>
+<pin name="C3" x="-35.56" y="-15.24" length="middle"/>
+<pin name="A0" x="-35.56" y="-17.78" length="middle"/>
+<pin name="A1" x="-35.56" y="-20.32" length="middle"/>
+<pin name="3.3." x="-35.56" y="-22.86" length="middle"/>
+<pin name="VBAT." x="-35.56" y="-25.4" length="middle"/>
+<pin name="GND." x="-35.56" y="-27.94" length="middle"/>
+<pin name="A15" x="17.78" y="20.32" length="middle" rot="R180"/>
+<pin name="A14" x="17.78" y="17.78" length="middle" rot="R180"/>
+<pin name="A13" x="17.78" y="15.24" length="middle" rot="R180"/>
+<pin name="A10" x="17.78" y="12.7" length="middle" rot="R180"/>
+<pin name="A9" x="17.78" y="10.16" length="middle" rot="R180"/>
+<pin name="A8" x="17.78" y="7.62" length="middle" rot="R180"/>
+<pin name="C11" x="17.78" y="5.08" length="middle" rot="R180"/>
+<pin name="C10" x="17.78" y="2.54" length="middle" rot="R180"/>
+<pin name="C9" x="17.78" y="0" length="middle" rot="R180"/>
+<pin name="C8" x="17.78" y="-2.54" length="middle" rot="R180"/>
+<pin name="C6" x="17.78" y="-7.62" length="middle" rot="R180"/>
+<pin name="C7" x="17.78" y="-5.08" length="middle" rot="R180"/>
+<pin name="C5" x="17.78" y="-10.16" length="middle" rot="R180"/>
+<pin name="C4" x="17.78" y="-12.7" length="middle" rot="R180"/>
+<pin name="B15" x="17.78" y="-15.24" length="middle" rot="R180"/>
+<pin name="B14" x="17.78" y="-17.78" length="middle" rot="R180"/>
+<pin name="B13" x="17.78" y="-20.32" length="middle" rot="R180"/>
+<pin name="3.3" x="17.78" y="-22.86" length="middle" rot="R180"/>
+<pin name="VBAT" x="17.78" y="-25.4" length="middle" rot="R180"/>
+<pin name="GND" x="17.78" y="-27.94" length="middle" rot="R180"/>
+<pin name="A2" x="-20.32" y="-35.56" length="middle" rot="R90"/>
+<pin name="A3" x="-17.78" y="-35.56" length="middle" rot="R90"/>
+<pin name="A4" x="-15.24" y="-35.56" length="middle" rot="R90"/>
+<pin name="A5" x="-12.7" y="-35.56" length="middle" rot="R90"/>
+<pin name="A6" x="-10.16" y="-35.56" length="middle" rot="R90"/>
+<pin name="A7" x="-7.62" y="-35.56" length="middle" rot="R90"/>
+<pin name="B0" x="-5.08" y="-35.56" length="middle" rot="R90"/>
+<pin name="B1" x="-2.54" y="-35.56" length="middle" rot="R90"/>
+<pin name="B10" x="0" y="-35.56" length="middle" rot="R90"/>
+<pin name="B11" x="2.54" y="-35.56" length="middle" rot="R90"/>
+<wire x1="-30.48" y1="22.86" x2="12.7" y2="22.86" width="0.254" layer="94"/>
+<wire x1="12.7" y1="22.86" x2="12.7" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="12.7" y1="-30.48" x2="-30.48" y2="-30.48" width="0.254" layer="94"/>
+<wire x1="-30.48" y1="-30.48" x2="-30.48" y2="22.86" width="0.254" layer="94"/>
+<pin name="RST" x="-12.7" y="27.94" length="middle" rot="R270"/>
+<pin name="BOOT0" x="-10.16" y="27.94" length="middle" rot="R270"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -391,6 +507,72 @@ Pico</text>
 <connect gate="G$1" pin="B9" pad="B9"/>
 <connect gate="G$1" pin="BAT" pad="BAT"/>
 <connect gate="G$1" pin="GND" pad="GND"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="ESPRUINO">
+<gates>
+<gate name="G$1" symbol="ESPRUINO" x="7.62" y="2.54"/>
+</gates>
+<devices>
+<device name="" package="ESPRUINO">
+<connects>
+<connect gate="G$1" pin="3.3" pad="3.3"/>
+<connect gate="G$1" pin="3.3." pad="3.3."/>
+<connect gate="G$1" pin="A0" pad="A0"/>
+<connect gate="G$1" pin="A1" pad="A1"/>
+<connect gate="G$1" pin="A10" pad="A10"/>
+<connect gate="G$1" pin="A13" pad="A13"/>
+<connect gate="G$1" pin="A14" pad="A14"/>
+<connect gate="G$1" pin="A15" pad="A15"/>
+<connect gate="G$1" pin="A2" pad="A2"/>
+<connect gate="G$1" pin="A3" pad="A3"/>
+<connect gate="G$1" pin="A4" pad="A4"/>
+<connect gate="G$1" pin="A5" pad="A5"/>
+<connect gate="G$1" pin="A6" pad="A6"/>
+<connect gate="G$1" pin="A7" pad="A7"/>
+<connect gate="G$1" pin="A8" pad="A8"/>
+<connect gate="G$1" pin="A9" pad="A9"/>
+<connect gate="G$1" pin="B0" pad="B0"/>
+<connect gate="G$1" pin="B1" pad="B1"/>
+<connect gate="G$1" pin="B10" pad="B10"/>
+<connect gate="G$1" pin="B11" pad="B11"/>
+<connect gate="G$1" pin="B12" pad="B12"/>
+<connect gate="G$1" pin="B13" pad="B13"/>
+<connect gate="G$1" pin="B14" pad="B14"/>
+<connect gate="G$1" pin="B15" pad="B15"/>
+<connect gate="G$1" pin="B2" pad="B2"/>
+<connect gate="G$1" pin="B3" pad="B3"/>
+<connect gate="G$1" pin="B4" pad="B4"/>
+<connect gate="G$1" pin="B5" pad="B5"/>
+<connect gate="G$1" pin="B6" pad="B6"/>
+<connect gate="G$1" pin="B7" pad="B7"/>
+<connect gate="G$1" pin="B8" pad="B8"/>
+<connect gate="G$1" pin="B9" pad="B9"/>
+<connect gate="G$1" pin="BOOT0" pad="BOOT0"/>
+<connect gate="G$1" pin="C0" pad="C0"/>
+<connect gate="G$1" pin="C1" pad="C1"/>
+<connect gate="G$1" pin="C10" pad="C10"/>
+<connect gate="G$1" pin="C11" pad="C11"/>
+<connect gate="G$1" pin="C12" pad="C12"/>
+<connect gate="G$1" pin="C15" pad="C15"/>
+<connect gate="G$1" pin="C2" pad="C2"/>
+<connect gate="G$1" pin="C3" pad="C3"/>
+<connect gate="G$1" pin="C4" pad="C4"/>
+<connect gate="G$1" pin="C5" pad="C5"/>
+<connect gate="G$1" pin="C6" pad="C6"/>
+<connect gate="G$1" pin="C7" pad="C7"/>
+<connect gate="G$1" pin="C8" pad="C8"/>
+<connect gate="G$1" pin="C9" pad="C9"/>
+<connect gate="G$1" pin="GND" pad="GND"/>
+<connect gate="G$1" pin="GND." pad="GND."/>
+<connect gate="G$1" pin="RST" pad="RST"/>
+<connect gate="G$1" pin="VBAT" pad="VBAT"/>
+<connect gate="G$1" pin="VBAT." pad="VBAT."/>
 </connects>
 <technologies>
 <technology name=""/>

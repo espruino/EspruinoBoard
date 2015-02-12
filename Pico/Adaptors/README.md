@@ -5,7 +5,7 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 | Link | Type |
 |------|------|
 |  |  Mounting Holes |
-|  |  Arduino footprint (I'd also set this up so you could adapt the original Espruino board, and would fill spare space with adaptors for some of the stuff below) |
+| [Link](eagle/arduino.brd) |  Arduino/classic Espruino footprint |
 |  |  0.05" to 0.1" adaptor |
 |  |  MAX1551 LiPo battery charger |
 |  |  NRF24L01P wireless |
@@ -25,7 +25,7 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 |  |  (DrAzzy) ULN2003/2803 board (put the pads for a 2803, if we want to use a 2003, it could be installed, just not using the last pair of pads), giving us 7/8 higher current outputs on 0.1" header |
 |  |  (DrAzzy) SOT-23 MOSFET board - as with the ULN2003/2803, only with a buncha mosfets, with pads for a resistor between gnd and each gate for a pulldown |
 |  |  (DaveCJ) [Sx1272/RFM92 868Mhz radio](http://www.ebay.co.uk/itm/HopeRF-RFM92W-915Mhz-LoRa-Ultra-Long-Range-Transceiver-SX1272-compatible-/181415801105) |
-|  |  (DaveCJ) Screw terminals |
+| [Link](eagle/terminal.brd)  |  (DaveCJ) Screw terminals |
 |  |  (allObjects) Prototyping area |
 |  |  (thomc) SMT proto area (like [this](http://www.adafruit.com/product/1212)) |
 |  |  (DrAzzy) A MAX31855 thermocouple interface, with spot for screw terminals to connect the thermocouple |
