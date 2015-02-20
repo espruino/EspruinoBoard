@@ -8,7 +8,7 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 | [Link](eagle/arduino.brd) |  Arduino/classic Espruino footprint |
 |  |  0.05" to 0.1" adaptor |
 |  |  MAX1551 LiPo battery charger |
-|  |  NRF24L01P wireless |
+| [Link](eagle/nrf24.brd) |  NRF24L01P wireless |
 | [Link](eagle/esp8266_small.brd) |  ESP8266 WiFi |
 |  |  CC3000 WiFi (would solder right on apart from GND + power) |
 |  |  WIZnet W5500 Ethernet (would solder right on apart from GND + power) |

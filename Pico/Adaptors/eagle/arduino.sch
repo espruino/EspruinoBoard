@@ -104,45 +104,6 @@
 <libraries>
 <library name="espruino_pico">
 <packages>
-<package name="ESPRUINO_PICO_PIN">
-<pad name="A1" x="6.35" y="0.635" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A0" x="6.35" y="-0.635" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A10" x="6.35" y="-1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="B9" x="6.35" y="-3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="B8" x="6.35" y="-4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A2" x="6.35" y="1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A3" x="6.35" y="3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A4" x="6.35" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A8" x="6.35" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="B7" x="3.81" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="B6" x="1.27" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="B5" x="-1.27" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="B4" x="-3.81" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="B3" x="-6.35" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="3.3V" x="-8.89" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="5V" x="-11.43" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="GND" x="-13.97" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
-<pad name="A5" x="6.35" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="A6" x="3.81" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="A7" x="1.27" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="B1" x="-1.27" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="B10" x="-3.81" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="B13" x="-6.35" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="B14" x="-8.89" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="B15" x="-11.43" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="BAT" x="-13.97" y="6.35" drill="1.016" shape="offset" rot="R90"/>
-<pad name="5V_2" x="1.27" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
-<pad name="3.3V_2" x="2.54" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
-<pad name="GND_2" x="3.81" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
-<wire x1="7.62" y1="-7.62" x2="-15.24" y2="-7.62" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="-7.62" x2="-15.24" y2="-6.35" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="-6.35" x2="-26.035" y2="-6.35" width="0.127" layer="21"/>
-<wire x1="-26.035" y1="-6.35" x2="-26.035" y2="6.35" width="0.127" layer="21"/>
-<wire x1="-26.035" y1="6.35" x2="-15.24" y2="6.35" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="6.35" x2="-15.24" y2="7.62" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="7.62" x2="7.62" y2="7.62" width="0.127" layer="21"/>
-<wire x1="7.62" y1="7.62" x2="7.62" y2="-7.62" width="0.127" layer="21"/>
-</package>
 <package name="ESPRUINO">
 <pad name="GND" x="24.13" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
 <pad name="VBAT" x="21.59" y="16.51" drill="1.016" shape="octagon" rot="R180"/>
@@ -201,46 +162,44 @@
 <wire x1="26.67" y1="-21.59" x2="-26.67" y2="-21.59" width="0.127" layer="21"/>
 <wire x1="-26.67" y1="-21.59" x2="-26.67" y2="19.05" width="0.127" layer="21"/>
 </package>
+<package name="ESPRUINO_PICO_SMDONLY">
+<wire x1="7.62" y1="-7.62" x2="-15.24" y2="-7.62" width="0.127" layer="21"/>
+<wire x1="-15.24" y1="-7.62" x2="-15.24" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-15.24" y1="-6.35" x2="-26.035" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-26.035" y1="-6.35" x2="-26.035" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-26.035" y1="6.35" x2="-15.24" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-15.24" y1="6.35" x2="-15.24" y2="7.62" width="0.127" layer="21"/>
+<wire x1="-15.24" y1="7.62" x2="7.62" y2="7.62" width="0.127" layer="21"/>
+<wire x1="7.62" y1="7.62" x2="7.62" y2="-7.62" width="0.127" layer="21"/>
+<smd name="GND" x="-13.97" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="5V" x="-11.43" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="3.3V" x="-8.89" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B3" x="-6.35" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B4" x="-3.81" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B5" x="-1.27" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B6" x="1.27" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B7" x="3.81" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="A8" x="6.35" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="BAT" x="-13.97" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B15" x="-11.43" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B14" x="-8.89" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B13" x="-6.35" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B10" x="-3.81" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="B1" x="-1.27" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="A7" x="1.27" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="A6" x="3.81" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="A5" x="6.35" y="7.112" dx="1.778" dy="3.048" layer="1"/>
+<smd name="A4" x="6.858" y="4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A3" x="6.858" y="3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A2" x="6.858" y="1.905" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A1" x="6.858" y="0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A0" x="6.858" y="-0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A10" x="6.858" y="-1.905" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="B9" x="6.858" y="-3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="B8" x="6.858" y="-4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+</package>
 </packages>
 <symbols>
-<symbol name="ESPRUINO_PICO">
-<pin name="BAT" x="-7.62" y="7.62" length="middle" rot="R270"/>
-<pin name="B15" x="-5.08" y="7.62" length="middle" rot="R270"/>
-<pin name="B14" x="-2.54" y="7.62" length="middle" rot="R270"/>
-<pin name="B13" x="0" y="7.62" length="middle" rot="R270"/>
-<pin name="B10" x="2.54" y="7.62" length="middle" rot="R270"/>
-<pin name="B1" x="5.08" y="7.62" length="middle" rot="R270"/>
-<pin name="A7" x="7.62" y="7.62" length="middle" rot="R270"/>
-<pin name="A6" x="10.16" y="7.62" length="middle" rot="R270"/>
-<pin name="A5" x="12.7" y="7.62" length="middle" rot="R270"/>
-<pin name="A4" x="25.4" y="0" length="middle" rot="R180"/>
-<pin name="A3" x="25.4" y="-2.54" length="middle" rot="R180"/>
-<pin name="A2" x="25.4" y="-5.08" length="middle" rot="R180"/>
-<pin name="A1" x="25.4" y="-7.62" length="middle" rot="R180"/>
-<pin name="A0" x="25.4" y="-10.16" length="middle" rot="R180"/>
-<pin name="A10" x="25.4" y="-12.7" length="middle" rot="R180"/>
-<pin name="B9" x="25.4" y="-15.24" length="middle" rot="R180"/>
-<pin name="B8" x="25.4" y="-17.78" length="middle" rot="R180"/>
-<pin name="A8" x="12.7" y="-25.4" length="middle" rot="R90"/>
-<pin name="B7" x="10.16" y="-25.4" length="middle" rot="R90"/>
-<pin name="B6" x="7.62" y="-25.4" length="middle" rot="R90"/>
-<pin name="B5" x="5.08" y="-25.4" length="middle" rot="R90"/>
-<pin name="B4" x="2.54" y="-25.4" length="middle" rot="R90"/>
-<pin name="B3" x="0" y="-25.4" length="middle" rot="R90"/>
-<pin name="3.3V" x="-2.54" y="-25.4" length="middle" rot="R90"/>
-<pin name="5V" x="-5.08" y="-25.4" length="middle" rot="R90"/>
-<pin name="GND" x="-7.62" y="-25.4" length="middle" rot="R90"/>
-<wire x1="-12.7" y1="2.54" x2="20.32" y2="2.54" width="0.254" layer="94"/>
-<wire x1="20.32" y1="2.54" x2="20.32" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="20.32" y1="-20.32" x2="-12.7" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="-12.7" y1="-20.32" x2="-12.7" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="-12.7" y1="-17.78" x2="-25.4" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="-25.4" y1="-17.78" x2="-25.4" y2="0" width="0.254" layer="94"/>
-<wire x1="-25.4" y1="0" x2="-12.7" y2="0" width="0.254" layer="94"/>
-<wire x1="-12.7" y1="0" x2="-12.7" y2="2.54" width="0.254" layer="94"/>
-<text x="-20.32" y="-7.62" size="1.27" layer="94" rot="MR180">Espruino
-Pico</text>
-</symbol>
 <symbol name="ESPRUINO">
 <pin name="B2" x="-35.56" y="20.32" length="middle"/>
 <pin name="B3" x="-35.56" y="17.78" length="middle"/>
@@ -299,48 +258,46 @@ Pico</text>
 <pin name="RST" x="-12.7" y="27.94" length="middle" rot="R270"/>
 <pin name="BOOT0" x="-10.16" y="27.94" length="middle" rot="R270"/>
 </symbol>
+<symbol name="ESPRUINO_PICO">
+<pin name="BAT" x="-7.62" y="7.62" length="middle" rot="R270"/>
+<pin name="B15" x="-5.08" y="7.62" length="middle" rot="R270"/>
+<pin name="B14" x="-2.54" y="7.62" length="middle" rot="R270"/>
+<pin name="B13" x="0" y="7.62" length="middle" rot="R270"/>
+<pin name="B10" x="2.54" y="7.62" length="middle" rot="R270"/>
+<pin name="B1" x="5.08" y="7.62" length="middle" rot="R270"/>
+<pin name="A7" x="7.62" y="7.62" length="middle" rot="R270"/>
+<pin name="A6" x="10.16" y="7.62" length="middle" rot="R270"/>
+<pin name="A5" x="12.7" y="7.62" length="middle" rot="R270"/>
+<pin name="A4" x="25.4" y="0" length="middle" rot="R180"/>
+<pin name="A3" x="25.4" y="-2.54" length="middle" rot="R180"/>
+<pin name="A2" x="25.4" y="-5.08" length="middle" rot="R180"/>
+<pin name="A1" x="25.4" y="-7.62" length="middle" rot="R180"/>
+<pin name="A0" x="25.4" y="-10.16" length="middle" rot="R180"/>
+<pin name="A10" x="25.4" y="-12.7" length="middle" rot="R180"/>
+<pin name="B9" x="25.4" y="-15.24" length="middle" rot="R180"/>
+<pin name="B8" x="25.4" y="-17.78" length="middle" rot="R180"/>
+<pin name="A8" x="12.7" y="-25.4" length="middle" rot="R90"/>
+<pin name="B7" x="10.16" y="-25.4" length="middle" rot="R90"/>
+<pin name="B6" x="7.62" y="-25.4" length="middle" rot="R90"/>
+<pin name="B5" x="5.08" y="-25.4" length="middle" rot="R90"/>
+<pin name="B4" x="2.54" y="-25.4" length="middle" rot="R90"/>
+<pin name="B3" x="0" y="-25.4" length="middle" rot="R90"/>
+<pin name="3.3V" x="-2.54" y="-25.4" length="middle" rot="R90"/>
+<pin name="5V" x="-5.08" y="-25.4" length="middle" rot="R90"/>
+<pin name="GND" x="-7.62" y="-25.4" length="middle" rot="R90"/>
+<wire x1="-12.7" y1="2.54" x2="20.32" y2="2.54" width="0.254" layer="94"/>
+<wire x1="20.32" y1="2.54" x2="20.32" y2="-20.32" width="0.254" layer="94"/>
+<wire x1="20.32" y1="-20.32" x2="-12.7" y2="-20.32" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="-20.32" x2="-12.7" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="-17.78" x2="-25.4" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="-25.4" y1="-17.78" x2="-25.4" y2="0" width="0.254" layer="94"/>
+<wire x1="-25.4" y1="0" x2="-12.7" y2="0" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="0" x2="-12.7" y2="2.54" width="0.254" layer="94"/>
+<text x="-20.32" y="-7.62" size="1.27" layer="94" rot="MR180">Espruino
+Pico</text>
+</symbol>
 </symbols>
 <devicesets>
-<deviceset name="ESPRUINO_PICO_PIN">
-<gates>
-<gate name="G$1" symbol="ESPRUINO_PICO" x="-2.54" y="10.16"/>
-</gates>
-<devices>
-<device name="" package="ESPRUINO_PICO_PIN">
-<connects>
-<connect gate="G$1" pin="3.3V" pad="3.3V 3.3V_2"/>
-<connect gate="G$1" pin="5V" pad="5V 5V_2"/>
-<connect gate="G$1" pin="A0" pad="A0"/>
-<connect gate="G$1" pin="A1" pad="A1"/>
-<connect gate="G$1" pin="A10" pad="A10"/>
-<connect gate="G$1" pin="A2" pad="A2"/>
-<connect gate="G$1" pin="A3" pad="A3"/>
-<connect gate="G$1" pin="A4" pad="A4"/>
-<connect gate="G$1" pin="A5" pad="A5"/>
-<connect gate="G$1" pin="A6" pad="A6"/>
-<connect gate="G$1" pin="A7" pad="A7"/>
-<connect gate="G$1" pin="A8" pad="A8"/>
-<connect gate="G$1" pin="B1" pad="B1"/>
-<connect gate="G$1" pin="B10" pad="B10"/>
-<connect gate="G$1" pin="B13" pad="B13"/>
-<connect gate="G$1" pin="B14" pad="B14"/>
-<connect gate="G$1" pin="B15" pad="B15"/>
-<connect gate="G$1" pin="B3" pad="B3"/>
-<connect gate="G$1" pin="B4" pad="B4"/>
-<connect gate="G$1" pin="B5" pad="B5"/>
-<connect gate="G$1" pin="B6" pad="B6"/>
-<connect gate="G$1" pin="B7" pad="B7"/>
-<connect gate="G$1" pin="B8" pad="B8"/>
-<connect gate="G$1" pin="B9" pad="B9"/>
-<connect gate="G$1" pin="BAT" pad="BAT"/>
-<connect gate="G$1" pin="GND" pad="GND GND_2"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
 <deviceset name="ESPRUINO">
 <gates>
 <gate name="G$1" symbol="ESPRUINO" x="7.62" y="2.54"/>
@@ -400,6 +357,46 @@ Pico</text>
 <connect gate="G$1" pin="RST" pad="RST"/>
 <connect gate="G$1" pin="VBAT" pad="VBAT"/>
 <connect gate="G$1" pin="VBAT." pad="VBAT."/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="ESPRUINO_PICO_SMDONLY">
+<gates>
+<gate name="G$1" symbol="ESPRUINO_PICO" x="-10.16" y="7.62"/>
+</gates>
+<devices>
+<device name="" package="ESPRUINO_PICO_SMDONLY">
+<connects>
+<connect gate="G$1" pin="3.3V" pad="3.3V"/>
+<connect gate="G$1" pin="5V" pad="5V"/>
+<connect gate="G$1" pin="A0" pad="A0"/>
+<connect gate="G$1" pin="A1" pad="A1"/>
+<connect gate="G$1" pin="A10" pad="A10"/>
+<connect gate="G$1" pin="A2" pad="A2"/>
+<connect gate="G$1" pin="A3" pad="A3"/>
+<connect gate="G$1" pin="A4" pad="A4"/>
+<connect gate="G$1" pin="A5" pad="A5"/>
+<connect gate="G$1" pin="A6" pad="A6"/>
+<connect gate="G$1" pin="A7" pad="A7"/>
+<connect gate="G$1" pin="A8" pad="A8"/>
+<connect gate="G$1" pin="B1" pad="B1"/>
+<connect gate="G$1" pin="B10" pad="B10"/>
+<connect gate="G$1" pin="B13" pad="B13"/>
+<connect gate="G$1" pin="B14" pad="B14"/>
+<connect gate="G$1" pin="B15" pad="B15"/>
+<connect gate="G$1" pin="B3" pad="B3"/>
+<connect gate="G$1" pin="B4" pad="B4"/>
+<connect gate="G$1" pin="B5" pad="B5"/>
+<connect gate="G$1" pin="B6" pad="B6"/>
+<connect gate="G$1" pin="B7" pad="B7"/>
+<connect gate="G$1" pin="B8" pad="B8"/>
+<connect gate="G$1" pin="B9" pad="B9"/>
+<connect gate="G$1" pin="BAT" pad="BAT"/>
+<connect gate="G$1" pin="GND" pad="GND"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -792,22 +789,113 @@ Pico</text>
 </class>
 </classes>
 <parts>
-<part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_PIN" device=""/>
 <part name="U$2" library="arduino" deviceset="ARDUINO" device=""/>
 <part name="U$3" library="espruino_pico" deviceset="ESPRUINO" device=""/>
+<part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_SMDONLY" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 </plain>
 <instances>
-<instance part="U$1" gate="G$1" x="-2.54" y="40.64"/>
 <instance part="U$2" gate="G$1" x="86.36" y="33.02"/>
-<instance part="U$3" gate="G$1" x="2.54" y="106.68" rot="R90"/>
+<instance part="U$3" gate="G$1" x="22.86" y="119.38" rot="R90"/>
+<instance part="U$1" gate="G$1" x="-7.62" y="43.18"/>
 </instances>
 <busses>
 </busses>
 <nets>
+<net name="A0" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C0"/>
+<wire x1="30.48" y1="83.82" x2="30.48" y2="63.5" width="0.1524" layer="91"/>
+<label x="30.48" y="66.04" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="A0"/>
+<wire x1="17.78" y1="33.02" x2="33.02" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="33.02" x2="33.02" y2="-15.24" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="A0"/>
+<wire x1="33.02" y1="-15.24" x2="96.52" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="-15.24" x2="96.52" y2="10.16" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="A1" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C1"/>
+<wire x1="33.02" y1="83.82" x2="33.02" y2="63.5" width="0.1524" layer="91"/>
+<label x="33.02" y="66.04" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="U$2" gate="G$1" pin="A1"/>
+<wire x1="99.06" y1="10.16" x2="99.06" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="-12.7" x2="35.56" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="-12.7" x2="35.56" y2="35.56" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="A1"/>
+<wire x1="35.56" y1="35.56" x2="17.78" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="A2" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C2"/>
+<wire x1="35.56" y1="83.82" x2="35.56" y2="63.5" width="0.1524" layer="91"/>
+<label x="35.56" y="66.04" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="A2"/>
+<wire x1="17.78" y1="38.1" x2="38.1" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="38.1" x2="38.1" y2="-10.16" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="-10.16" x2="101.6" y2="-10.16" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="A2"/>
+<wire x1="101.6" y1="-10.16" x2="101.6" y2="10.16" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="A3" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C3"/>
+<wire x1="38.1" y1="83.82" x2="38.1" y2="63.5" width="0.1524" layer="91"/>
+<label x="38.1" y="66.04" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="U$2" gate="G$1" pin="A3"/>
+<wire x1="104.14" y1="10.16" x2="104.14" y2="-7.62" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="-7.62" x2="40.64" y2="-7.62" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="-7.62" x2="40.64" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="A3"/>
+<wire x1="40.64" y1="40.64" x2="17.78" y2="40.64" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="A4" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C4"/>
+<wire x1="35.56" y1="137.16" x2="35.56" y2="160.02" width="0.1524" layer="91"/>
+<label x="35.56" y="152.4" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="A4"/>
+<wire x1="17.78" y1="43.18" x2="43.18" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="43.18" x2="43.18" y2="-5.08" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-5.08" x2="106.68" y2="-5.08" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="A4"/>
+<wire x1="106.68" y1="-5.08" x2="106.68" y2="10.16" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="A5" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C5"/>
+<wire x1="33.02" y1="137.16" x2="33.02" y2="160.02" width="0.1524" layer="91"/>
+<label x="33.02" y="152.4" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="U$2" gate="G$1" pin="A5"/>
+<wire x1="109.22" y1="10.16" x2="109.22" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="-2.54" x2="45.72" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="-2.54" x2="45.72" y2="53.34" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="A5"/>
+<wire x1="45.72" y1="53.34" x2="5.08" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="53.34" x2="5.08" y2="50.8" width="0.1524" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
