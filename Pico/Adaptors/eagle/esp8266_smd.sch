@@ -3575,128 +3575,6 @@ Source: AVX .. aphvc.pdf</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="espruino_pico">
-<packages>
-<package name="ESPRUINO_PICO_SMDONLY">
-<wire x1="7.62" y1="-7.62" x2="-15.24" y2="-7.62" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="-7.62" x2="-15.24" y2="-6.35" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="-6.35" x2="-26.035" y2="-6.35" width="0.127" layer="21"/>
-<wire x1="-26.035" y1="-6.35" x2="-26.035" y2="6.35" width="0.127" layer="21"/>
-<wire x1="-26.035" y1="6.35" x2="-15.24" y2="6.35" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="6.35" x2="-15.24" y2="7.62" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="7.62" x2="7.62" y2="7.62" width="0.127" layer="21"/>
-<wire x1="7.62" y1="7.62" x2="7.62" y2="-7.62" width="0.127" layer="21"/>
-<smd name="GND" x="-13.97" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="5V" x="-11.43" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="3.3V" x="-8.89" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B3" x="-6.35" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B4" x="-3.81" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B5" x="-1.27" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B6" x="1.27" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B7" x="3.81" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="A8" x="6.35" y="-7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="BAT" x="-13.97" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B15" x="-11.43" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B14" x="-8.89" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B13" x="-6.35" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B10" x="-3.81" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="B1" x="-1.27" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="A7" x="1.27" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="A6" x="3.81" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="A5" x="6.35" y="7.112" dx="1.778" dy="3.048" layer="1"/>
-<smd name="A4" x="6.858" y="4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-<smd name="A3" x="6.858" y="3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-<smd name="A2" x="6.858" y="1.905" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-<smd name="A1" x="6.858" y="0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-<smd name="A0" x="6.858" y="-0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-<smd name="A10" x="6.858" y="-1.905" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-<smd name="B9" x="6.858" y="-3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-<smd name="B8" x="6.858" y="-4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
-</package>
-</packages>
-<symbols>
-<symbol name="ESPRUINO_PICO">
-<pin name="BAT" x="-7.62" y="7.62" length="middle" rot="R270"/>
-<pin name="B15" x="-5.08" y="7.62" length="middle" rot="R270"/>
-<pin name="B14" x="-2.54" y="7.62" length="middle" rot="R270"/>
-<pin name="B13" x="0" y="7.62" length="middle" rot="R270"/>
-<pin name="B10" x="2.54" y="7.62" length="middle" rot="R270"/>
-<pin name="B1" x="5.08" y="7.62" length="middle" rot="R270"/>
-<pin name="A7" x="7.62" y="7.62" length="middle" rot="R270"/>
-<pin name="A6" x="10.16" y="7.62" length="middle" rot="R270"/>
-<pin name="A5" x="12.7" y="7.62" length="middle" rot="R270"/>
-<pin name="A4" x="25.4" y="0" length="middle" rot="R180"/>
-<pin name="A3" x="25.4" y="-2.54" length="middle" rot="R180"/>
-<pin name="A2" x="25.4" y="-5.08" length="middle" rot="R180"/>
-<pin name="A1" x="25.4" y="-7.62" length="middle" rot="R180"/>
-<pin name="A0" x="25.4" y="-10.16" length="middle" rot="R180"/>
-<pin name="A10" x="25.4" y="-12.7" length="middle" rot="R180"/>
-<pin name="B9" x="25.4" y="-15.24" length="middle" rot="R180"/>
-<pin name="B8" x="25.4" y="-17.78" length="middle" rot="R180"/>
-<pin name="A8" x="12.7" y="-25.4" length="middle" rot="R90"/>
-<pin name="B7" x="10.16" y="-25.4" length="middle" rot="R90"/>
-<pin name="B6" x="7.62" y="-25.4" length="middle" rot="R90"/>
-<pin name="B5" x="5.08" y="-25.4" length="middle" rot="R90"/>
-<pin name="B4" x="2.54" y="-25.4" length="middle" rot="R90"/>
-<pin name="B3" x="0" y="-25.4" length="middle" rot="R90"/>
-<pin name="3.3V" x="-2.54" y="-25.4" length="middle" rot="R90"/>
-<pin name="5V" x="-5.08" y="-25.4" length="middle" rot="R90"/>
-<pin name="GND" x="-7.62" y="-25.4" length="middle" rot="R90"/>
-<wire x1="-12.7" y1="2.54" x2="20.32" y2="2.54" width="0.254" layer="94"/>
-<wire x1="20.32" y1="2.54" x2="20.32" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="20.32" y1="-20.32" x2="-12.7" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="-12.7" y1="-20.32" x2="-12.7" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="-12.7" y1="-17.78" x2="-25.4" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="-25.4" y1="-17.78" x2="-25.4" y2="0" width="0.254" layer="94"/>
-<wire x1="-25.4" y1="0" x2="-12.7" y2="0" width="0.254" layer="94"/>
-<wire x1="-12.7" y1="0" x2="-12.7" y2="2.54" width="0.254" layer="94"/>
-<text x="-20.32" y="-7.62" size="1.27" layer="94" rot="MR180">Espruino
-Pico</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="ESPRUINO_PICO_SMDONLY">
-<gates>
-<gate name="G$1" symbol="ESPRUINO_PICO" x="-10.16" y="7.62"/>
-</gates>
-<devices>
-<device name="" package="ESPRUINO_PICO_SMDONLY">
-<connects>
-<connect gate="G$1" pin="3.3V" pad="3.3V"/>
-<connect gate="G$1" pin="5V" pad="5V"/>
-<connect gate="G$1" pin="A0" pad="A0"/>
-<connect gate="G$1" pin="A1" pad="A1"/>
-<connect gate="G$1" pin="A10" pad="A10"/>
-<connect gate="G$1" pin="A2" pad="A2"/>
-<connect gate="G$1" pin="A3" pad="A3"/>
-<connect gate="G$1" pin="A4" pad="A4"/>
-<connect gate="G$1" pin="A5" pad="A5"/>
-<connect gate="G$1" pin="A6" pad="A6"/>
-<connect gate="G$1" pin="A7" pad="A7"/>
-<connect gate="G$1" pin="A8" pad="A8"/>
-<connect gate="G$1" pin="B1" pad="B1"/>
-<connect gate="G$1" pin="B10" pad="B10"/>
-<connect gate="G$1" pin="B13" pad="B13"/>
-<connect gate="G$1" pin="B14" pad="B14"/>
-<connect gate="G$1" pin="B15" pad="B15"/>
-<connect gate="G$1" pin="B3" pad="B3"/>
-<connect gate="G$1" pin="B4" pad="B4"/>
-<connect gate="G$1" pin="B5" pad="B5"/>
-<connect gate="G$1" pin="B6" pad="B6"/>
-<connect gate="G$1" pin="B7" pad="B7"/>
-<connect gate="G$1" pin="B8" pad="B8"/>
-<connect gate="G$1" pin="B9" pad="B9"/>
-<connect gate="G$1" pin="BAT" pad="BAT"/>
-<connect gate="G$1" pin="GND" pad="GND"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 </libraries>
 <attributes>
 </attributes>
@@ -3707,104 +3585,62 @@ Pico</text>
 </class>
 </classes>
 <parts>
-<part name="NRF24" library="pinhead" deviceset="PINHD-2X4" device=""/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C1206"/>
-<part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_SMDONLY" device=""/>
+<part name="ESP8266" library="pinhead" deviceset="PINHD-2X4" device=""/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C1210"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
+<text x="106.68" y="40.64" size="1.778" layer="91">CH_PD</text>
+<text x="106.68" y="43.18" size="1.778" layer="91">RST</text>
+<text x="78.74" y="43.18" size="1.778" layer="91">GPIO0</text>
+<text x="78.74" y="40.64" size="1.778" layer="91">GPIO2</text>
+<text x="63.5" y="45.72" size="1.778" layer="91">A2</text>
+<text x="119.38" y="38.1" size="1.778" layer="91">A3</text>
 </plain>
 <instances>
-<instance part="NRF24" gate="A" x="99.06" y="55.88"/>
-<instance part="C1" gate="G$1" x="30.48" y="22.86"/>
-<instance part="U$1" gate="G$1" x="33.02" y="66.04"/>
+<instance part="ESP8266" gate="A" x="96.52" y="40.64"/>
+<instance part="C1" gate="G$1" x="127" y="33.02"/>
 </instances>
 <busses>
 </busses>
 <nets>
-<net name="N$1" class="0">
+<net name="ESP_RX" class="0">
 <segment>
+<pinref part="ESP8266" gate="A" pin="1"/>
+<wire x1="93.98" y1="45.72" x2="68.58" y2="45.72" width="0.1524" layer="91"/>
+<label x="78.74" y="45.72" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="ESP_TX" class="0">
+<segment>
+<pinref part="ESP8266" gate="A" pin="8"/>
+<wire x1="101.6" y1="38.1" x2="119.38" y2="38.1" width="0.1524" layer="91"/>
+<label x="106.68" y="38.1" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="VCC" class="0">
+<segment>
+<pinref part="ESP8266" gate="A" pin="2"/>
+<wire x1="101.6" y1="45.72" x2="127" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="127" y1="45.72" x2="127" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="127" y1="40.64" x2="127" y2="35.56" width="0.1524" layer="91"/>
+<label x="106.68" y="45.72" size="1.778" layer="95"/>
+<pinref part="ESP8266" gate="A" pin="6"/>
+<wire x1="101.6" y1="40.64" x2="127" y2="40.64" width="0.1524" layer="91"/>
+<junction x="127" y="40.64"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="30.48" y1="40.64" x2="30.48" y2="27.94" width="0.1524" layer="91"/>
-<pinref part="NRF24" gate="A" pin="2"/>
-<wire x1="30.48" y1="27.94" x2="30.48" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="60.96" x2="111.76" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="111.76" y1="60.96" x2="111.76" y2="27.94" width="0.1524" layer="91"/>
-<wire x1="111.76" y1="27.94" x2="30.48" y2="27.94" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="3.3V"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="GND" class="0">
 <segment>
-<wire x1="25.4" y1="40.64" x2="25.4" y2="15.24" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="15.24" x2="30.48" y2="15.24" width="0.1524" layer="91"/>
+<wire x1="127" y1="25.4" x2="76.2" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="25.4" x2="76.2" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="ESP8266" gate="A" pin="7"/>
+<wire x1="76.2" y1="38.1" x2="93.98" y2="38.1" width="0.1524" layer="91"/>
+<label x="78.74" y="38.1" size="1.778" layer="95"/>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="30.48" y1="15.24" x2="30.48" y2="17.78" width="0.1524" layer="91"/>
-<wire x1="30.48" y1="15.24" x2="81.28" y2="15.24" width="0.1524" layer="91"/>
-<wire x1="81.28" y1="15.24" x2="81.28" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="NRF24" gate="A" pin="1"/>
-<wire x1="81.28" y1="60.96" x2="96.52" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="GND"/>
-</segment>
-</net>
-<net name="N$4" class="0">
-<segment>
-<wire x1="33.02" y1="40.64" x2="33.02" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="30.48" x2="88.9" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="30.48" x2="88.9" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="NRF24" gate="A" pin="5"/>
-<wire x1="88.9" y1="55.88" x2="96.52" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="B3"/>
-</segment>
-</net>
-<net name="N$5" class="0">
-<segment>
-<pinref part="NRF24" gate="A" pin="7"/>
-<wire x1="96.52" y1="53.34" x2="91.44" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="91.44" y1="53.34" x2="91.44" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="91.44" y1="33.02" x2="35.56" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="35.56" y1="33.02" x2="35.56" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="B4"/>
-</segment>
-</net>
-<net name="N$6" class="0">
-<segment>
-<wire x1="38.1" y1="40.64" x2="38.1" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="35.56" x2="109.22" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="35.56" x2="109.22" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="NRF24" gate="A" pin="6"/>
-<wire x1="109.22" y1="55.88" x2="104.14" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="B5"/>
-</segment>
-</net>
-<net name="N$7" class="0">
-<segment>
-<wire x1="58.42" y1="48.26" x2="119.38" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="119.38" y1="48.26" x2="119.38" y2="58.42" width="0.1524" layer="91"/>
-<pinref part="NRF24" gate="A" pin="4"/>
-<wire x1="119.38" y1="58.42" x2="104.14" y2="58.42" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="B8"/>
-</segment>
-</net>
-<net name="N$8" class="0">
-<segment>
-<pinref part="NRF24" gate="A" pin="3"/>
-<wire x1="96.52" y1="58.42" x2="76.2" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="76.2" y1="58.42" x2="76.2" y2="50.8" width="0.1524" layer="91"/>
-<wire x1="76.2" y1="50.8" x2="58.42" y2="50.8" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="B9"/>
-</segment>
-</net>
-<net name="N$9" class="0">
-<segment>
-<wire x1="58.42" y1="53.34" x2="68.58" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="53.34" x2="68.58" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="45.72" x2="116.84" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="116.84" y1="45.72" x2="116.84" y2="53.34" width="0.1524" layer="91"/>
-<pinref part="NRF24" gate="A" pin="8"/>
-<wire x1="116.84" y1="53.34" x2="104.14" y2="53.34" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="A10"/>
+<wire x1="127" y1="27.94" x2="127" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
@@ -3812,10 +3648,4 @@ Pico</text>
 </sheets>
 </schematic>
 </drawing>
-<compatibility>
-<note version="6.3" minversion="6.2.2" severity="warning">
-Since Version 6.2.2 text objects can contain more than one line,
-which will not be processed correctly with this version.
-</note>
-</compatibility>
 </eagle>

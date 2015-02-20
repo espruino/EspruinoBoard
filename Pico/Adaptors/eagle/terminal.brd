@@ -218,7 +218,7 @@
 <class number="0" name="default" width="0" drill="0">
 </class>
 </classes>
-<designrules name="oshpark-2layer">
+<designrules name="oshpark">
 <description language="de">&lt;b&gt;EAGLE Design Rules&lt;/b&gt;
 &lt;p&gt;
 Die Standard-Design-Rules sind so gewählt, dass sie für 
@@ -232,7 +232,7 @@ Please make sure your boards conform to these design rules.</description>
 <param name="layerSetup" value="(1*16)"/>
 <param name="mtCopper" value="0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm 0.0356mm"/>
 <param name="mtIsolate" value="1.5011mm 0.1499mm 0.2007mm 0.1499mm 0.2007mm 0.1499mm 0.2007mm 0.1499mm 0.2007mm 0.1499mm 0.2007mm 0.1499mm 0.2007mm 0.1499mm 0.2007mm"/>
-<param name="mdWireWire" value="6mil"/>
+<param name="mdWireWire" value="8mil"/>
 <param name="mdWirePad" value="6mil"/>
 <param name="mdWireVia" value="6mil"/>
 <param name="mdPadPad" value="6mil"/>
@@ -246,7 +246,7 @@ Please make sure your boards conform to these design rules.</description>
 <param name="mdCopperDimension" value="15mil"/>
 <param name="mdDrill" value="6mil"/>
 <param name="mdSmdStop" value="0mil"/>
-<param name="msWidth" value="6mil"/>
+<param name="msWidth" value="10mil"/>
 <param name="msDrill" value="13mil"/>
 <param name="msMicroVia" value="13mil"/>
 <param name="msBlindViaRatio" value="0.5"/>
@@ -282,7 +282,7 @@ Please make sure your boards conform to these design rules.</description>
 <param name="mlMaxStopFrame" value="4mil"/>
 <param name="mlMinCreamFrame" value="0mil"/>
 <param name="mlMaxCreamFrame" value="0mil"/>
-<param name="mlViaStopLimit" value="0mil"/>
+<param name="mlViaStopLimit" value="15mil"/>
 <param name="srRoundness" value="0"/>
 <param name="srMinRoundness" value="0mil"/>
 <param name="srMaxRoundness" value="0mil"/>
@@ -400,7 +400,10 @@ Please make sure your boards conform to these design rules.</description>
 <element name="J7" library="OPL Eagle Library" package="3P-5.0" value="SCREW-TERMINAL-3P-3470080P1" x="55.88" y="33.02" rot="R90"/>
 <element name="J8" library="OPL Eagle Library" package="3P-5.0" value="SCREW-TERMINAL-3P-3470080P1" x="55.88" y="17.78" rot="R90"/>
 <element name="J9" library="OPL Eagle Library" package="2P-5.0" value="SCREW-TERMINAL-2P-3470110P1" x="55.88" y="5.08" rot="R90"/>
-<element name="J4" library="OPL Eagle Library" package="2P-5.0" value="SCREW-TERMINAL-2P-3470110P1" x="5.08" y="36.83"/>
+<element name="J4" library="OPL Eagle Library" package="2P-5.0" value="SCREW-TERMINAL-2P-3470110P1" x="5.08" y="36.83" smashed="yes">
+<attribute name="NAME" x="5.08" y="31.115" size="1.27" layer="25" ratio="12"/>
+<attribute name="VALUE" x="2.54" y="36.83" size="0.635" layer="27" ratio="10"/>
+</element>
 <element name="J10" library="OPL Eagle Library" package="2P-5.0" value="SCREW-TERMINAL-2P-3470110P1" x="45.72" y="36.83" rot="R180"/>
 </elements>
 <signals>
