@@ -14,7 +14,7 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 | [Link](eagle/w550io.brd) |  WIZnet W5500 Ethernet |
 |  |  Generic XBee footprint (will handle SRF via the XRF module) |
 |  |  RFM69HW wireless |
-|  |  HC-05 / HC-06 / HM-10 bluetooth |
+|  [Link](eagle/bluetooth.brd)  |  HC-05 / HC-06 / HM-10 bluetooth |
 |  |  Audio Jack (see the [Audio programming thread](http://forum.espruino.com/conversations/257732/)) |
 | [Link](eagle/servo.brd) |  Model aircraft servos |
 | [Link](eagle/microsd.brd) |  Micro SD card |
@@ -30,4 +30,5 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 |  |  (thomc) SMT proto area (like [this](http://www.adafruit.com/product/1212)) |
 |  |  (DrAzzy) A MAX31855 thermocouple interface, with spot for screw terminals to connect the thermocouple |
 |  |  Soil moisture sensor |
-|  |  Capcitive keypad |
+|  |  Capacitive keypad |
+|  |  [LPRS eRIC](http://www.lprs.co.uk/easy-radio/eric/) radio module |
