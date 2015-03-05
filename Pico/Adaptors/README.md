@@ -11,7 +11,7 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 | [Link](eagle/nrf24.brd) |  NRF24L01P wireless |
 | [0.05 in](eagle/esp8266_small.brd) or [SMD](eagle/esp8266_small.brd) |  ESP8266 WiFi |
 |  |  CC3000 WiFi (would solder right on apart from GND + power) |
-|  |  WIZnet W5500 Ethernet (would solder right on apart from GND + power) |
+| [Link](eagle/w550io.brd) |  WIZnet W5500 Ethernet |
 |  |  Generic XBee footprint (will handle SRF via the XRF module) |
 |  |  RFM69HW wireless |
 |  |  HC-05 / HC-06 / HM-10 bluetooth |
