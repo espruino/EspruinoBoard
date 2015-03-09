@@ -1,4 +1,4 @@
-Here we have a selection of adaptor 'shims' to connect the Espruino Pico to various other devices.
+Here we have a selection of adaptor 'shims' to connect the Espruino Pico to various other devices. Unless marked they are currently untested.
 
 There's [a forum thread](http://forum.espruino.com/conversations/259519/) on potential adaptors. So far we have:
 
@@ -12,9 +12,9 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 | [0.05 in](eagle/esp8266_small.brd) or [SMD](eagle/esp8266_small.brd) |  ESP8266 WiFi |
 |  |  CC3000 WiFi (would solder right on apart from GND + power) |
 | [Link](eagle/w550io.brd) |  WIZnet W5500 Ethernet |
-|  |  Generic XBee footprint (will handle SRF via the XRF module) |
-|  |  RFM69HW wireless |
-|  [Link](eagle/bluetooth.brd)  |  HC-05 / HC-06 / HM-10 bluetooth |
+| [Link](eagle/xbee.brd) |  Generic XBee footprint (will handle SRF via the XRF module) |
+| [Link](eagle/rfm12b.brd) |  RFM69HW wireless |
+| [Link](eagle/bluetooth.brd)  |  HC-05 / HC-06 / HM-10 bluetooth |
 |  |  Audio Jack (see the [Audio programming thread](http://forum.espruino.com/conversations/257732/)) |
 | [Link](eagle/servo.brd) |  Model aircraft servos |
 | [Link](eagle/microsd.brd) |  Micro SD card |
