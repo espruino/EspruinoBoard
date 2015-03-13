@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.0125" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -56,10 +56,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="27.9275" y2="0" width="0" layer="20"/>
-<wire x1="27.9275" y1="0" x2="27.9275" y2="27.295" width="0" layer="20"/>
-<wire x1="27.9275" y1="27.295" x2="0" y2="27.295" width="0" layer="20"/>
-<wire x1="0" y1="27.295" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="0" y1="0" x2="28.0545" y2="0" width="0" layer="20"/>
+<wire x1="28.0545" y1="0" x2="28.0545" y2="26.787" width="0" layer="20"/>
+<wire x1="28.0545" y1="26.787" x2="0" y2="26.787" width="0" layer="20"/>
+<wire x1="0" y1="26.787" x2="0" y2="0" width="0" layer="20"/>
 <text x="20.0025" y="16.51" size="1.778" layer="22" rot="MR0">WIZnet W550io</text>
 <text x="23.495" y="23.1775" size="0.889" layer="21" rot="R270">B8 B9 A10 A0 A1 A2 A3 A4</text>
 <text x="5.08" y="11.43" size="1.778" layer="21">Pico
@@ -434,15 +434,14 @@ Please make sure your boards conform to these design rules.</description>
 <elements>
 <element name="U$1" library="espruino_pico" package="ESPRUINO_PICO_SMD" value="ESPRUINO_PICO_SMD" x="15.24" y="13.335"/>
 <element name="J1" library="pinhead" package="1X08" value="" x="10.795" y="24.765" smashed="yes">
-<attribute name="NAME" x="-1.3462" y="22.7838" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="21.5138" y="25.3238" size="1.27" layer="25" ratio="10"/>
 <attribute name="VALUE" x="0.635" y="21.59" size="1.27" layer="27"/>
 </element>
 <element name="J2" library="pinhead" package="1X06" value="" x="10.795" y="1.905" smashed="yes">
-<attribute name="NAME" x="1.1938" y="2.4638" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="18.9738" y="2.4638" size="1.27" layer="25" ratio="10"/>
 <attribute name="VALUE" x="3.175" y="-1.27" size="1.27" layer="27"/>
 </element>
 <element name="J3" library="pinhead" package="1X08" value="" x="26.035" y="13.335" smashed="yes" rot="R270">
-<attribute name="NAME" x="25.3238" y="26.1112" size="1.27" layer="25" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="22.86" y="23.495" size="1.27" layer="27" rot="R270"/>
 </element>
 </elements>
