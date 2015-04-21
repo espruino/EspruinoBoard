@@ -14,8 +14,15 @@ in this directory and then running `make gcode`
 
 ![espruino_box](espruino_box.png)
 
+![espruino_box_v1-4](espruino_box_v1-4.png)
+
 ![espruino_box2](espruino_box2.png)
 
 ![espruino_box3](espruino_box3.png)
 
 ![espruino_mount](espruino_mount.png)
+
+## Built cases
+
+![espruino_box_v1-4_print](espruino_box_v1-4_print.png)
+Ultimaker 2, PLA, standard quality, 250* nozze, 60* plate
