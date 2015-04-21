@@ -24,5 +24,5 @@ in this directory and then running `make gcode`
 
 ## Built cases
 
-![espruino_box_v1-4_print](espruino_box_v1-4_print.png)
+![espruino_box_v1-4_print](prints/espruino_box_v1-4_print.png)
 Ultimaker 2, PLA, standard quality, 250* nozze, 60* plate
