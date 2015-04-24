@@ -30,3 +30,6 @@ in this directory and then running `make gcode`
 Ultimaker 2, PLA, standard quality, 250* nozze, 60* plate
 
 This makes for a very tight fit which is what I wanted for this application, expand INNER_WIDTH if you want a looser fit in the case.
+
+## Espruino pico
+![pico_box](pico_box.png)
