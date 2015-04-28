@@ -38,6 +38,7 @@ Ultimaker 2, PLA, standard quality, 250* nozze, 60* plate
 
 This makes for a very tight fit which is what I wanted for this application, expand INNER_WIDTH if you want a looser fit in the case.
 
+
 ## Espruino Cover
 This cover is parameterized so you can adapt it to your version of espruino_box.
 
@@ -47,3 +48,6 @@ This cover is parameterized so you can adapt it to your version of espruino_box.
 It slides in on the back of the espruino_cover like this:
 
 ![espruino_box_and_cover](espruino_box_and_cover.png)
+
+## Espruino pico
+![pico_box](pico_box.png)
