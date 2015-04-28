@@ -45,4 +45,5 @@ This cover is parameterized so you can adapt it to your version of espruino_box.
 ![espruino_cover](espruino_cover.png)
 
 It slides in on the back of the espruino_cover like this:
+
 ![espruino_box_and_cover](espruino_box_and_cover.png)
