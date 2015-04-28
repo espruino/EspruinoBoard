@@ -15,18 +15,34 @@ in this directory and then running `make gcode`
 
 **BEWARE:** These have been designed on a 3D printer that is not totally calibrated, and as such could do with some adjustment before printing. Please feel free to contribute back your changes and designs.
 
+### espruino_box.scad
 ![espruino_box](espruino_box.png)
 
+### espruino_box2.scad
 ![espruino_box2](espruino_box2.png)
 
+### espruino_box3.scad
 ![espruino_box3](espruino_box3.png)
 
+### espruino_mount.scad
 ![espruino_mount](espruino_mount.png)
 
 ## Espruino 1.4
+As Espruino 1.4 moved USB and power around a bit, be sure to print this case if you own 1.4. You can easily look it up below the large Espruino silk screen label on your board.
+
+### espruino_box.scad
 ![espruino_box_v1-4](espruino_box_v1-4.png)
 
 ![espruino_box_v1-4_print](prints/espruino_box_v1-4_print.png)
 Ultimaker 2, PLA, standard quality, 250* nozze, 60* plate
 
 This makes for a very tight fit which is what I wanted for this application, expand INNER_WIDTH if you want a looser fit in the case.
+
+## Espruino Cover
+This cover is parameterized so you can adapt it to your version of espruino_box.
+
+### espruino_cover.scad
+![espruino_cover](espruino_cover.png)
+
+It slides in on the back of the espruino_cover like this:
+![espruino_box_and_cover](espruino_box_and_cover.png)
