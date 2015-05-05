@@ -32,3 +32,5 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 |  |  Soil moisture sensor |
 |  |  Capacitive keypad |
 |  |  [LPRS eRIC](http://www.lprs.co.uk/easy-radio/eric/) radio module |
+|  |  [Seeed Grove headers](http://www.seeedstudio.com/depot/s/grovefamily.html) |
+|  |  [.NET Gadgeteer](http://www.netmf.com/gadgeteer/) |
