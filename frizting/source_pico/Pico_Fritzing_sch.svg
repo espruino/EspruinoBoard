@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="153"
+   x="0px"
+   version="1.2"
+   y="0px"
+   gorn="0"
+   height="117"
+   viewBox="0 0 122.4 93.600009"
+   id="Layer_1"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Pico_Fritzing_sch.svg"><metadata
+   id="metadata7013"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs7011">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+                    
+                
+            
+        
+                
+            
+                        
+                    
+                            
+                        
+                                
+                            
+                                
+                            </defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1705"
+   inkscape:window-height="1157"
+   id="namedview7009"
+   showgrid="true"
+   inkscape:document-units="in"
+   inkscape:snap-object-midpoints="true"
+   inkscape:snap-nodes="true"
+   inkscape:snap-center="true"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="4.9947094"
+   inkscape:cx="113.42309"
+   inkscape:cy="44.736256"
+   inkscape:window-x="452"
+   inkscape:window-y="63"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1"
+   units="in"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"><inkscape:grid
+     type="xygrid"
+     id="grid9823"
+     empspacing="5"
+     visible="true"
+     enabled="true"
+     snapvisiblegridlinesonly="true"
+     units="in"
+     spacingx="0.1in"
+     spacingy="0.1in"
+     originx="0in"
+     originy="0in" /><sodipodi:guide
+     orientation="1,0"
+     position="105.63766,149.94059"
+     id="guide10180" /></sodipodi:namedview>
+    <desc
+   id="desc6409">
+        <referenceFile
+   id="referenceFile6411">Arduino_Leonardo_Rev3(fix)_schematic.svg</referenceFile>
+    </desc>
+    <path
+   style="fill:none;stroke:#000000;stroke-width:0.65182394;stroke-linecap:round"
+   d="m -3.5416667e-6,21.600005 28.8000015416667,0 0,-7.200005 79.219292,-0.07809 0,64.863855 -79.219292,0.0142 0,-7.2 -28.8000015416667,0 z"
+   id="rect6414"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccc" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.05099"
+   y2="21.600029"
+   x1="107.64999"
+   y1="21.600029"
+   id="connector103pin"
+   gorn="0.1.1" /><g
+   id="g6417"
+   transform="translate(90.935391,22.300515)">
+            <g
+   id="g6419">
+                <g
+   id="g6421">
+                    <g
+   id="g6423">
+                        <g
+   id="g6425">
+                            <g
+   id="g6427">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text6429"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10178">A4</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="43.21928"
+   y2="14.38575"
+   x1="43.21928"
+   y1="-0.014252137"
+   id="connector88pin"
+   gorn="0.1.65" /><line
+   style="fill:none"
+   x2="50.419281"
+   y2="-0.014259767"
+   x1="50.419281"
+   y1="14.38575"
+   id="connector89pin"
+   gorn="0.1.85" /><line
+   style="fill:none"
+   x2="50.419281"
+   y2="-0.014259767"
+   x1="50.419281"
+   y1="14.38575"
+   id="connector90pin"
+   gorn="0.1.87" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="50.419281"
+   y2="-0.014259767"
+   x1="50.419281"
+   y1="14.38575"
+   id="connector104pin"
+   gorn="0.1.89" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="36.019276"
+   y2="14.38575"
+   x1="36.019276"
+   y1="-0.014252137"
+   id="connector87pin"
+   gorn="0.1.91" /><g
+   id="g6983"
+   transform="translate(44.513818,44.255235)">
+            <g
+   id="g6985">
+                <g
+   id="g6987">
+                    <g
+   id="g6989">
+                        <g
+   id="g6991">
+                            <g
+   id="g6993">
+                                <text
+   style="font-size:4.25px;font-family:DroidSans"
+   font-size="4.25"
+   id="label_1_"
+   gorn="0.1.97.0.0.0.0.0.0">Espruino Pico</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   id="g6996"
+   transform="translate(49.317139,48.788435)">
+            <g
+   id="g6998">
+                <g
+   id="g7000">
+                    <g
+   id="g7002">
+                        <g
+   id="g7004">
+                            <g
+   id="g7006">
+                                <text
+   style="font-size:4.25px;font-family:DroidSans"
+   font-size="4.25"
+   id="label_2_"
+   gorn="0.1.98.0.0.0.0.0.0">(rev 1v3)</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+<g
+   transform="matrix(0,-1,1,0,54.809821,22.304995)"
+   id="g9825">
+            <g
+   id="g9827">
+                <g
+   id="g9829">
+                    <g
+   id="g9831">
+                        <g
+   id="g9833">
+                            <g
+   id="g9835">
+                                <text
+   font-size="3.5"
+   id="text9837"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   x="-2.4916525"
+   y="-3.166748">B14</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.1"
+   id="line10182"
+   y1="28.800018"
+   x1="108.00001"
+   y2="28.800018"
+   x2="122.40098"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.285391,29.500505)"
+   id="g10184">
+            <g
+   id="g10186">
+                <g
+   id="g10188">
+                    <g
+   id="g10190">
+                        <g
+   id="g10192">
+                            <g
+   id="g10194">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10196"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10198"
+     style="text-align:end;text-anchor:end">A3</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.4005"
+   y2="36.000015"
+   x1="107.9995"
+   y1="36.000015"
+   id="line10202"
+   gorn="0.1.1" /><g
+   id="g10204"
+   transform="translate(91.2849,36.700505)">
+            <g
+   id="g10206">
+                <g
+   id="g10208">
+                    <g
+   id="g10210">
+                        <g
+   id="g10212">
+                            <g
+   id="g10214">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10216"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10218">A2</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.1"
+   id="line10222"
+   y1="43.200012"
+   x1="107.9995"
+   y2="43.200012"
+   x2="122.4005"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.284897,43.900505)"
+   id="g10224">
+            <g
+   id="g10226">
+                <g
+   id="g10228">
+                    <g
+   id="g10230">
+                        <g
+   id="g10232">
+                            <g
+   id="g10234">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10236"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10238"
+     style="text-align:end;text-anchor:end">A1</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.1"
+   id="line10242"
+   y1="50.400017"
+   x1="108.00001"
+   y2="50.400017"
+   x2="122.40098"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.28539,51.100515)"
+   id="g10244">
+            <g
+   id="g10246">
+                <g
+   id="g10248">
+                    <g
+   id="g10250">
+                        <g
+   id="g10252">
+                            <g
+   id="g10254">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10256"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10258"
+     style="text-align:end;text-anchor:end">A0</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.40098"
+   y2="57.599995"
+   x1="108.00001"
+   y1="57.599995"
+   id="line10262"
+   gorn="0.1.1" /><g
+   id="g10264"
+   transform="translate(91.285387,58.300505)">
+            <g
+   id="g10266">
+                <g
+   id="g10268">
+                    <g
+   id="g10270">
+                        <g
+   id="g10272">
+                            <g
+   id="g10274">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10276"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10278">A10</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="122.4005"
+   y2="64.799995"
+   x1="107.9995"
+   y1="64.799995"
+   id="line10282"
+   gorn="0.1.1" /><g
+   id="g10284"
+   transform="translate(91.284899,65.500505)">
+            <g
+   id="g10286">
+                <g
+   id="g10288">
+                    <g
+   id="g10290">
+                        <g
+   id="g10292">
+                            <g
+   id="g10294">
+                                <text
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10296"
+   font-size="3.5"
+   x="14.564034"
+   y="0.53679478"><tspan
+     style="text-align:end;text-anchor:end"
+     id="tspan10298">B9</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.1"
+   id="line10302"
+   y1="72.000008"
+   x1="107.9995"
+   y2="72.000008"
+   x2="122.4005"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="translate(91.284896,72.700505)"
+   id="g10304">
+            <g
+   id="g10306">
+                <g
+   id="g10308">
+                    <g
+   id="g10310">
+                        <g
+   id="g10312">
+                            <g
+   id="g10314">
+                                <text
+   y="0.53679478"
+   x="14.564034"
+   font-size="3.5"
+   id="text10316"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"><tspan
+     id="tspan10318"
+     style="text-align:end;text-anchor:end">B8</tspan></text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.65"
+   id="line10526"
+   y1="-0.014252137"
+   x1="79.219292"
+   y2="14.38575"
+   x2="79.219292"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><line
+   gorn="0.1.91"
+   id="line10530"
+   y1="-0.014252137"
+   x1="72.019287"
+   y2="14.38575"
+   x2="72.019287"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><line
+   gorn="0.1.49"
+   id="line10594"
+   y1="93.600014"
+   x1="35.999989"
+   y2="79.200005"
+   x2="35.999989"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,36.700487,77.799615)"
+   id="g10596">
+            <g
+   id="g10598">
+                <g
+   id="g10600">
+                    <g
+   id="g10602">
+                        <g
+   id="g10604">
+                            <g
+   id="g10606">
+                                <text
+   font-size="3.5"
+   id="text10608"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">GND</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,43.899687,77.799615)"
+   id="g10610">
+            <g
+   id="g10612">
+                <g
+   id="g10614">
+                    <g
+   id="g10616">
+                        <g
+   id="g10618">
+                            <g
+   id="g10620">
+                                <text
+   font-size="3.5"
+   id="text10622"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"></text>
+<text
+   font-size="3.5"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text3824">Vout</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.53"
+   id="line10626"
+   y1="93.600014"
+   x1="43.199986"
+   y2="79.200005"
+   x2="43.199986"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><line
+   gorn="0.1.55"
+   id="line10630"
+   y1="93.600014"
+   x1="57.599987"
+   y2="79.200005"
+   x2="57.599987"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,51.100887,77.799615)"
+   id="g10632">
+            <g
+   id="g10634">
+                <g
+   id="g10636">
+                    <g
+   id="g10638">
+                        <g
+   id="g10640">
+                            <g
+   id="g10642">
+                                <text
+   font-size="3.5"
+   id="text10644"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">3.3v</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,58.302988,77.799615)"
+   id="g10646">
+            <g
+   id="g10648">
+                <g
+   id="g10650">
+                    <g
+   id="g10652">
+                        <g
+   id="g10654">
+                            <g
+   id="g10656">
+                                <text
+   font-size="3.5"
+   id="text10658"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B3</text>
+
+
+
+                            <text
+   y="7.7291703"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text10660"
+   font-size="3.5">B4</text>
+
+
+</g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.63"
+   id="line10664"
+   y1="93.600014"
+   x1="50.39999"
+   y2="79.200005"
+   x2="50.39999"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><line
+   gorn="0.1.67"
+   id="line10668"
+   y1="93.600014"
+   x1="71.999992"
+   y2="79.200005"
+   x2="71.999992"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,72.700488,77.799615)"
+   id="g10670">
+            <g
+   id="g10672">
+                <g
+   id="g10674">
+                    <g
+   id="g10676">
+                        <g
+   id="g10678">
+                            <g
+   id="g10680">
+                                <text
+   font-size="3.5"
+   id="text10682"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B5</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.70"
+   id="line10686"
+   y1="93.600014"
+   x1="79.199989"
+   y2="79.200005"
+   x2="79.199989"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,79.899688,77.799615)"
+   id="g10688">
+            <g
+   id="g10690">
+                <g
+   id="g10692">
+                    <g
+   id="g10694">
+                        <g
+   id="g10696">
+                            <g
+   id="g10698">
+                                <text
+   font-size="3.5"
+   id="text10700"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B6</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.73"
+   id="line10704"
+   y1="93.600014"
+   x1="86.399986"
+   y2="79.200005"
+   x2="86.399986"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,87.100888,77.799615)"
+   id="g10706">
+            <g
+   id="g10708">
+                <g
+   id="g10710">
+                    <g
+   id="g10712">
+                        <g
+   id="g10714">
+                            <g
+   id="g10716">
+                                <text
+   font-size="3.5"
+   id="text10718"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">B7</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   gorn="0.1.76"
+   id="line10722"
+   y1="93.600014"
+   x1="93.599998"
+   y2="79.200005"
+   x2="93.599998"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><g
+   transform="matrix(0,-1,1,0,94.300088,77.799615)"
+   id="g10724">
+            <g
+   id="g10726">
+                <g
+   id="g10728">
+                    <g
+   id="g10730">
+                        <g
+   id="g10732">
+                            <g
+   id="g10734">
+                                <text
+   font-size="3.5"
+   id="text10736"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans">A8</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="64.799973"
+   y2="79.550011"
+   x1="64.799973"
+   y1="93.950005"
+   id="line10758"
+   gorn="0.1.67" /><line
+   gorn="0.1.89"
+   id="line3834"
+   y1="14.400009"
+   x1="57.599998"
+   y2="-8.0575783e-06"
+   x2="57.599998"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="64.800003"
+   y2="-8.0575783e-06"
+   x1="64.800003"
+   y1="14.400009"
+   id="line3836"
+   gorn="0.1.89" /><line
+   gorn="0.1.89"
+   id="line3838"
+   y1="14.400009"
+   x1="86.400009"
+   y2="-8.0575783e-06"
+   x2="86.400009"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" /><line
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+   x2="93.600006"
+   y2="-8.0575783e-06"
+   x1="93.600006"
+   y1="14.400009"
+   id="line3840"
+   gorn="0.1.89" /><g
+   id="g3844"
+   transform="matrix(0,-1,1,0,62.010355,22.166565)">
+            <g
+   id="g3846">
+                <g
+   id="g3848">
+                    <g
+   id="g3850">
+                        <g
+   id="g3852">
+                            <g
+   id="g3854">
+                                <text
+   y="-3.166748"
+   x="-2.4916525"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text3856"
+   font-size="3.5">B13</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,69.218579,22.211005)"
+   id="g3858">
+            <g
+   id="g3860">
+                <g
+   id="g3862">
+                    <g
+   id="g3864">
+                        <g
+   id="g3866">
+                            <g
+   id="g3868">
+                                <text
+   font-size="3.5"
+   id="text3870"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   x="-2.4916525"
+   y="-3.166748">B10</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   id="g3872"
+   transform="matrix(0,-1,1,0,90.836416,20.238839)">
+            <g
+   id="g3874">
+                <g
+   id="g3876">
+                    <g
+   id="g3878">
+                        <g
+   id="g3880">
+                            <g
+   id="g3882">
+                                <text
+   y="-3.166748"
+   x="-2.4916525"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text3884"
+   font-size="3.5">A6</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,98.030117,20.204659)"
+   id="g3886">
+            <g
+   id="g3888">
+                <g
+   id="g3890">
+                    <g
+   id="g3892">
+                        <g
+   id="g3894">
+                            <g
+   id="g3896">
+                                <text
+   font-size="3.5"
+   id="text3898"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   x="-2.4916525"
+   y="-3.166748">A5</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   id="g3986"
+   transform="matrix(0,-1,1,0,76.422535,19.734689)">
+            <g
+   id="g3988">
+                <g
+   id="g3990">
+                    <g
+   id="g3992">
+                        <g
+   id="g3994">
+                            <g
+   id="g3996">
+                                <text
+   y="-3.166748"
+   x="-2.4916525"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text3998"
+   font-size="3.5">B1</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   id="g3958"
+   transform="matrix(0,-1,1,0,47.579379,22.180245)">
+            <g
+   id="g3960">
+                <g
+   id="g3962">
+                    <g
+   id="g3964">
+                        <g
+   id="g3966">
+                            <g
+   id="g3968">
+                                <text
+   y="-3.166748"
+   x="-2.4916525"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   id="text3970"
+   font-size="3.5">B15</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,40.430114,21.024965)"
+   id="g3972">
+            <g
+   id="g3974">
+                <g
+   id="g3976">
+                    <g
+   id="g3978">
+                        <g
+   id="g3980">
+                            <g
+   id="g3982">
+                                <text
+   font-size="3.5"
+   id="text3984"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   x="-2.4916525"
+   y="-3.166748">Vin</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g><g
+   transform="matrix(0,-1,1,0,83.634175,20.232003)"
+   id="g4000">
+            <g
+   id="g4002">
+                <g
+   id="g4004">
+                    <g
+   id="g4006">
+                        <g
+   id="g4008">
+                            <g
+   id="g4010">
+                                <text
+   font-size="3.5"
+   id="text4012"
+   style="font-size:3.5px;fill:#8c8c8c;font-family:DroidSans"
+   x="-2.4916525"
+   y="-3.166748">A7</text>
+
+
+
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g></svg>
