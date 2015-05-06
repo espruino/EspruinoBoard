@@ -246,6 +246,42 @@
 <wire x1="26.67" y1="-21.59" x2="-26.67" y2="-21.59" width="0.127" layer="21"/>
 <wire x1="-26.67" y1="-21.59" x2="-26.67" y2="19.05" width="0.127" layer="21"/>
 </package>
+<package name="ESPRUINO_PICO_HALFSMD">
+<pad name="A8" x="7.62" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="B7" x="5.08" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="B6" x="2.54" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="B5" x="0" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="B4" x="-2.54" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="B3" x="-5.08" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="3.3V" x="-7.62" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="5V" x="-10.16" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="GND" x="-12.7" y="-6.35" drill="1.016" shape="offset" rot="R270"/>
+<pad name="A5" x="7.62" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="A6" x="5.08" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="A7" x="2.54" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="B1" x="0" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="B10" x="-2.54" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="B13" x="-5.08" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="B14" x="-7.62" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="B15" x="-10.16" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<pad name="BAT" x="-12.7" y="6.35" drill="1.016" shape="offset" rot="R90"/>
+<wire x1="8.89" y1="-7.62" x2="-13.97" y2="-7.62" width="0.127" layer="21"/>
+<wire x1="-13.97" y1="-7.62" x2="-13.97" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-13.97" y1="-6.35" x2="-24.765" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-24.765" y1="-6.35" x2="-24.765" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-24.765" y1="6.35" x2="-13.97" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-13.97" y1="6.35" x2="-13.97" y2="7.62" width="0.127" layer="21"/>
+<wire x1="-13.97" y1="7.62" x2="8.89" y2="7.62" width="0.127" layer="21"/>
+<wire x1="8.89" y1="7.62" x2="8.89" y2="-7.62" width="0.127" layer="21"/>
+<smd name="A4" x="8.128" y="4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A3" x="8.128" y="3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A2" x="8.128" y="1.905" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A1" x="8.128" y="0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A0" x="8.128" y="-0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A10" x="8.128" y="-1.905" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="B9" x="8.128" y="-3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="B8" x="8.128" y="-4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+</package>
 </packages>
 <symbols>
 <symbol name="ESPRUINO_PICO">
@@ -573,6 +609,46 @@ Pico</text>
 <connect gate="G$1" pin="RST" pad="RST"/>
 <connect gate="G$1" pin="VBAT" pad="VBAT"/>
 <connect gate="G$1" pin="VBAT." pad="VBAT."/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="ESPRUINO_PICO_HALFSMD">
+<gates>
+<gate name="G$1" symbol="ESPRUINO_PICO" x="-2.54" y="7.62"/>
+</gates>
+<devices>
+<device name="" package="ESPRUINO_PICO_HALFSMD">
+<connects>
+<connect gate="G$1" pin="3.3V" pad="3.3V"/>
+<connect gate="G$1" pin="5V" pad="5V"/>
+<connect gate="G$1" pin="A0" pad="A0"/>
+<connect gate="G$1" pin="A1" pad="A1"/>
+<connect gate="G$1" pin="A10" pad="A10"/>
+<connect gate="G$1" pin="A2" pad="A2"/>
+<connect gate="G$1" pin="A3" pad="A3"/>
+<connect gate="G$1" pin="A4" pad="A4"/>
+<connect gate="G$1" pin="A5" pad="A5"/>
+<connect gate="G$1" pin="A6" pad="A6"/>
+<connect gate="G$1" pin="A7" pad="A7"/>
+<connect gate="G$1" pin="A8" pad="A8"/>
+<connect gate="G$1" pin="B1" pad="B1"/>
+<connect gate="G$1" pin="B10" pad="B10"/>
+<connect gate="G$1" pin="B13" pad="B13"/>
+<connect gate="G$1" pin="B14" pad="B14"/>
+<connect gate="G$1" pin="B15" pad="B15"/>
+<connect gate="G$1" pin="B3" pad="B3"/>
+<connect gate="G$1" pin="B4" pad="B4"/>
+<connect gate="G$1" pin="B5" pad="B5"/>
+<connect gate="G$1" pin="B6" pad="B6"/>
+<connect gate="G$1" pin="B7" pad="B7"/>
+<connect gate="G$1" pin="B8" pad="B8"/>
+<connect gate="G$1" pin="B9" pad="B9"/>
+<connect gate="G$1" pin="BAT" pad="BAT"/>
+<connect gate="G$1" pin="GND" pad="GND"/>
 </connects>
 <technologies>
 <technology name=""/>
