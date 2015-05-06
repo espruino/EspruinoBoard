@@ -13,7 +13,8 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 |  |  CC3000 WiFi (would solder right on apart from GND + power) |
 | [Link](eagle/w550io.brd) |  WIZnet W5500 Ethernet |
 | [Link](eagle/xbee.brd) |  Generic XBee footprint (will handle SRF via the XRF module) |
-| [Link](eagle/rfm12b.brd) |  RFM69HW wireless |
+| [Link](eagle/rfm12b.brd) |  RFM12B wireless |
+| [Link](eagle/rfm69.brd) |  RFM69HW wireless |
 | [Link](eagle/bluetooth.brd)  |  HC-05 / HC-06 / HM-10 bluetooth |
 |  |  Audio Jack (see the [Audio programming thread](http://forum.espruino.com/conversations/257732/)) |
 | [Link](eagle/servo.brd) |  Model aircraft servos |
