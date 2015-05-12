@@ -392,7 +392,7 @@ Pico</text>
 </classes>
 <parts>
 <part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_SMDONLY" device=""/>
-<part name="JP1" library="pinhead" deviceset="PINHD-1X1" device=""/>
+<part name="ANT" library="pinhead" deviceset="PINHD-1X1" device=""/>
 <part name="U$3" library="RFM69" deviceset="RFM69" device=""/>
 </parts>
 <sheets>
@@ -401,7 +401,7 @@ Pico</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="40.64" y="50.8"/>
-<instance part="JP1" gate="G$1" x="139.7" y="35.56"/>
+<instance part="ANT" gate="G$1" x="139.7" y="35.56"/>
 <instance part="U$3" gate="G$1" x="109.22" y="43.18"/>
 </instances>
 <busses>
@@ -486,7 +486,7 @@ Pico</text>
 </net>
 <net name="N$1" class="0">
 <segment>
-<pinref part="JP1" gate="G$1" pin="1"/>
+<pinref part="ANT" gate="G$1" pin="1"/>
 <pinref part="U$3" gate="G$1" pin="ANA"/>
 <wire x1="121.92" y1="35.56" x2="137.16" y2="35.56" width="0.1524" layer="91"/>
 </segment>
