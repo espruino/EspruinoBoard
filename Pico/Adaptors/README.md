@@ -9,7 +9,8 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 |  |  0.05" to 0.1" adaptor |
 |  |  MAX1551 LiPo battery charger |
 | [Link](eagle/nrf24.brd) |  NRF24L01P wireless |
-| [0.05 in](eagle/esp8266_small.brd), [0.05 in SMD](eagle/esp8266_small2.brd) or [large SMD](eagle/esp8266_small.brd) |  ESP8266 WiFi |
+| [0.05 in](eagle/esp8266_small.brd), [0.05 in SMD](eagle/esp8266_small2.brd) or [large SMD](eagle/esp8266_small.brd) |  ESP8266 WiFi (ESP01 module) |
+| [link](eagle/esp8266_esp12.brd) |  ESP8266 WiFi (ESP12 SMD module) |
 |  |  CC3000 WiFi (would solder right on apart from GND + power) |
 | [Link](eagle/w550io.brd) |  WIZnet W5500 Ethernet |
 | [Link](eagle/xbee.brd) |  Generic XBee footprint (will handle SRF via the XRF module) |
@@ -36,3 +37,4 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 |  |  [Seeed Grove headers](http://www.seeedstudio.com/depot/s/grovefamily.html) |
 |  |  [.NET Gadgeteer](http://www.netmf.com/gadgeteer/) |
 | [Link](eagle/robot.brd) |  Line-following Robot (LEDs, Light sensors, 4x Servo, Bluetooth, WiFi) |
+| [Link](../EspruBoy/espruboy.brd) | Mini-GameBoy Module |
