@@ -4263,6 +4263,10 @@ Source: AVX .. aphvc.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="81.28" y="78.74" size="1.778" layer="91">TODO:
+
+Bigger holes for supercap
+Move ESP8266 module over to avoid tab of LCD</text>
 </plain>
 <instances>
 <instance part="LCD1" gate="G$1" x="111.76" y="40.64"/>
