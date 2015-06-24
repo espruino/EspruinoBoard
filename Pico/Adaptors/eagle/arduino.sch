@@ -963,6 +963,11 @@ Pico</text>
 <wire x1="-12.7" y1="17.78" x2="-12.7" y2="7.62" width="0.1524" layer="91"/>
 <label x="-12.7" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
+<segment>
+<pinref part="U$2" gate="G$1" pin="5V"/>
+<wire x1="81.28" y1="10.16" x2="81.28" y2="0" width="0.1524" layer="91"/>
+<label x="81.28" y="0" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="3.3V" class="1">
 <segment>

@@ -808,7 +808,8 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="4.318" y1="19.304" x2="4.572" y2="19.558" width="0.4064" layer="1"/>
 <wire x1="4.318" y1="10.287" x2="4.318" y2="19.304" width="0.4064" layer="1"/>
 <wire x1="10.668" y1="3.937" x2="4.318" y2="10.287" width="0.4064" layer="1"/>
-<wire x1="34.925" y1="3.937" x2="10.668" y2="3.937" width="0.4064" layer="1"/>
+<wire x1="34.925" y1="3.937" x2="27.305" y2="3.937" width="0.4064" layer="1"/>
+<wire x1="27.305" y1="3.937" x2="10.668" y2="3.937" width="0.4064" layer="1"/>
 <wire x1="34.925" y1="2.54" x2="34.925" y2="3.937" width="0.4064" layer="1"/>
 <wire x1="52.959" y1="9.017" x2="51.181" y2="10.795" width="0.4064" layer="1"/>
 <wire x1="52.959" y1="4.191" x2="52.959" y2="9.017" width="0.4064" layer="1"/>
@@ -818,6 +819,8 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="35.052" y1="1.143" x2="53.213" y2="1.143" width="0.4064" layer="1"/>
 <wire x1="35.052" y1="2.413" x2="35.052" y2="1.143" width="0.4064" layer="1"/>
 <wire x1="35.052" y1="2.413" x2="34.925" y2="2.54" width="0.4064" layer="1"/>
+<contactref element="U$2" pad="5V"/>
+<wire x1="27.305" y1="2.54" x2="27.305" y2="3.937" width="0.4064" layer="1"/>
 </signal>
 <signal name="3.3V" class="1">
 <contactref element="U$3" pad="3.3"/>
