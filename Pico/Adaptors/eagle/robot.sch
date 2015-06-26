@@ -8072,6 +8072,10 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <text x="78.74" y="43.18" size="1.778" layer="91">GPIO0</text>
 <text x="78.74" y="40.64" size="1.778" layer="91">GPIO2</text>
 <text x="71.12" y="-2.54" size="1.778" layer="91">Farnell 1759435</text>
+<text x="68.58" y="-17.78" size="1.778" layer="91">TODO:
+
+IR remote control?
+Bring out other IOs?</text>
 </plain>
 <instances>
 <instance part="ESP8266" gate="A" x="96.52" y="40.64"/>
