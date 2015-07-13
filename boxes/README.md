@@ -49,5 +49,8 @@ It slides in on the back of the espruino_cover like this:
 
 ![espruino_box_and_cover](espruino_box_and_cover.png)
 
-## Espruino pico
+## Espruino Pico
+
+### pico_box.scad
 ![pico_box](pico_box.png)
+![pico box photo](pico_box_photo.jpg)
