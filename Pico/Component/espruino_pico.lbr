@@ -282,6 +282,31 @@
 <smd name="B9" x="8.128" y="-3.175" dx="1.016" dy="2.032" layer="1" rot="R90"/>
 <smd name="B8" x="8.128" y="-4.445" dx="1.016" dy="2.032" layer="1" rot="R90"/>
 </package>
+<package name="ESPRUINO_PICO_0.05_SMALL">
+<pad name="A10" x="5.08" y="-1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="B9" x="5.08" y="-3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="B8" x="5.08" y="-4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="A2" x="5.08" y="1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="A3" x="5.08" y="3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="A4" x="5.08" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="5V_2" x="0" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
+<pad name="3.3V_2" x="1.27" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
+<pad name="GND_2" x="2.54" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
+<wire x1="6.35" y1="-7.62" x2="-16.51" y2="-7.62" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="-7.62" x2="-16.51" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="-6.35" x2="-27.305" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-27.305" y1="-6.35" x2="-27.305" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-27.305" y1="6.35" x2="-16.51" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="6.35" x2="-16.51" y2="7.62" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="7.62" x2="6.35" y2="7.62" width="0.127" layer="21"/>
+<wire x1="6.35" y1="7.62" x2="6.35" y2="5.08" width="0.127" layer="21"/>
+<smd name="A1" x="5.588" y="0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A0" x="5.588" y="-0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<wire x1="6.35" y1="5.08" x2="6.35" y2="-5.08" width="0.127" layer="21"/>
+<wire x1="6.35" y1="-5.08" x2="6.35" y2="-7.62" width="0.127" layer="21"/>
+<wire x1="-1.27" y1="5.08" x2="6.35" y2="5.08" width="0.127" layer="21"/>
+<wire x1="-1.27" y1="-5.08" x2="6.35" y2="-5.08" width="0.127" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="ESPRUINO_PICO">
@@ -649,6 +674,31 @@ Pico</text>
 <connect gate="G$1" pin="B9" pad="B9"/>
 <connect gate="G$1" pin="BAT" pad="BAT"/>
 <connect gate="G$1" pin="GND" pad="GND"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="ESPRUINO_PICO_0.05_SMALL">
+<gates>
+<gate name="G$1" symbol="ESPRUINO_PICO_0.05" x="5.08" y="2.54"/>
+</gates>
+<devices>
+<device name="" package="ESPRUINO_PICO_0.05_SMALL">
+<connects>
+<connect gate="G$1" pin="3.3V" pad="3.3V_2"/>
+<connect gate="G$1" pin="5V" pad="5V_2"/>
+<connect gate="G$1" pin="A0" pad="A0"/>
+<connect gate="G$1" pin="A1" pad="A1"/>
+<connect gate="G$1" pin="A10" pad="A10"/>
+<connect gate="G$1" pin="A2" pad="A2"/>
+<connect gate="G$1" pin="A3" pad="A3"/>
+<connect gate="G$1" pin="A4" pad="A4"/>
+<connect gate="G$1" pin="B8" pad="B8"/>
+<connect gate="G$1" pin="B9" pad="B9"/>
+<connect gate="G$1" pin="GND" pad="GND_2"/>
 </connects>
 <technologies>
 <technology name=""/>
