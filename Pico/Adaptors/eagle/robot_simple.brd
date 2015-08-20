@@ -191,7 +191,7 @@ Robot Board</text>
 <text x="21.336" y="8.128" size="0.889" layer="22" rot="MR0">Pin A7</text>
 <text x="4.064" y="26.162" size="0.889" layer="21" rot="R270">Trig B4
 Echo B3</text>
-<text x="40.894" y="25.4" size="0.889" layer="22" rot="MR180">v1.0</text>
+<text x="40.894" y="25.4" size="0.889" layer="22" rot="MR180">v1.1</text>
 </plain>
 <libraries>
 <library name="pinhead">
@@ -1887,9 +1887,9 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <element name="R4" library="rcl" package="R0805" value="10k" x="6.604" y="2.54" smashed="yes">
 <attribute name="NAME" x="6.096" y="0.508" size="0.889" layer="25"/>
 </element>
-<element name="ULTRASONIC" library="pinhead" package="1X04" value="" x="1.778" y="18.542" smashed="yes" rot="R90">
-<attribute name="NAME" x="5.552515625" y="11.012928125" size="0.889" layer="25" ratio="10" rot="R90"/>
-<attribute name="VALUE" x="4.952996875" y="13.462" size="1.27" layer="27" rot="R90"/>
+<element name="ULTRASONIC" library="pinhead" package="1X04" value="" x="1.778" y="19.05" smashed="yes" rot="R270">
+<attribute name="NAME" x="3.591484375" y="19.721071875" size="0.889" layer="25" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="-1.396996875" y="24.13" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="J1" library="OPL5" package="2P-SMD-2.0-90D" value="" x="5.334" y="3.81" smashed="yes" rot="MR0"/>
 <element name="JP5" library="pinhead" package="1X09" value="" x="64.008" y="7.62" smashed="yes" rot="R180">
@@ -1993,11 +1993,6 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <wire x1="6.35" y1="31.242" x2="5.588" y2="32.004" width="0.4064" layer="1"/>
 <wire x1="5.588" y1="32.004" x2="5.588" y2="32.954" width="0.4064" layer="1"/>
 <wire x1="5.588" y1="32.954" x2="5.654" y2="33.02" width="0.4064" layer="1"/>
-<wire x1="1.778" y1="22.352" x2="1.778" y2="25.146" width="0.4064" layer="1"/>
-<wire x1="1.778" y1="25.146" x2="3.302" y2="26.67" width="0.4064" layer="1"/>
-<wire x1="3.302" y1="26.67" x2="3.302" y2="30.226" width="0.4064" layer="1"/>
-<wire x1="3.302" y1="30.226" x2="4.318" y2="31.242" width="0.4064" layer="1"/>
-<wire x1="4.318" y1="31.242" x2="6.35" y2="31.242" width="0.4064" layer="1"/>
 <wire x1="4.334" y1="8.89" x2="4.334" y2="6.053" width="0.8128" layer="16"/>
 <wire x1="4.334" y1="6.053" x2="4.334" y2="4.588" width="0.8128" layer="16"/>
 <wire x1="4.334" y1="4.588" x2="4.318" y2="4.572" width="0.8128" layer="16"/>
@@ -2052,6 +2047,9 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <via x="2.286" y="12.192" extent="1-16" drill="0.3048"/>
 <via x="7.874" y="7.62" extent="1-16" drill="0.3048"/>
 <via x="5.334" y="29.21" extent="1-16" drill="0.3048"/>
+<wire x1="1.778" y1="15.24" x2="2.286" y2="15.24" width="0.4064" layer="16"/>
+<wire x1="2.286" y1="15.24" x2="4.318" y2="13.208" width="0.4064" layer="16"/>
+<wire x1="4.318" y1="13.208" x2="4.318" y2="6.096" width="0.4064" layer="16"/>
 </signal>
 <signal name="N$5">
 <contactref element="LED3" pad="A"/>
@@ -2103,7 +2101,8 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <wire x1="57.338" y1="30.48" x2="58.42" y2="30.48" width="0.4064" layer="1"/>
 <wire x1="58.42" y1="30.48" x2="58.674" y2="30.226" width="0.4064" layer="1"/>
 <via x="58.674" y="30.226" extent="1-16" drill="0.3048"/>
-<wire x1="58.674" y1="30.226" x2="67.818" y2="30.226" width="0.8128" layer="16"/>
+<wire x1="58.674" y1="30.226" x2="62.738" y2="30.226" width="0.8128" layer="16"/>
+<wire x1="62.738" y1="30.226" x2="67.818" y2="30.226" width="0.8128" layer="16"/>
 <wire x1="67.818" y1="30.226" x2="68.072" y2="30.48" width="0.8128" layer="16"/>
 <wire x1="53.594" y1="34.224" x2="52.136" y2="34.224" width="0.4064" layer="1"/>
 <wire x1="52.136" y1="34.224" x2="52.07" y2="34.29" width="0.4064" layer="1"/>
@@ -2113,16 +2112,19 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <wire x1="53.594" y1="33.274" x2="53.594" y2="31.242" width="0.8128" layer="16"/>
 <wire x1="53.594" y1="31.242" x2="54.61" y2="30.226" width="0.8128" layer="16"/>
 <wire x1="54.61" y1="30.226" x2="58.674" y2="30.226" width="0.8128" layer="16"/>
-<wire x1="1.778" y1="14.732" x2="3.302" y2="14.732" width="0.4064" layer="16"/>
-<wire x1="3.302" y1="14.732" x2="5.334" y2="12.7" width="0.4064" layer="16"/>
-<wire x1="5.334" y1="12.7" x2="11.684" y2="12.7" width="0.4064" layer="16"/>
-<wire x1="11.684" y1="12.7" x2="14.224" y2="15.24" width="0.4064" layer="16"/>
-<wire x1="14.224" y1="15.24" x2="20.574" y2="15.24" width="0.4064" layer="16"/>
-<via x="20.574" y="15.24" extent="1-16" drill="0.3048"/>
-<wire x1="20.574" y1="15.24" x2="20.574" y2="33.02" width="0.4064" layer="1"/>
 <wire x1="20.574" y1="33.02" x2="21.844" y2="34.29" width="0.4064" layer="1"/>
 <via x="21.844" y="34.29" extent="1-16" drill="0.3048"/>
 <wire x1="21.844" y1="34.29" x2="52.07" y2="34.29" width="0.4064" layer="16"/>
+<contactref element="U3" pad="4"/>
+<wire x1="61.6919" y1="33.462" x2="62.672" y2="33.462" width="0.4064" layer="1"/>
+<wire x1="62.672" y1="33.462" x2="62.738" y2="33.528" width="0.4064" layer="1"/>
+<via x="62.738" y="33.528" extent="1-16" drill="0.3048"/>
+<wire x1="62.738" y1="33.528" x2="62.738" y2="30.226" width="0.4064" layer="16"/>
+<wire x1="20.574" y1="33.02" x2="20.574" y2="27.94" width="0.4064" layer="1"/>
+<via x="20.574" y="27.94" extent="1-16" drill="0.3048"/>
+<wire x1="20.574" y1="27.94" x2="2.794" y2="27.94" width="0.4064" layer="16"/>
+<wire x1="2.794" y1="27.94" x2="1.778" y2="26.924" width="0.4064" layer="16"/>
+<wire x1="1.778" y1="26.924" x2="1.778" y2="22.86" width="0.4064" layer="16"/>
 </signal>
 <signal name="LDR1">
 <contactref element="U$1" pad="A5"/>
@@ -2245,13 +2247,10 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <wire x1="66.548" y1="24.13" x2="66.548" y2="19.558" width="0.4064" layer="16"/>
 <wire x1="66.548" y1="19.558" x2="64.77" y2="17.78" width="0.4064" layer="16"/>
 <wire x1="64.77" y1="17.78" x2="15.494" y2="17.78" width="0.4064" layer="16"/>
-<wire x1="15.494" y1="17.78" x2="11.684" y2="13.97" width="0.4064" layer="16"/>
-<wire x1="11.684" y1="13.97" x2="5.334" y2="13.97" width="0.4064" layer="16"/>
-<wire x1="5.334" y1="13.97" x2="4.064" y2="15.24" width="0.4064" layer="16"/>
-<via x="4.064" y="15.24" extent="1-16" drill="0.3048"/>
-<wire x1="4.064" y1="15.24" x2="4.064" y2="19.304" width="0.4064" layer="1"/>
-<wire x1="4.064" y1="19.304" x2="3.556" y2="19.812" width="0.4064" layer="1"/>
-<wire x1="3.556" y1="19.812" x2="1.778" y2="19.812" width="0.4064" layer="1"/>
+<wire x1="15.494" y1="17.78" x2="12.7" y2="14.986" width="0.4064" layer="16"/>
+<wire x1="12.7" y1="14.986" x2="6.35" y2="14.986" width="0.4064" layer="16"/>
+<wire x1="6.35" y1="14.986" x2="3.556" y2="17.78" width="0.4064" layer="16"/>
+<wire x1="3.556" y1="17.78" x2="1.778" y2="17.78" width="0.4064" layer="16"/>
 </signal>
 <signal name="SONIC_TRIG">
 <contactref element="ULTRASONIC" pad="2"/>
@@ -2261,10 +2260,12 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <wire x1="64.008" y1="24.13" x2="64.008" y2="20.32" width="0.4064" layer="16"/>
 <wire x1="64.008" y1="20.32" x2="62.738" y2="19.05" width="0.4064" layer="16"/>
 <wire x1="62.738" y1="19.05" x2="15.494" y2="19.05" width="0.4064" layer="16"/>
-<wire x1="15.494" y1="19.05" x2="11.684" y2="15.24" width="0.4064" layer="16"/>
-<wire x1="11.684" y1="15.24" x2="6.096" y2="15.24" width="0.4064" layer="16"/>
-<wire x1="6.096" y1="15.24" x2="4.064" y2="17.272" width="0.4064" layer="16"/>
-<wire x1="4.064" y1="17.272" x2="1.778" y2="17.272" width="0.4064" layer="16"/>
+<wire x1="15.494" y1="19.05" x2="12.446" y2="16.002" width="0.4064" layer="16"/>
+<wire x1="12.446" y1="16.002" x2="6.604" y2="16.002" width="0.4064" layer="16"/>
+<wire x1="6.604" y1="16.002" x2="5.842" y2="16.764" width="0.4064" layer="16"/>
+<wire x1="5.842" y1="16.764" x2="5.842" y2="19.304" width="0.4064" layer="16"/>
+<wire x1="5.842" y1="19.304" x2="4.826" y2="20.32" width="0.4064" layer="16"/>
+<wire x1="4.826" y1="20.32" x2="1.778" y2="20.32" width="0.4064" layer="16"/>
 </signal>
 <signal name="3.3V" class="1">
 <contactref element="PH4" pad="1"/>
@@ -2327,9 +2328,9 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <signal name="N$13">
 <contactref element="LED4" pad="C"/>
 <contactref element="U3" pad="3"/>
-<wire x1="64.2921" y1="33.462" x2="63.82" y2="33.462" width="0.4064" layer="1"/>
-<wire x1="63.82" y1="33.462" x2="62.484" y2="34.798" width="0.4064" layer="1"/>
-<wire x1="62.484" y1="34.798" x2="58.2" y2="34.798" width="0.4064" layer="1"/>
+<wire x1="64.2921" y1="33.462" x2="64.328" y2="33.462" width="0.4064" layer="1"/>
+<wire x1="64.328" y1="33.462" x2="63.754" y2="34.798" width="0.4064" layer="1"/>
+<wire x1="63.754" y1="34.798" x2="58.2" y2="34.798" width="0.4064" layer="1"/>
 <wire x1="58.2" y1="34.798" x2="57.438" y2="34.036" width="0.4064" layer="1"/>
 </signal>
 <signal name="N$14">
@@ -2385,11 +2386,11 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <wire x1="58.928" y1="27.94" x2="58.928" y2="24.13" width="0.4064" layer="1"/>
 <wire x1="58.928" y1="24.13" x2="58.928" y2="22.352" width="0.4064" layer="16"/>
 <wire x1="58.928" y1="22.352" x2="58.166" y2="21.59" width="0.4064" layer="16"/>
-<wire x1="58.166" y1="21.59" x2="5.334" y2="21.59" width="0.4064" layer="16"/>
-<wire x1="5.334" y1="21.59" x2="1.524" y2="25.4" width="0.4064" layer="16"/>
-<wire x1="1.524" y1="25.4" x2="1.524" y2="26.67" width="0.4064" layer="16"/>
-<via x="1.524" y="26.67" extent="1-16" drill="0.3048"/>
-<wire x1="1.524" y1="26.67" x2="1.524" y2="28.26" width="0.4064" layer="1"/>
+<wire x1="58.166" y1="21.59" x2="6.604" y2="21.59" width="0.4064" layer="16"/>
+<wire x1="6.604" y1="21.59" x2="2.794" y2="25.4" width="0.4064" layer="16"/>
+<via x="2.794" y="25.4" extent="1-16" drill="0.3048"/>
+<wire x1="1.524" y1="28.26" x2="2.794" y2="26.99" width="0.4064" layer="1"/>
+<wire x1="2.794" y1="26.99" x2="2.794" y2="25.4" width="0.4064" layer="1"/>
 </signal>
 <signal name="N$2">
 <contactref element="JP5" pad="2"/>
