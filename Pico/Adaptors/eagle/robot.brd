@@ -2884,6 +2884,8 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <wire x1="16.256" y1="16.002" x2="14.0716" y2="16.002" width="0.1524" layer="16"/>
 <wire x1="13.9192" y1="16.1544" x2="13.874" y2="16.192" width="0.1524" layer="16"/>
 <wire x1="16.256" y1="16.002" x2="20.066" y2="16.002" width="0.1524" layer="16"/>
+<contactref element="U$1" pad="A10"/>
+<wire x1="20.066" y1="16.002" x2="63.246" y2="14.859" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="SONIC_R_ECHO">
 <contactref element="U$1" pad="B9"/>
