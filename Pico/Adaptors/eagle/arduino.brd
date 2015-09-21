@@ -1557,9 +1557,9 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.3048" drill="0">
 </class>
-<class number="1" name="PWR" width="0.4064" drill="0">
+<class number="1" name="power" width="0.4064" drill="0">
 </class>
 </classes>
 <designrules name="oshpark">

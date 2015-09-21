@@ -5,12 +5,13 @@ There's [a forum thread](http://forum.espruino.com/conversations/259519/) on pot
 | Link | Type |
 |------|------|
 |  |  Mounting Holes |
-| [Link](eagle/arduino.brd) |  Arduino/classic Espruino footprint |
+| [![](eagle/arduino.png)](eagle/arduino.brd) |  Arduino/classic Espruino footprint |
 |  |  0.05" to 0.1" adaptor |
 |  |  MAX1551 LiPo battery charger |
-| [Link](eagle/nrf24.brd) |  NRF24L01P wireless |
-| [0.05 in](eagle/esp8266_small.brd), [0.05 in SMD](eagle/esp8266_small2.brd) or [large SMD](eagle/esp8266_small.brd) |  ESP8266 WiFi (ESP01 module) |
-| [link](eagle/esp8266_esp12.brd) |  ESP8266 WiFi (ESP12 SMD module) |
+| [![](eagle/nrf24.png)](eagle/nrf24.brd) |  NRF24L01P wireless |
+| [![](eagle/esp8266_esp01_shim_rev1.png)](eagle/esp8266_esp01_shim_rev1.brd) | ESP8266 ESP01 Shim rev 1 |
+| [![](eagle/esp8266_esp01_shim_rev2.png)](eagle/esp8266_esp01_shim_rev2.brd) | ESP8266 ESP01 Shim rev 2 [buy on Tindie!](https://www.tindie.com/products/gfwilliams/espruino-pico-esp8266-wifi-shim/) |
+| [![](eagle/esp8266_esp12.png](eagle/esp8266_esp12.brd) |  ESP8266 WiFi (ESP12 SMD module) |
 |  |  CC3000 WiFi (would solder right on apart from GND + power) |
 | [Link](eagle/w550io.brd) |  WIZnet W5500 Ethernet |
 | [Link](eagle/xbee.brd) |  Generic XBee footprint (will handle SRF via the XRF module) |

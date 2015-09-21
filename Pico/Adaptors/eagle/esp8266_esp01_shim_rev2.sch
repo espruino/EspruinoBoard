@@ -3577,26 +3577,30 @@ Source: AVX .. aphvc.pdf</description>
 </library>
 <library name="espruino_pico">
 <packages>
-<package name="ESPRUINO_PICO_0.05">
-<pad name="A1" x="6.35" y="0.635" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A0" x="6.35" y="-0.635" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A10" x="6.35" y="-1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="B9" x="6.35" y="-3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="B8" x="6.35" y="-4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A2" x="6.35" y="1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A3" x="6.35" y="3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="A4" x="6.35" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
-<pad name="5V_2" x="1.27" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
-<pad name="3.3V_2" x="2.54" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
-<pad name="GND_2" x="3.81" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
-<wire x1="7.62" y1="-7.62" x2="-15.24" y2="-7.62" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="-7.62" x2="-15.24" y2="-6.35" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="-6.35" x2="-26.035" y2="-6.35" width="0.127" layer="21"/>
-<wire x1="-26.035" y1="-6.35" x2="-26.035" y2="6.35" width="0.127" layer="21"/>
-<wire x1="-26.035" y1="6.35" x2="-15.24" y2="6.35" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="6.35" x2="-15.24" y2="7.62" width="0.127" layer="21"/>
-<wire x1="-15.24" y1="7.62" x2="7.62" y2="7.62" width="0.127" layer="21"/>
-<wire x1="7.62" y1="7.62" x2="7.62" y2="-7.62" width="0.127" layer="21"/>
+<package name="ESPRUINO_PICO_0.05_SMALL">
+<pad name="A10" x="5.08" y="-1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="B9" x="5.08" y="-3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="B8" x="5.08" y="-4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="A2" x="5.08" y="1.905" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="A3" x="5.08" y="3.175" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="A4" x="5.08" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset"/>
+<pad name="5V_2" x="0" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
+<pad name="3.3V_2" x="1.27" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
+<pad name="GND_2" x="2.54" y="4.445" drill="0.650240625" diameter="0.9652" shape="offset" rot="R270"/>
+<wire x1="6.35" y1="-7.62" x2="-16.51" y2="-7.62" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="-7.62" x2="-16.51" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="-6.35" x2="-27.305" y2="-6.35" width="0.127" layer="21"/>
+<wire x1="-27.305" y1="-6.35" x2="-27.305" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-27.305" y1="6.35" x2="-16.51" y2="6.35" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="6.35" x2="-16.51" y2="7.62" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="7.62" x2="6.35" y2="7.62" width="0.127" layer="21"/>
+<wire x1="6.35" y1="7.62" x2="6.35" y2="5.08" width="0.127" layer="21"/>
+<smd name="A1" x="5.588" y="0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<smd name="A0" x="5.588" y="-0.635" dx="1.016" dy="2.032" layer="1" rot="R90"/>
+<wire x1="6.35" y1="5.08" x2="6.35" y2="-5.08" width="0.127" layer="21"/>
+<wire x1="6.35" y1="-5.08" x2="6.35" y2="-7.62" width="0.127" layer="21"/>
+<wire x1="-1.27" y1="5.08" x2="6.35" y2="5.08" width="0.127" layer="21"/>
+<wire x1="-1.27" y1="-5.08" x2="6.35" y2="-5.08" width="0.127" layer="21"/>
 </package>
 </packages>
 <symbols>
@@ -3625,12 +3629,12 @@ Pico</text>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ESPRUINO_PICO_0.05">
+<deviceset name="ESPRUINO_PICO_0.05_SMALL">
 <gates>
-<gate name="G$1" symbol="ESPRUINO_PICO_0.05" x="5.08" y="0"/>
+<gate name="G$1" symbol="ESPRUINO_PICO_0.05" x="5.08" y="2.54"/>
 </gates>
 <devices>
-<device name="" package="ESPRUINO_PICO_0.05">
+<device name="" package="ESPRUINO_PICO_0.05_SMALL">
 <connects>
 <connect gate="G$1" pin="3.3V" pad="3.3V_2"/>
 <connect gate="G$1" pin="5V" pad="5V_2"/>
@@ -3906,26 +3910,22 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.3048" drill="0">
 </class>
 </classes>
 <parts>
 <part name="ESP8266" library="pinhead" deviceset="PINHD-2X4" device=""/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C1210" value="22uF"/>
-<part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_0.05" device=""/>
+<part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_0.05_SMALL" device=""/>
 <part name="IC2" library="linear" deviceset="78*" device="Z" technology="L05" value="78L 3.3v"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="106.68" y="40.64" size="1.778" layer="91">CH_PD</text>
-<text x="106.68" y="43.18" size="1.778" layer="91">RST</text>
-<text x="78.74" y="43.18" size="1.778" layer="91">GPIO0</text>
-<text x="78.74" y="40.64" size="1.778" layer="91">GPIO2</text>
 <text x="71.12" y="-2.54" size="1.778" layer="91">Farnell 1759435</text>
 </plain>
 <instances>
-<instance part="ESP8266" gate="A" x="96.52" y="40.64"/>
+<instance part="ESP8266" gate="A" x="116.84" y="40.64"/>
 <instance part="C1" gate="G$1" x="71.12" y="10.16"/>
 <instance part="U$1" gate="G$1" x="50.8" y="43.18"/>
 <instance part="IC2" gate="A1" x="50.8" y="15.24"/>
@@ -3936,45 +3936,47 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <net name="ESP_RX" class="0">
 <segment>
 <pinref part="ESP8266" gate="A" pin="1"/>
-<wire x1="93.98" y1="45.72" x2="68.58" y2="45.72" width="0.1524" layer="91"/>
-<label x="78.74" y="45.72" size="1.778" layer="95"/>
+<wire x1="114.3" y1="45.72" x2="91.44" y2="45.72" width="0.1524" layer="91"/>
+<label x="93.98" y="45.72" size="1.778" layer="95"/>
+</segment>
+<segment>
+<wire x1="86.36" y1="45.72" x2="68.58" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="A2"/>
+<label x="71.12" y="45.72" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="ESP_TX" class="0">
 <segment>
-<pinref part="ESP8266" gate="A" pin="8"/>
-<wire x1="101.6" y1="38.1" x2="119.38" y2="38.1" width="0.1524" layer="91"/>
-<wire x1="119.38" y1="38.1" x2="119.38" y2="33.528" width="0.1524" layer="91"/>
-<wire x1="119.38" y1="33.528" x2="97.79" y2="33.528" width="0.1524" layer="91"/>
-<wire x1="97.79" y1="33.528" x2="97.79" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="97.79" y1="48.26" x2="68.58" y2="48.26" width="0.1524" layer="91"/>
-<label x="106.68" y="38.1" size="1.778" layer="95"/>
+<wire x1="85.09" y1="48.26" x2="83.82" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="A3"/>
+<label x="71.12" y="48.26" size="1.778" layer="95"/>
+<wire x1="83.82" y1="48.26" x2="68.58" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="48.26" x2="85.09" y2="48.26" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="ESP8266" gate="A" pin="8"/>
+<wire x1="121.92" y1="38.1" x2="139.7" y2="38.1" width="0.1524" layer="91"/>
+<label x="127" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="VCC" class="0">
 <segment>
 <pinref part="ESP8266" gate="A" pin="2"/>
-<wire x1="101.6" y1="45.72" x2="124.46" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="124.46" y1="45.72" x2="124.46" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="124.46" y1="40.64" x2="124.46" y2="15.24" width="0.1524" layer="91"/>
-<wire x1="124.46" y1="15.24" x2="71.12" y2="15.24" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="15.24" x2="66.04" y2="15.24" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="15.24" x2="60.96" y2="15.24" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="25.4" x2="40.64" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="20.32" x2="66.04" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="20.32" x2="66.04" y2="15.24" width="0.1524" layer="91"/>
-<label x="106.68" y="45.72" size="1.778" layer="95"/>
-<pinref part="ESP8266" gate="A" pin="6"/>
-<wire x1="101.6" y1="40.64" x2="124.46" y2="40.64" width="0.1524" layer="91"/>
-<junction x="124.46" y="40.64"/>
+<wire x1="121.92" y1="45.72" x2="144.78" y2="45.72" width="0.1524" layer="91"/>
+<label x="127" y="45.72" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="IC2" gate="A1" pin="VO"/>
 <pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="71.12" y1="15.24" x2="71.12" y2="12.7" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="15.24" x2="66.04" y2="15.24" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="15.24" x2="60.96" y2="15.24" width="0.1524" layer="91"/>
 <junction x="66.04" y="15.24"/>
-<junction x="71.12" y="15.24"/>
+<wire x1="66.04" y1="20.32" x2="66.04" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="3.3V"/>
-<pinref part="IC2" gate="A1" pin="VO"/>
+<wire x1="40.64" y1="25.4" x2="40.64" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="20.32" x2="66.04" y2="20.32" width="0.1524" layer="91"/>
+<label x="58.42" y="20.32" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -3983,17 +3985,17 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <wire x1="35.56" y1="2.54" x2="50.8" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="2.54" x2="50.8" y2="7.62" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="2.54" x2="71.12" y2="2.54" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="2.54" x2="76.2" y2="2.54" width="0.1524" layer="91"/>
-<wire x1="76.2" y1="2.54" x2="76.2" y2="38.1" width="0.1524" layer="91"/>
-<pinref part="ESP8266" gate="A" pin="7"/>
-<wire x1="76.2" y1="38.1" x2="93.98" y2="38.1" width="0.1524" layer="91"/>
-<label x="78.74" y="38.1" size="1.778" layer="95"/>
 <pinref part="C1" gate="G$1" pin="2"/>
 <wire x1="71.12" y1="5.08" x2="71.12" y2="2.54" width="0.1524" layer="91"/>
-<junction x="71.12" y="2.54"/>
 <junction x="50.8" y="2.54"/>
 <pinref part="U$1" gate="G$1" pin="GND"/>
 <pinref part="IC2" gate="A1" pin="GND"/>
+<label x="38.1" y="2.54" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="ESP8266" gate="A" pin="7"/>
+<wire x1="96.52" y1="38.1" x2="114.3" y2="38.1" width="0.1524" layer="91"/>
+<label x="93.98" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -4002,6 +4004,54 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <wire x1="38.1" y1="15.24" x2="40.64" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="5V"/>
 <pinref part="IC2" gate="A1" pin="VI"/>
+</segment>
+</net>
+<net name="ESP_CH_PD" class="0">
+<segment>
+<pinref part="ESP8266" gate="A" pin="6"/>
+<wire x1="121.92" y1="40.64" x2="139.7" y2="40.64" width="0.1524" layer="91"/>
+<label x="127" y="40.64" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="B9"/>
+<wire x1="68.58" y1="35.56" x2="86.36" y2="35.56" width="0.1524" layer="91"/>
+<label x="71.12" y="35.56" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="ESP_RST" class="0">
+<segment>
+<pinref part="ESP8266" gate="A" pin="4"/>
+<wire x1="121.92" y1="43.18" x2="139.7" y2="43.18" width="0.1524" layer="91"/>
+<label x="127" y="43.18" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="A10"/>
+<wire x1="68.58" y1="38.1" x2="86.36" y2="38.1" width="0.1524" layer="91"/>
+<label x="71.12" y="38.1" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="ESP_GPIO2" class="0">
+<segment>
+<pinref part="ESP8266" gate="A" pin="5"/>
+<wire x1="114.3" y1="40.64" x2="96.52" y2="40.64" width="0.1524" layer="91"/>
+<label x="93.98" y="40.64" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="A0"/>
+<wire x1="68.58" y1="40.64" x2="86.36" y2="40.64" width="0.1524" layer="91"/>
+<label x="71.12" y="40.64" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="ESP_GPIO0" class="0">
+<segment>
+<pinref part="ESP8266" gate="A" pin="3"/>
+<wire x1="114.3" y1="43.18" x2="96.52" y2="43.18" width="0.1524" layer="91"/>
+<label x="93.98" y="43.18" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="A1"/>
+<wire x1="68.58" y1="43.18" x2="86.36" y2="43.18" width="0.1524" layer="91"/>
+<label x="71.12" y="43.18" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>

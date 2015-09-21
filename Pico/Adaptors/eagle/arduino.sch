@@ -4176,9 +4176,9 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.3048" drill="0">
 </class>
-<class number="1" name="PWR" width="0.4064" drill="0">
+<class number="1" name="power" width="0.4064" drill="0">
 </class>
 </classes>
 <parts>
