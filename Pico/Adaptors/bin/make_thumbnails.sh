@@ -1,3 +1,6 @@
+#!/bin/bash
+# Uses Eagle CAD to render .brd files out to thumbnails
+
 cd `dirname $0`/../eagle
 EAGLE=/opt/eagle-6.5.0/bin/eagle
 
@@ -22,8 +25,9 @@ echo CLOSE >> script.scr
 echo QUIT >> script.scr
 
 rm -f *.png
-cat script.scr
+#cat script.scr
 $EAGLE -Sscript.scr foo.brd
+rm script.scr
 
 for f in *.brd; do  
   IMGFILE=`pwd`/`basename $f .brd`.png

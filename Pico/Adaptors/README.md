@@ -12,10 +12,10 @@ Unless specifically marked these are currently untested - use at your own risk.
 | [![](eagle/arduino.png)](eagle/arduino.brd) |  Arduino/classic Espruino footprint |
 | [![](eagle/buttons.png)](eagle/buttons.brd) |  Gameboy-style buttons - **Tested** |
 | [![](eagle/nrf24.png)](eagle/nrf24.brd) |  NRF24L01P wireless |
-| [![](eagle/esp8266_esp01_shim_rev1.png)](eagle/esp8266_esp01_shim_rev1.brd) | ESP8266 ESP01 Shim rev 1 - **Tested** |
-| [![](eagle/esp8266_esp01_shim_rev2.png)](eagle/esp8266_esp01_shim_rev2.brd) | ESP8266 ESP01 Shim rev 2 - **Tested** - [buy on Tindie!](https://www.tindie.com/products/gfwilliams/espruino-pico-esp8266-wifi-shim/) |
-| [![](eagle/esp8266_esp12.png)](eagle/esp8266_esp12.brd) |  ESP8266 WiFi (ESP12 SMD module) |
-| [![](eagle/esp8266_esp12.png)](eagle/esp8266_esp12.brd) |  ESP8266 WiFi (ESP12 SMD module) |
+| [![](eagle/esp8266_esp01_shim_rev1.png)](eagle/esp8266_esp01_shim_rev1.brd) | ESP8266 ESP01 WiFi Shim rev 1 - **Tested** |
+| [![](eagle/esp8266_esp01_shim_rev2.png)](eagle/esp8266_esp01_shim_rev2.brd) | ESP8266 ESP01 WiFi Shim rev 2 - **Tested** - [buy on Tindie!](https://www.tindie.com/products/gfwilliams/espruino-pico-esp8266-wifi-shim/) |
+| [![](eagle/esp8266_esp12.png)](eagle/esp8266_esp12.brd) |  ESP8266 ESP12 (SMD) WiFi - using 0.05 inch on end of board  |
+| [![](eagle/esp8266_esp12_header.png)](eagle/esp8266_esp12_header.brd) |  ESP8266 ESP12 (SMD) WiFi  - using only 0.1 inch pins |
 | [![](eagle/w550io.png)](eagle/w550io.brd) |  WIZnet W5500 Ethernet - **Tested**  - [buy on Tindie!](https://www.tindie.com/products/gfwilliams/espruino-pico-wiznet-w550io-ethernet-shim/) |
 | [![](eagle/xbee.png)](eagle/xbee.brd) |  Generic XBee footprint (will handle SRF via the XRF module) |
 | [![](eagle/rfm12b.png)](eagle/rfm12b.brd) |  RFM12B wireless |
@@ -26,6 +26,7 @@ Unless specifically marked these are currently untested - use at your own risk.
 | [![](eagle/terminal.png)](eagle/terminal.brd)  |  (DaveCJ) Screw terminals |
 | [![](eagle/robot.png)](eagle/robot.brd) |  Line-following Robot (LEDs, Mouse sensor, 4x LDRs, 4x Servo, Bluetooth, WiFi) |
 | [![](eagle/robot_simple.png)](eagle/robot_simple.brd) |  Simple Line-following Robot (LEDs, 4x LDRs, 2x Servo, Bluetooth) |
+| [![](eagle/grove.png)](eagle/grove.brd) |  [Seeed Studio Grove System](http://www.seeedstudio.com/depot/s/grovefamily.html) |
 | [Link](../EspruBoy/espruboy.brd) | Mini-GameBoy Module |
 
 To get one made, copy the `.brd` file linked and upload it to a company like [OSH Park](https://www.oshpark.com/) or [DirtyPCBs](http://dirtypcbs.com/).
@@ -53,6 +54,5 @@ Possibly To Do
 |  |  Soil moisture sensor |
 |  |  Capacitive keypad |
 |  |  [LPRS eRIC](http://www.lprs.co.uk/easy-radio/eric/) radio module |
-|  |  [Seeed Grove headers](http://www.seeedstudio.com/depot/s/grovefamily.html) |
 |  |  [.NET Gadgeteer](http://www.netmf.com/gadgeteer/) |
 
