@@ -32,6 +32,6 @@ rm script.scr
 for f in *.brd; do  
   IMGFILE=`pwd`/`basename $f .brd`.png
   echo Resizing $IMGFILE
-  mogrify -resize 15% -negate $IMGFILE
+  mogrify -resize 15% -negate -strip $IMGFILE
 done
 

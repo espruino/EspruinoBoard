@@ -18,9 +18,11 @@ Unless specifically marked these are currently untested - use at your own risk.
 | [![](eagle/esp8266_esp12_header.png)](eagle/esp8266_esp12_header.brd) |  ESP8266 ESP12 (SMD) WiFi  - using only 0.1 inch pins |
 | [![](eagle/w550io.png)](eagle/w550io.brd) |  WIZnet W5500 Ethernet - **Tested**  - [buy on Tindie!](https://www.tindie.com/products/gfwilliams/espruino-pico-wiznet-w550io-ethernet-shim/) |
 | [![](eagle/xbee.png)](eagle/xbee.brd) |  Generic XBee footprint (will handle SRF via the XRF module) |
-| [![](eagle/rfm12b.png)](eagle/rfm12b.brd) |  RFM12B wireless |
+| [![](eagle/rfm12b.png)](eagle/rfm12b.brd) | RFM12B  wireless |
 | [![](eagle/rfm69.png)](eagle/rfm69.brd) |  RFM69HW wireless |
+| [![](eagle/rfm69_rfm12b_header.png)](eagle/rfm69_rfm12b_header.brd) |  RFM12B/RFM69HW wireless using only 0.1 inch pins |
 | [![](eagle/bluetooth.png)](eagle/bluetooth.brd)  |  HC-05 / HC-06 / HM-10 bluetooth |
+| [![](eagle/bluetooth_header.png)](eagle/bluetooth_header.brd)  |  HC-05 / HC-06 / HM-10 bluetooth using only 0.1 inch pins |
 | [![](eagle/servo.png)](eagle/servo.brd) |  Model aircraft servos |
 | [![](eagle/microsd.png)](eagle/microsd.brd) |  Micro SD card |
 | [![](eagle/terminal.png)](eagle/terminal.brd)  |  (DaveCJ) Screw terminals |

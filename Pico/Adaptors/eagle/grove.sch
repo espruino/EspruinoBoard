@@ -3903,7 +3903,19 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
 <pinref part="J2" gate="J" pin="-"/>
-<wire x1="15.24" y1="78.613" x2="15.24" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="78.613" x2="15.24" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="76.2" x2="15.24" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="24.13" y1="84.328" x2="27.94" y2="84.328" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="84.328" x2="27.94" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="88.9" x2="7.62" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="88.9" x2="7.62" y2="84.328" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="84.328" x2="7.62" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="76.2" x2="15.24" y2="76.2" width="0.1524" layer="91"/>
+<junction x="15.24" y="76.2"/>
+<pinref part="J2" gate="J" pin="4"/>
+<wire x1="7.62" y1="84.328" x2="11.43" y2="84.328" width="0.1524" layer="91"/>
+<pinref part="J2" gate="J" pin="3"/>
+<junction x="7.62" y="84.328"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GND"/>

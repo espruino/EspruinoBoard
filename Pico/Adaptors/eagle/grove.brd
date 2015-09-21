@@ -1592,6 +1592,17 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <via x="26.67" y="23.495" extent="1-16" drill="0.3048"/>
 <via x="28.575" y="38.1" extent="1-16" drill="0.3048"/>
 <via x="8.89" y="37.465" extent="1-16" drill="0.3048"/>
+<contactref element="J2" pad="4"/>
+<wire x1="8.89" y1="29.48" x2="10.43" y2="29.48" width="0.4064" layer="1"/>
+<wire x1="10.43" y1="29.48" x2="11.43" y2="30.48" width="0.4064" layer="1"/>
+<wire x1="11.43" y1="30.48" x2="11.43" y2="33.02" width="0.4064" layer="1"/>
+<wire x1="11.43" y1="33.02" x2="2.989" y2="33.02" width="0.4064" layer="1"/>
+<wire x1="2.989" y1="33.02" x2="1.629" y2="34.38" width="0.4064" layer="1"/>
+<contactref element="J2" pad="3"/>
+<wire x1="1.629" y1="26.58" x2="1.629" y2="34.38" width="0.4064" layer="1"/>
+<via x="0.635" y="36.195" extent="1-16" drill="0.3048"/>
+<via x="0.635" y="24.765" extent="1-16" drill="0.3048"/>
+<via x="0.635" y="30.48" extent="1-16" drill="0.3048"/>
 </signal>
 <signal name="VCC" class="1">
 <contactref element="U$1" pad="5V"/>
