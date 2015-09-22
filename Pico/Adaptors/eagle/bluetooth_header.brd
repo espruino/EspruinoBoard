@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -350,6 +350,9 @@ rev 1.0</text>
 <autorouter>
 <pass name="Default">
 <param name="RoutingGrid" value="50mil"/>
+<param name="AutoGrid" value="1"/>
+<param name="Efforts" value="0"/>
+<param name="TopRouterVariant" value="1"/>
 <param name="tpViaShape" value="round"/>
 <param name="PrefDir.1" value="|"/>
 <param name="PrefDir.2" value="0"/>
@@ -443,13 +446,13 @@ rev 1.0</text>
 <elements>
 <element name="U$1" library="espruino_pico" package="ESPRUINO_PICO_0.1" value="ESPRUINO_PICO_0.1" x="13.97" y="8.89"/>
 <element name="U1" library="bluetooth" package="BLUETOOTH_SMD" value="HC_05" x="44.45" y="16.002" rot="R270"/>
-<element name="D1" library="OPL Eagle Library" package="LED0603" value="" x="34.29" y="1.016" smashed="yes" rot="MR0">
-<attribute name="NAME" x="36.703" y="1.905" size="0.889" layer="26" ratio="11" rot="MR270"/>
-<attribute name="VALUE" x="35.433" y="0.6985" size="0.635" layer="28" ratio="10" rot="MR0"/>
+<element name="D1" library="OPL Eagle Library" package="LED0603" value="" x="36.068" y="1.016" smashed="yes" rot="R180">
+<attribute name="NAME" x="38.481" y="0.127" size="0.889" layer="25" ratio="11" rot="R90"/>
+<attribute name="VALUE" x="37.211" y="1.3335" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="R1" library="OPL Eagle Library" package="R0603" value="" x="29.718" y="1.016" smashed="yes" rot="MR180">
-<attribute name="NAME" x="27.305" y="0.381" size="0.889" layer="26" ratio="11" rot="MR90"/>
-<attribute name="VALUE" x="28.321" y="1.3335" size="0.508" layer="28" ratio="10" rot="MR180"/>
+<element name="R1" library="OPL Eagle Library" package="R0603" value="" x="32.766" y="1.016" smashed="yes">
+<attribute name="NAME" x="30.353" y="1.651" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="VALUE" x="31.369" y="0.6985" size="0.508" layer="27" ratio="10"/>
 </element>
 <element name="U$2" library="solder_jumper" package="SOLDERJUMPER" value="SOLDERJUMPER" x="25.4" y="1.27" rot="MR180"/>
 </elements>
@@ -473,12 +476,8 @@ rev 1.0</text>
 <contactref element="U1" pad="21"/>
 <contactref element="U1" pad="14"/>
 <contactref element="U$1" pad="GND"/>
-<wire x1="28.956" y1="1.016" x2="28.702" y2="1.016" width="0.4064" layer="16"/>
-<wire x1="28.702" y1="1.016" x2="28.194" y2="0.762" width="0.4064" layer="16"/>
-<via x="28.194" y="0.762" extent="1-16" drill="0.3048"/>
-<wire x1="28.194" y1="0.762" x2="27.94" y2="0.508" width="0.4064" layer="1"/>
-<wire x1="27.94" y1="0.508" x2="25.908" y2="0.508" width="0.4064" layer="1"/>
-<wire x1="25.908" y1="0.508" x2="25.146" y2="1.27" width="0.4064" layer="1"/>
+<wire x1="28.194" y1="0.762" x2="25.654" y2="0.762" width="0.4064" layer="1"/>
+<wire x1="25.654" y1="0.762" x2="25.146" y2="1.27" width="0.4064" layer="1"/>
 <wire x1="25.146" y1="1.27" x2="25.146" y2="3.048" width="0.4064" layer="1"/>
 <wire x1="25.146" y1="3.048" x2="25.146" y2="3.806" width="0.4064" layer="1"/>
 <wire x1="25.146" y1="3.806" x2="24.7" y2="4.252" width="0.4064" layer="1"/>
@@ -513,6 +512,13 @@ rev 1.0</text>
 <vertex x="45.466" y="0"/>
 <vertex x="0" y="0"/>
 </polygon>
+<wire x1="32.004" y1="1.016" x2="28.448" y2="1.016" width="0.4064" layer="1"/>
+<wire x1="28.448" y1="1.016" x2="28.194" y2="0.762" width="0.4064" layer="1"/>
+<wire x1="40.64" y1="5.08" x2="40.64" y2="14.224" width="0" layer="19" extent="1-1"/>
+<wire x1="32.004" y1="1.016" x2="40.64" y2="5.08" width="0" layer="19" extent="1-1"/>
+<wire x1="27.94" y1="14.224" x2="26.45" y2="16.002" width="0" layer="19" extent="1-1"/>
+<wire x1="27.94" y1="5.08" x2="26.45" y2="3.002" width="0" layer="19" extent="1-1"/>
+<wire x1="7.62" y1="6.35" x2="2.982" y2="4.252" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BT_TX">
 <contactref element="U1" pad="1"/>
@@ -540,27 +546,29 @@ rev 1.0</text>
 <signal name="BT_KEY">
 <contactref element="U1" pad="23"/>
 <contactref element="U$2" pad="P$1"/>
-<wire x1="26.162" y1="1.27" x2="26.67" y2="1.27" width="0.4064" layer="16"/>
-<via x="26.67" y="1.27" extent="1-16" drill="0.3048"/>
-<wire x1="26.67" y1="1.27" x2="27.178" y2="1.27" width="0.4064" layer="1"/>
-<wire x1="27.178" y1="1.27" x2="27.94" y2="2.032" width="0.4064" layer="1"/>
+<wire x1="26.162" y1="1.27" x2="26.67" y2="1.524" width="0.4064" layer="16"/>
+<via x="26.67" y="1.524" extent="1-16" drill="0.3048"/>
+<wire x1="26.67" y1="1.524" x2="27.432" y2="1.524" width="0.4064" layer="1"/>
+<wire x1="27.432" y1="1.524" x2="27.94" y2="2.032" width="0.4064" layer="1"/>
 <wire x1="27.94" y1="2.032" x2="27.94" y2="2.992" width="0.4064" layer="1"/>
 <wire x1="27.94" y1="2.992" x2="27.95" y2="3.002" width="0.4064" layer="1"/>
 </signal>
 <signal name="N$6">
 <contactref element="U1" pad="24"/>
 <contactref element="D1" pad="+"/>
-<wire x1="29.45" y1="3.002" x2="29.45" y2="2.046" width="0.4064" layer="1"/>
-<wire x1="29.45" y1="2.046" x2="29.464" y2="2.032" width="0.4064" layer="1"/>
-<via x="29.464" y="2.032" extent="1-16" drill="0.3048"/>
-<wire x1="29.464" y1="2.032" x2="34.544" y2="2.032" width="0.4064" layer="16"/>
-<wire x1="34.544" y1="2.032" x2="35.052" y2="1.524" width="0.4064" layer="16"/>
-<wire x1="35.052" y1="1.524" x2="35.052" y2="1.016" width="0.4064" layer="16"/>
+<wire x1="36.83" y1="1.016" x2="37.338" y2="1.016" width="0.4064" layer="1"/>
+<wire x1="37.338" y1="1.016" x2="37.846" y2="1.524" width="0.4064" layer="1"/>
+<via x="37.846" y="1.524" extent="1-16" drill="0.3048"/>
+<wire x1="37.846" y1="1.524" x2="30.226" y2="1.524" width="0.4064" layer="16"/>
+<wire x1="30.226" y1="1.524" x2="29.972" y2="1.778" width="0.4064" layer="16"/>
+<via x="29.972" y="1.778" extent="1-16" drill="0.3048"/>
+<wire x1="29.972" y1="1.778" x2="29.972" y2="2.48" width="0.4064" layer="1"/>
+<wire x1="29.972" y1="2.48" x2="29.45" y2="3.002" width="0.4064" layer="1"/>
 </signal>
 <signal name="N$7">
 <contactref element="D1" pad="-"/>
 <contactref element="R1" pad="2"/>
-<wire x1="33.528" y1="1.016" x2="30.48" y2="1.016" width="0.4064" layer="16"/>
+<wire x1="33.528" y1="1.016" x2="35.306" y2="1.016" width="0.4064" layer="1"/>
 </signal>
 <signal name="N$10">
 <contactref element="U$1" pad="A8"/>

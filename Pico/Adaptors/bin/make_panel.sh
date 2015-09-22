@@ -11,12 +11,7 @@ DISPLAY -tPlace -bPlace;
 GRID mm 1 2 lines on alt mm 0.01 mm;
 CLASS 0 default 12mil;
 DRC LOAD $WD/dirt_cheap_dirty_boards.v1.dru;
-LAYER Dimension;
 SET WIRE_BEND 2; # point to point
-WIRE 0.2032 (0 0) (100 0);
-WIRE 0.2032 (100 0) (100 100);
-WIRE 0.2032 (100 100) (0 100);
-WIRE 0.2032 (0 100) (0 0);
 EndOfMessage
 
 # board name ROTATE X Y
@@ -134,9 +129,23 @@ mill 98.7 2 100 3.3
 #mill_vert 52 81.6 100 1
 #mill_horiz 0 81.6 52 3
 
+cat >> script.scr << EndOfMessage
+#DISPLAY NONE Dimension;
+#DELETE SIGNALS;DELETE (c > 0 0);
+#DISPLAY ALL -tPlace -bPlace;
+LAYER Milling;
+WIRE 0 (0 0) (100 0);
+WIRE 0 (100 0) (100 100);
+WIRE 0 (100 100) (0 100);
+WIRE 0 (0 100) (0 0);
+
+GRID mil 50 lines on alt mm 1 mil;
+EndOfMessage
 
 
 #cat script.scr
 
 rm -f panel.brd
 $EAGLE -Sscript.scr panel.brd
+
+# and process the job with panel.cam
