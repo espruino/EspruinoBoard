@@ -24,11 +24,14 @@ Unless specifically marked these are currently untested - use at your own risk.
 | [![](eagle/bluetooth.png)](eagle/bluetooth.brd)  |  HC-05 / HC-06 / HM-10 bluetooth |
 | [![](eagle/bluetooth_header.png)](eagle/bluetooth_header.brd)  |  HC-05 / HC-06 / HM-10 bluetooth using only 0.1 inch pins |
 | [![](eagle/servo.png)](eagle/servo.brd) |  Model aircraft servos |
-| [![](eagle/microsd.png)](eagle/microsd.brd) |  Micro SD card |
+| [![](eagle/microsd.png)](eagle/microsd.brd) |  Micro SD card - flat shim (small, but hard to get at pins) |
+| [![](eagle/microsd_header.png)](eagle/microsd_header.brd) |  Micro SD card using only 0.1 inch pins |
 | [![](eagle/terminal.png)](eagle/terminal.brd)  |  (DaveCJ) Screw terminals |
 | [![](eagle/robot.png)](eagle/robot.brd) |  Line-following Robot (LEDs, Mouse sensor, 4x LDRs, 4x Servo, Bluetooth, WiFi) |
 | [![](eagle/robot_simple.png)](eagle/robot_simple.brd) |  Simple Line-following Robot (LEDs, 4x LDRs, 2x Servo, Bluetooth) |
 | [![](eagle/grove.png)](eagle/grove.brd) |  [Seeed Studio Grove System](http://www.seeedstudio.com/depot/s/grovefamily.html) |
+| [![](eagle/pins.png)](eagle/pins.brd) |  0.05" to 0.1" adaptor |
+| [![](eagle/prototype.png)](eagle/prototype.brd) |   0.05" to 0.1" adaptor and Prototyping area |
 | [Link](../EspruBoy/espruboy.brd) | Mini-GameBoy Module |
 
 To get one made, copy the `.brd` file linked and upload it to a company like [OSH Park](https://www.oshpark.com/) or [DirtyPCBs](http://dirtypcbs.com/).
@@ -39,7 +42,7 @@ Possibly To Do
 | Link | Type |
 |------|------|
 |  |  Mounting Holes |
-|  |  0.05" to 0.1" adaptor |
+
 |  |  MAX1551 LiPo battery charger |
 |  |  CC3000 WiFi |
 |  |  Audio Jack (see the [Audio programming thread](http://forum.espruino.com/conversations/257732/)) |
@@ -50,7 +53,6 @@ Possibly To Do
 |  |  (DrAzzy) ULN2003/2803 board (put the pads for a 2803, if we want to use a 2003, it could be installed, just not using the last pair of pads), giving us 7/8 higher current outputs on 0.1" header |
 |  |  (DrAzzy) SOT-23 MOSFET board - as with the ULN2003/2803, only with a buncha mosfets, with pads for a resistor between gnd and each gate for a pulldown |
 |  |  (DaveCJ) [Sx1272/RFM92 868Mhz radio](http://www.ebay.co.uk/itm/HopeRF-RFM92W-915Mhz-LoRa-Ultra-Long-Range-Transceiver-SX1272-compatible-/181415801105) |
-|  |  (allObjects) Prototyping area |
 |  |  (thomc) SMT proto area (like [this](http://www.adafruit.com/product/1212)) |
 |  |  (DrAzzy) A MAX31855 thermocouple interface, with spot for screw terminals to connect the thermocouple |
 |  |  Soil moisture sensor |
