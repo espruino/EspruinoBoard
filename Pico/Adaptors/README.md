@@ -44,7 +44,6 @@ Possibly To Do
 | Link | Type |
 |------|------|
 |  |  Mounting Holes |
-
 |  |  MAX1551 LiPo battery charger |
 |  |  CC3000 WiFi |
 |  |  Audio Jack (see the [Audio programming thread](http://forum.espruino.com/conversations/257732/)) |
