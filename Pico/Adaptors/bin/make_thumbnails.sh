@@ -2,9 +2,10 @@
 # Uses Eagle CAD to render .brd files out to thumbnails
 
 cd `dirname $0`/../eagle
-EAGLE=/opt/eagle-6.5.0/bin/eagle
+EAGLE=eagle
 
 rm -f script.scr foo.brd
+echo "CLASS 0 default 12mil;" > script.scr
 
 for f in *.brd; do
   BRDFILE=`pwd`/$f

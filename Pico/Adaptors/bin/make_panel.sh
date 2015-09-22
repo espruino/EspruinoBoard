@@ -7,6 +7,7 @@ EAGLE=eagle
 
 cat > script.scr << EndOfMessage
 DISPLAY ALL;
+DISPLAY -tPlace -bPlace;
 GRID mm 1 2 lines on alt mm 0.01 mm;
 CLASS 0 default 12mil;
 DRC LOAD $WD/dirt_cheap_dirty_boards.v1.dru;
@@ -92,22 +93,35 @@ board bluetooth_header.brd 0 0 0 # 1
 board esp8266_esp12_header.brd 0 0 19 # 2
 board microsd_header.brd 0 0 38.1 # 3
 board prototype.brd 0 0 56.7 # 4
-board rfm69_rfm12b_header.brd 0 46.5 57.8 # 4R : right of 4
+board rfm69_rfm12b_header.brd 0 47.6 57.8 # 4R : right of 4
 board arduino.brd 270 46.5 57 # arduino
-#board prototype.brd 0 52.5 79.5
-#board pins.brd 0 52.5 79.5
+board nrf24_shim.brd 0 0 78.1 # 5
+board pins.brd 0 17.9 79.4 # 5R : right of 5 and 6
+board esp8266_esp01_shim_rev2.brd 0 0 89.2 # 6
+board prototype2.brd 0 49.2 77 # 5RR right of 5R
 
 
 mill_vert 40.5 18.5 37.7 2 # 2
 mill_vert 39.7 37.7 56.3 2 # 3
-mill_vert 99.3 57.4 76.6 0 # 4R
+mill_vert 47.6 57.4 76.6 2 # left of 4R
 mill_horiz 0 18.5 46 2     # above 1
-mill_horiz 0 37.7 46 2   # above 2
+mill_horiz 0 37.7 40.5 2   # above 2
 mill_horiz 0 56.3 46 2   # above 3
-mill_horiz 0 77.6 46 2   # above 4
-mill_horiz 46 76.6 100 2   # above 4R
+mill_horiz 0 77.6 46 3   # above 4
+mill_horiz 47.6 76.6 100 2   # above 4R
 mill_horiz 46 57.4 100 2   # above arduino
 mill_vert 46 0 77.6 8   # between 1-4 and arduino
+
+mill_horiz 0 88.8 5 0   # above 5 (no bite)
+mill_horiz 5 88.8 17.5 1   # above 5 (bite - we want to move it away from the bit that matters
+mill_vert 13.9 77.6 88.8 1 # 5
+mill_vert 17.5 77.6 88.8 1 # left of 5R
+mill_vert 17.5 88.8 100 1 # 6
+mill 0 96.6 4.8 91.9 # 6's fancy edge
+mill 4.8 91.9 4.8 88.8 # 6's fancy edge
+mill_horiz 17.5 79 44.3 2   # below 5R
+mill_vert 44.3 77.6 100 1 # right of 5R
+mill_vert 48.8 76.6 100 1 # left of 5RR
 
 # Arduino mill bottom left edge
 mill 46 2 48.9 2

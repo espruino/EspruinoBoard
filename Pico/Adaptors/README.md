@@ -12,6 +12,7 @@ Unless specifically marked these are currently untested - use at your own risk.
 | [![](eagle/arduino.png)](eagle/arduino.brd) |  Arduino/classic Espruino footprint |
 | [![](eagle/buttons.png)](eagle/buttons.brd) |  Gameboy-style buttons - **Tested** |
 | [![](eagle/nrf24.png)](eagle/nrf24.brd) |  NRF24L01P wireless |
+| [![](eagle/nrf24_shim.png)](eagle/nrf24_shim.brd) |  NRF24L01P wireless (using 0.05 inch pins) |
 | [![](eagle/esp8266_esp01_shim_rev1.png)](eagle/esp8266_esp01_shim_rev1.brd) | ESP8266 ESP01 WiFi Shim rev 1 - **Tested** |
 | [![](eagle/esp8266_esp01_shim_rev2.png)](eagle/esp8266_esp01_shim_rev2.brd) | ESP8266 ESP01 WiFi Shim rev 2 - **Tested** - [buy on Tindie!](https://www.tindie.com/products/gfwilliams/espruino-pico-esp8266-wifi-shim/) |
 | [![](eagle/esp8266_esp12.png)](eagle/esp8266_esp12.brd) |  ESP8266 ESP12 (SMD) WiFi - using 0.05 inch on end of board  |
@@ -31,7 +32,8 @@ Unless specifically marked these are currently untested - use at your own risk.
 | [![](eagle/robot_simple.png)](eagle/robot_simple.brd) |  Simple Line-following Robot (LEDs, 4x LDRs, 2x Servo, Bluetooth) |
 | [![](eagle/grove.png)](eagle/grove.brd) |  [Seeed Studio Grove System](http://www.seeedstudio.com/depot/s/grovefamily.html) |
 | [![](eagle/pins.png)](eagle/pins.brd) |  0.05" to 0.1" adaptor |
-| [![](eagle/prototype.png)](eagle/prototype.brd) |   0.05" to 0.1" adaptor and Prototyping area |
+| [![](eagle/prototype.png)](eagle/prototype.brd) |   0.05" to 0.1" adaptor and Prototyping area (thin) |
+| [![](eagle/prototype2.png)](eagle/prototype2.brd) |   0.05" to 0.1" adaptor and Prototyping area (wide) |
 | [Link](../EspruBoy/espruboy.brd) | Mini-GameBoy Module |
 
 To get one made, copy the `.brd` file linked and upload it to a company like [OSH Park](https://www.oshpark.com/) or [DirtyPCBs](http://dirtypcbs.com/).
