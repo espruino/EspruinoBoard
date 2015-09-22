@@ -123,11 +123,11 @@
 <wire x1="39.294" y1="0" x2="39.294" y2="17.77" width="0" layer="20"/>
 <wire x1="39.294" y1="17.77" x2="0" y2="17.77" width="0" layer="20"/>
 <wire x1="0" y1="17.77" x2="0" y2="0" width="0" layer="20"/>
-<text x="38.1" y="3.81" size="1.778" layer="28" rot="MR0">MOSI B15
+<text x="36.83" y="5.08" size="1.4224" layer="26" rot="MR0">MOSI B15
 MISO B14
 SCK  B13
 CS   B1</text>
-<text x="22.86" y="5.08" size="1.778" layer="28" rot="MR0">Espruino Pico
+<text x="19.05" y="6.35" size="1.4224" layer="26" rot="MR0">Espruino Pico
 MicroSD rev 1.0</text>
 </plain>
 <libraries>

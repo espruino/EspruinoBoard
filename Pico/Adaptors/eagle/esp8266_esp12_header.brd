@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -133,8 +133,9 @@
 <wire x1="40.31" y1="0" x2="40.31" y2="18.278" width="0" layer="20"/>
 <wire x1="40.31" y1="18.278" x2="0" y2="18.278" width="0" layer="20"/>
 <wire x1="0" y1="18.278" x2="0" y2="0" width="0" layer="20"/>
-<text x="38.862" y="5.588" size="1.27" layer="26" rot="MR0">Espruino
-ESP12</text>
+<text x="38.862" y="6.096" size="1.4224" layer="26" rot="MR0">Espruino
+ESP8266 ESP12
+rev 1.0</text>
 </plain>
 <libraries>
 <library name="adafruit">
@@ -1372,6 +1373,9 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <autorouter>
 <pass name="Default">
 <param name="RoutingGrid" value="5mil"/>
+<param name="AutoGrid" value="1"/>
+<param name="Efforts" value="0"/>
+<param name="TopRouterVariant" value="1"/>
 <param name="tpViaShape" value="round"/>
 <param name="PrefDir.1" value="|"/>
 <param name="PrefDir.2" value="0"/>
@@ -1463,23 +1467,25 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 </pass>
 </autorouter>
 <elements>
-<element name="X1" library="adafruit" package="ESP-12" value="" x="34.29" y="9.144" rot="R270"/>
+<element name="X1" library="adafruit" package="ESP-12" value="" x="34.29" y="9.144" smashed="yes" rot="R270">
+<attribute name="VALUE" x="22.29" y="4.644" size="1.4224" layer="27" font="vector" ratio="12" rot="R270" align="center"/>
+</element>
 <element name="U$1" library="espruino_pico" package="ESPRUINO_PICO_0.1" value="ESPRUINO_PICO_0.1" x="13.97" y="9.144"/>
 <element name="R1" library="rcl" package="R1206" value="4.7k" x="20.32" y="13.208" smashed="yes" rot="R180">
-<attribute name="NAME" x="21.082" y="11.938" size="1.27" layer="25" rot="R180"/>
-<attribute name="VALUE" x="25.908" y="11.938" size="1.27" layer="27" rot="R180"/>
+<attribute name="NAME" x="12.954" y="13.843" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="17.526" y="13.843" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="R2" library="rcl" package="R1206" value="4.7k" x="20.32" y="10.287" smashed="yes" rot="R180">
-<attribute name="NAME" x="17.526" y="10.795" size="1.27" layer="25" rot="R180"/>
-<attribute name="VALUE" x="14.478" y="8.255" size="1.27" layer="27" rot="R90"/>
+<attribute name="NAME" x="12.954" y="10.922" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="17.526" y="10.922" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="R3" library="rcl" package="R1206" value="4.7k" x="20.32" y="7.493" smashed="yes" rot="R180">
-<attribute name="NAME" x="17.526" y="8.255" size="1.27" layer="25" rot="R180"/>
-<attribute name="VALUE" x="22.86" y="6.223" size="1.27" layer="27" rot="R180"/>
+<attribute name="NAME" x="12.954" y="8.128" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="17.526" y="8.128" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="C1" library="rcl" package="C1210" value="10uF" x="4.191" y="5.969" smashed="yes" rot="R180">
-<attribute name="NAME" x="4.953" y="4.699" size="1.27" layer="25" rot="R180"/>
-<attribute name="VALUE" x="5.461" y="8.509" size="1.27" layer="27" rot="R180"/>
+<attribute name="NAME" x="5.461" y="10.541" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="6.985" y="9.017" size="1.27" layer="27" rot="R180"/>
 </element>
 </elements>
 <signals>
@@ -1543,7 +1549,7 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <wire x1="18.923" y1="10.287" x2="18.898" y2="10.287" width="0.3048" layer="1"/>
 <wire x1="18.923" y1="10.414" x2="18.923" y2="11.938" width="0.3048" layer="1"/>
 <wire x1="18.923" y1="11.938" x2="18.923" y2="13.208" width="0.3048" layer="1"/>
-<wire x1="18.923" y1="13.208" x2="18.898" y2="13.208" width="0.3048" layer="1"/>
+<wire x1="18.923" y1="13.208" x2="18.898" y2="13.208" width="0" layer="19" extent="1-16"/>
 <wire x1="18.923" y1="10.414" x2="18.898" y2="10.287" width="0.3048" layer="1"/>
 <wire x1="23.876" y1="15.748" x2="24.765" y2="16.637" width="0.3048" layer="1"/>
 <wire x1="23.876" y1="13.208" x2="23.876" y2="14.351" width="0.3048" layer="1"/>
@@ -1585,7 +1591,7 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <wire x1="2.667" y1="5.969" x2="2.791" y2="5.969" width="0.3048" layer="1"/>
 <via x="22.479" y="3.937" extent="1-16" drill="0.3302"/>
 <via x="1.27" y="13.97" extent="1-16" drill="0.3048"/>
-<via x="16.51" y="13.97" extent="1-16" drill="0.3048"/>
+<wire x1="15.24" y1="14.478" x2="15.24" y2="14.478" width="0" layer="19" extent="1-16"/>
 <via x="8.89" y="5.08" extent="1-16" drill="0.3048"/>
 <via x="25.4" y="12.7" extent="1-16" drill="0.3048"/>
 <via x="38.1" y="13.97" extent="1-16" drill="0.3048"/>

@@ -149,3 +149,7 @@ rm -f panel.brd
 $EAGLE -Sscript.scr panel.brd
 
 # and process the job with panel.cam
+# Might need
+#  sed -ie "s/^\(X[0-9]*\)[0-9]\(Y[0-9]*\)[0-9]$/\1\2/" eagle/panel.TXT
+
+# As drills file comes out to 1 / 100,000 when most programs expect 1 / 10,000
