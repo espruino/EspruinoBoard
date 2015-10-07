@@ -124,6 +124,7 @@
 <text x="39.37" y="13.97" size="1.4224" layer="25" rot="R90">Espruino Arduino Adaptor
 rev 1.0</text>
 <text x="49.53" y="13.97" size="1.4224" layer="25" rot="R90">espruino.com/ArduinoPico</text>
+<text x="3.81" y="22.225" size="1.016" layer="25">Pico This Side</text>
 </plain>
 <libraries>
 <library name="espruino_pico">
@@ -1790,10 +1791,10 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <element name="U$3" library="espruino_pico" package="ESPRUINO" value="ESPRUINO" x="28.956" y="29.845"/>
 <element name="U$1" library="espruino_pico" package="ESPRUINO_PICO_SMD" value="ESPRUINO_PICO_SMD" x="15.367" y="22.86"/>
 <element name="R1" library="rcl" package="R0805" value="10k" x="8.89" y="43.18" smashed="yes" rot="R270">
-<attribute name="NAME" x="8.255" y="40.64" size="1.27" layer="25" rot="R270"/>
+<attribute name="NAME" x="5.588" y="41.783" size="1.27" layer="25"/>
 </element>
 <element name="R2" library="rcl" package="R0805" value="10k" x="11.43" y="43.18" smashed="yes" rot="R270">
-<attribute name="NAME" x="10.795" y="40.64" size="1.27" layer="25" rot="R270"/>
+<attribute name="NAME" x="13.335" y="41.91" size="1.27" layer="25"/>
 </element>
 <element name="J1" library="OPL Eagle Library" package="2P-SMD-2.0-90D" value="JST-2P-SMD-PW-3410050P1" x="3.81" y="37.465" smashed="yes" rot="R270"/>
 </elements>

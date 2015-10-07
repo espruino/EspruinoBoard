@@ -125,6 +125,7 @@
 <wire x1="45.771" y1="-0.127" x2="45.771" y2="20.437" width="0" layer="20"/>
 <wire x1="45.771" y1="20.437" x2="0" y2="20.564" width="0" layer="20"/>
 <wire x1="0" y1="20.564" x2="0" y2="0" width="0" layer="20"/>
+<text x="10.795" y="7.366" size="0.8128" layer="25">Pico This Side</text>
 </plain>
 <libraries>
 <library name="espruino_pico">
@@ -589,7 +590,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="JP11" library="pinhead-2" package="1X08-S" value="" x="44.45" y="10.16" smashed="yes" rot="R270">
 <attribute name="VALUE" x="41.275" y="20.32" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="J1" library="OPL Eagle Library" package="2P-SMD-2.0-90D" value="JST-2P-SMD-PW-3410050P1" x="3.81" y="10.16" smashed="yes" rot="R270"/>
+<element name="J1" library="OPL Eagle Library" package="2P-SMD-2.0-90D" value="JST-2P-SMD-PW-3410050P1" x="3.81" y="10.16" smashed="yes" rot="MR90"/>
 </elements>
 <signals>
 <signal name="N$1">
@@ -662,17 +663,15 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="J1" pad="-"/>
 <contactref element="J1" pad="3"/>
 <contactref element="J1" pad="4"/>
-<wire x1="8.89" y1="9.16" x2="1.762" y2="9.16" width="0.6096" layer="1"/>
-<wire x1="1.762" y1="9.16" x2="1.651" y2="9.271" width="0.6096" layer="1"/>
-<wire x1="1.651" y1="9.271" x2="1.651" y2="14.038" width="0.6096" layer="1"/>
-<wire x1="1.651" y1="14.038" x2="1.629" y2="14.06" width="0.6096" layer="1"/>
-<wire x1="1.762" y1="9.16" x2="1.762" y2="6.393" width="0.6096" layer="1"/>
-<wire x1="1.762" y1="6.393" x2="1.629" y2="6.26" width="0.6096" layer="1"/>
-<wire x1="1.629" y1="6.26" x2="1.629" y2="4.169" width="0.6096" layer="1"/>
-<wire x1="1.629" y1="4.169" x2="1.27" y2="3.81" width="0.6096" layer="1"/>
-<via x="1.778" y="9.144" extent="1-16" drill="0.3048"/>
 <via x="19.558" y="14.224" extent="1-16" drill="0.3048"/>
 <via x="19.558" y="6.604" extent="1-16" drill="0.3048"/>
+<wire x1="1.27" y1="3.81" x2="1.27" y2="5.901" width="0.6096" layer="16"/>
+<wire x1="1.27" y1="5.901" x2="1.629" y2="6.26" width="0.6096" layer="16"/>
+<wire x1="1.629" y1="6.26" x2="1.629" y2="14.06" width="0.6096" layer="16"/>
+<wire x1="1.629" y1="14.06" x2="1.629" y2="11.198" width="0.6096" layer="16"/>
+<wire x1="1.629" y1="11.198" x2="1.651" y2="11.176" width="0.6096" layer="16"/>
+<wire x1="1.651" y1="11.176" x2="8.874" y2="11.176" width="0.6096" layer="16"/>
+<wire x1="8.874" y1="11.176" x2="8.89" y2="11.16" width="0.6096" layer="16"/>
 </signal>
 <signal name="N$9">
 <contactref element="JP2" pad="8"/>
@@ -722,12 +721,14 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="JP3" pad="1"/>
 <wire x1="1.27" y1="16.51" x2="1.27" y2="19.05" width="1.016" layer="16"/>
 <contactref element="J1" pad="+"/>
-<wire x1="1.27" y1="16.51" x2="1.905" y2="16.51" width="0.6096" layer="1"/>
-<wire x1="1.905" y1="16.51" x2="4.064" y2="14.351" width="0.6096" layer="1"/>
-<wire x1="4.064" y1="14.351" x2="4.064" y2="12.573" width="0.6096" layer="1"/>
-<wire x1="4.064" y1="12.573" x2="5.461" y2="11.176" width="0.6096" layer="1"/>
-<wire x1="5.461" y1="11.176" x2="8.874" y2="11.176" width="0.6096" layer="1"/>
-<wire x1="8.874" y1="11.176" x2="8.89" y2="11.16" width="0.6096" layer="1"/>
+<wire x1="8.89" y1="9.16" x2="10.938" y2="9.16" width="0.6096" layer="16"/>
+<wire x1="10.938" y1="9.16" x2="11.811" y2="10.033" width="0.6096" layer="16"/>
+<wire x1="11.811" y1="10.033" x2="11.811" y2="11.938" width="0.6096" layer="16"/>
+<wire x1="11.811" y1="11.938" x2="10.795" y2="12.954" width="0.6096" layer="16"/>
+<wire x1="10.795" y1="12.954" x2="5.461" y2="12.954" width="0.6096" layer="16"/>
+<wire x1="5.461" y1="12.954" x2="2.159" y2="16.256" width="0.6096" layer="16"/>
+<wire x1="2.159" y1="16.256" x2="1.524" y2="16.256" width="0.6096" layer="16"/>
+<wire x1="1.524" y1="16.256" x2="1.27" y2="16.51" width="0.6096" layer="16"/>
 </signal>
 <signal name="N$16">
 <contactref element="JP3" pad="2"/>

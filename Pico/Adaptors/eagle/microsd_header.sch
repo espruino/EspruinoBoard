@@ -3711,7 +3711,7 @@ Pico</text>
 </classes>
 <parts>
 <part name="J1" library="OPL Eagle Library" deviceset="MICRO-SDCARD-CONNECTOR" device="-3300060P1"/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="R1206"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="R1206" value="100k"/>
 <part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_0.1" device=""/>
 </parts>
 <sheets>

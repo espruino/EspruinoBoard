@@ -129,6 +129,7 @@ SCK  B13
 CS   B1</text>
 <text x="19.05" y="6.35" size="1.4224" layer="26" rot="MR0">Espruino Pico
 MicroSD rev 1.0</text>
+<text x="2.54" y="12.7" size="1.016" layer="25">Pico this side</text>
 </plain>
 <libraries>
 <library name="OPL Eagle Library">
@@ -1450,7 +1451,9 @@ Please make sure your boards conform to these design rules.</description>
 </autorouter>
 <elements>
 <element name="J1" library="OPL Eagle Library" package="9P-SMD-W/-RING" value="" x="24.13" y="8.89"/>
-<element name="R1" library="rcl" package="R1206" value="" x="20.32" y="11.43"/>
+<element name="R1" library="rcl" package="R1206" value="100k" x="20.32" y="11.43" smashed="yes">
+<attribute name="NAME" x="19.05" y="12.7" size="1.27" layer="25"/>
+</element>
 <element name="U$1" library="espruino_pico" package="ESPRUINO_PICO_0.1" value="ESPRUINO_PICO_0.1" x="13.97" y="8.89"/>
 </elements>
 <signals>

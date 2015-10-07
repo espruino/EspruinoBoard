@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -6202,8 +6202,13 @@ Source: AVX .. aphvc.pdf</description>
 </segment>
 <segment>
 <pinref part="X1" gate="G$1" pin="GND"/>
-<wire x1="121.92" y1="35.56" x2="134.62" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="35.56" x2="127" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
+<pinref part="X1" gate="G$1" pin="GPIO15"/>
+<wire x1="127" y1="35.56" x2="134.62" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="38.1" x2="127" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="127" y1="38.1" x2="127" y2="35.56" width="0.1524" layer="91"/>
+<junction x="127" y="35.56"/>
 </segment>
 <segment>
 <pinref part="GND3" gate="1" pin="GND"/>

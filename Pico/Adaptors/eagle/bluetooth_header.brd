@@ -126,6 +126,7 @@
 <text x="25.4" y="5.08" size="1.778" layer="26" rot="MR0">Espruino Pico
 Bluetooth Header
 rev 1.0</text>
+<text x="1.27" y="12.7" size="1.016" layer="25">Pico this side</text>
 </plain>
 <libraries>
 <library name="espruino_pico">

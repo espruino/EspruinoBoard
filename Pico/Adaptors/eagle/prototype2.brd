@@ -125,6 +125,7 @@
 <wire x1="50.8" y1="0" x2="50.8" y2="22.86" width="0" layer="20"/>
 <wire x1="50.8" y1="22.86" x2="0" y2="22.86" width="0" layer="20"/>
 <wire x1="0" y1="22.86" x2="0" y2="0" width="0" layer="20"/>
+<text x="29.21" y="19.939" size="0.8128" layer="25" rot="R270">Pico This Side</text>
 </plain>
 <libraries>
 <library name="espruino_pico">
