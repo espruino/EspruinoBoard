@@ -95,6 +95,16 @@ board pins.brd 0 17.9 79.4 # 5R : right of 5 and 6
 board esp8266_esp01_shim_rev2.brd 0 0 89.2 # 6
 board prototype2.brd 0 49.2 77 # 5RR right of 5R
 
+# Add text
+
+echo "CHANGE SIZE 2;" >> script.scr
+echo "LAYER tNames;" >> script.scr
+echo "TEXT 'espruino.com/Shims' R90 (44 20)" >> script.scr
+echo "TEXT '1.0' R0 (41 52)" >> script.scr
+echo "LAYER bNames;" >> script.scr
+echo "TEXT 'espruino.com/Shims' MR90 (42 20)" >> script.scr
+
+
 
 mill_vert 40.5 18.5 37.7 2 # 2
 mill_vert 39.7 37.7 56.3 2 # 3
