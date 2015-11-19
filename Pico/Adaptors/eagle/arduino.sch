@@ -4513,7 +4513,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_SMD" device=""/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="10k"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="R0805" value="10k"/>
-<part name="J1" library="OPL Eagle Library" deviceset="JST-2P-SMD-PW" device="-3410050P1"/>
+<part name="J1" library="OPL Eagle Library" deviceset="JST-2P-SMD-PW" device="-3410050P1" value=""/>
 <part name="U3" library="template" deviceset="MAX1551" device="" value="MAX1551"/>
 <part name="GND26" library="supply1" deviceset="GND" device=""/>
 <part name="C2" library="OPL5" deviceset="C*" device="-0603" value="100nF"/>
@@ -4530,12 +4530,12 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U$1" gate="G$1" x="-7.62" y="43.18"/>
 <instance part="R1" gate="G$1" x="60.96" y="78.74" rot="R90"/>
 <instance part="R2" gate="G$1" x="63.5" y="78.74" rot="R90"/>
-<instance part="J1" gate="J" x="80.518" y="110.49"/>
-<instance part="U3" gate="G$1" x="124.46" y="107.95" rot="MR0"/>
-<instance part="GND26" gate="1" x="124.46" y="90.17"/>
-<instance part="C2" gate="C" x="142.24" y="100.33" rot="R270"/>
-<instance part="C1" gate="C" x="106.68" y="100.33" rot="R270"/>
-<instance part="U$4" gate="G$1" x="148.59" y="113.03"/>
+<instance part="J1" gate="J" x="88.9" y="109.22"/>
+<instance part="U3" gate="G$1" x="121.92" y="106.68" rot="MR0"/>
+<instance part="GND26" gate="1" x="121.92" y="86.36"/>
+<instance part="C2" gate="C" x="137.16" y="96.52" rot="R270"/>
+<instance part="C1" gate="C" x="106.68" y="99.06" rot="R270"/>
+<instance part="U$4" gate="G$1" x="144.78" y="111.76"/>
 </instances>
 <busses>
 </busses>
@@ -4677,32 +4677,32 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <segment>
 <pinref part="U3" gate="G$1" pin="GND"/>
 <pinref part="GND26" gate="1" pin="GND"/>
-<wire x1="124.46" y1="92.71" x2="124.46" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="88.9" x2="121.92" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="C1" gate="C" pin="2"/>
-<wire x1="124.46" y1="93.98" x2="124.46" y2="95.25" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="96.52" x2="106.68" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="93.98" x2="124.46" y2="93.98" width="0.1524" layer="91"/>
-<junction x="124.46" y="93.98"/>
+<wire x1="121.92" y1="91.44" x2="121.92" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="95.25" x2="106.68" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="91.44" x2="121.92" y2="91.44" width="0.1524" layer="91"/>
+<junction x="121.92" y="91.44"/>
 <pinref part="C2" gate="C" pin="2"/>
-<wire x1="124.46" y1="93.98" x2="142.24" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="142.24" y1="93.98" x2="142.24" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="91.44" x2="137.16" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="91.44" x2="137.16" y2="92.71" width="0.1524" layer="91"/>
 <pinref part="J1" gate="J" pin="-"/>
-<wire x1="86.233" y1="107.95" x2="88.138" y2="107.95" width="0.1524" layer="91"/>
-<wire x1="88.138" y1="100.33" x2="88.138" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="88.138" y1="107.95" x2="88.138" y2="100.33" width="0.1524" layer="91"/>
-<wire x1="88.138" y1="100.33" x2="80.518" y2="100.33" width="0.1524" layer="91"/>
-<wire x1="80.518" y1="100.33" x2="75.438" y2="100.33" width="0.1524" layer="91"/>
-<wire x1="75.438" y1="100.33" x2="75.438" y2="120.65" width="0.1524" layer="91"/>
-<wire x1="75.438" y1="120.65" x2="80.518" y2="120.65" width="0.1524" layer="91"/>
-<wire x1="80.518" y1="120.65" x2="80.518" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="80.518" y1="100.33" x2="80.518" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="94.615" y1="106.68" x2="96.52" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="99.06" x2="96.52" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="106.68" x2="96.52" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="99.06" x2="88.9" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="99.06" x2="83.82" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="99.06" x2="83.82" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="119.38" x2="88.9" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="119.38" x2="88.9" y2="115.57" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="99.06" x2="88.9" y2="102.87" width="0.1524" layer="91"/>
 <pinref part="J1" gate="J" pin="3"/>
 <pinref part="J1" gate="J" pin="4"/>
-<label x="96.52" y="93.98" size="1.778" layer="95" rot="R180"/>
-<wire x1="106.68" y1="93.98" x2="88.138" y2="93.98" width="0.1524" layer="91"/>
-<junction x="80.518" y="100.33"/>
-<junction x="88.138" y="100.33"/>
-<junction x="106.68" y="93.98"/>
+<label x="99.06" y="91.44" size="1.778" layer="95"/>
+<wire x1="106.68" y1="91.44" x2="96.52" y2="91.44" width="0.1524" layer="91"/>
+<junction x="88.9" y="99.06"/>
+<junction x="96.52" y="99.06"/>
+<junction x="106.68" y="91.44"/>
 </segment>
 </net>
 <net name="VIN" class="1">
@@ -4733,18 +4733,17 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="USB"/>
-<wire x1="137.16" y1="105.41" x2="142.24" y2="105.41" width="0.1524" layer="91"/>
-<label x="144.78" y="106.68" size="1.27" layer="95" ratio="10"/>
+<wire x1="134.62" y1="104.14" x2="137.16" y2="104.14" width="0.1524" layer="91"/>
+<label x="154.94" y="104.14" size="1.27" layer="95" ratio="10"/>
 <pinref part="C2" gate="C" pin="1"/>
-<wire x1="142.24" y1="104.14" x2="142.24" y2="105.41" width="0.1524" layer="91"/>
-<junction x="142.24" y="105.41"/>
-<wire x1="142.24" y1="105.41" x2="156.21" y2="105.41" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="100.33" x2="137.16" y2="104.14" width="0.1524" layer="91"/>
+<junction x="137.16" y="104.14"/>
+<wire x1="137.16" y1="104.14" x2="152.4" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="U$4" gate="G$1" pin="P$2"/>
-<wire x1="156.21" y1="105.41" x2="165.1" y2="105.41" width="0.1524" layer="91"/>
-<wire x1="153.67" y1="113.03" x2="156.21" y2="113.03" width="0.1524" layer="91"/>
-<wire x1="156.21" y1="113.03" x2="156.21" y2="105.41" width="0.1524" layer="91"/>
-<junction x="156.21" y="105.41"/>
-<wire x1="156.21" y1="105.41" x2="156.21" y2="105.156" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="104.14" x2="160.02" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="149.86" y1="111.76" x2="152.4" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="111.76" x2="152.4" y2="104.14" width="0.1524" layer="91"/>
+<junction x="152.4" y="104.14"/>
 </segment>
 </net>
 <net name="3.3V" class="1">
@@ -5067,19 +5066,19 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <segment>
 <pinref part="U3" gate="G$1" pin="BAT"/>
 <pinref part="C1" gate="C" pin="1"/>
-<wire x1="86.233" y1="113.03" x2="106.68" y2="113.03" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="113.03" x2="111.76" y2="113.03" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="104.14" x2="106.68" y2="113.03" width="0.1524" layer="91"/>
-<junction x="106.68" y="113.03"/>
+<wire x1="94.615" y1="111.76" x2="106.68" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="111.76" x2="109.22" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="102.87" x2="106.68" y2="111.76" width="0.1524" layer="91"/>
+<junction x="106.68" y="111.76"/>
 <pinref part="J1" gate="J" pin="+"/>
-<label x="90.17" y="113.284" size="1.778" layer="95"/>
+<label x="99.06" y="111.76" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="DC"/>
 <pinref part="U$4" gate="G$1" pin="P$1"/>
-<wire x1="140.97" y1="113.03" x2="137.16" y2="113.03" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="111.76" x2="134.62" y2="111.76" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

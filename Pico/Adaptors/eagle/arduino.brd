@@ -1877,7 +1877,7 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <element name="R2" library="rcl" package="R0805" value="10k" x="11.43" y="43.18" smashed="yes" rot="R270">
 <attribute name="NAME" x="13.335" y="41.91" size="1.27" layer="25"/>
 </element>
-<element name="J1" library="OPL Eagle Library" package="2P-SMD-2.0-90D" value="JST-2P-SMD-PW-3410050P1" x="3.81" y="37.465" smashed="yes" rot="R270"/>
+<element name="J1" library="OPL Eagle Library" package="2P-SMD-2.0-90D" value="" x="3.81" y="37.465" smashed="yes" rot="R270"/>
 <element name="U3" library="template" package="SOT23-5" value="MAX1551" x="16.129" y="36.322" smashed="yes">
 <attribute name="VALUE" x="15.3035" y="33.4645" size="0.635" layer="27" ratio="10"/>
 </element>
