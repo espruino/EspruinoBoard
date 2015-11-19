@@ -9,6 +9,8 @@
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
@@ -43,8 +45,12 @@
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -53,6 +59,65 @@
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
+<layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="no"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="no"/>
+<layer number="103" name="tMap" color="7" fill="1" visible="no" active="no"/>
+<layer number="104" name="Name" color="7" fill="1" visible="no" active="no"/>
+<layer number="105" name="tPlate" color="7" fill="1" visible="no" active="no"/>
+<layer number="106" name="bPlate" color="7" fill="1" visible="no" active="no"/>
+<layer number="107" name="Crop" color="7" fill="1" visible="no" active="no"/>
+<layer number="108" name="fp8" color="7" fill="1" visible="no" active="no"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="no" active="no"/>
+<layer number="110" name="110" color="7" fill="1" visible="no" active="no"/>
+<layer number="111" name="111" color="7" fill="1" visible="no" active="no"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="no"/>
+<layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="no"/>
+<layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="no"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="no"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="no"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="no"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="no"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="no"/>
+<layer number="144" name="DrillLegend" color="7" fill="1" visible="no" active="no"/>
+<layer number="151" name="HeatSink" color="14" fill="1" visible="no" active="no"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="no" active="no"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="no"/>
+<layer number="201" name="201bmp" color="2" fill="1" visible="no" active="no"/>
+<layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
+<layer number="203" name="203bmp" color="4" fill="10" visible="no" active="no"/>
+<layer number="204" name="204bmp" color="5" fill="10" visible="no" active="no"/>
+<layer number="205" name="205bmp" color="6" fill="10" visible="no" active="no"/>
+<layer number="206" name="206bmp" color="7" fill="10" visible="no" active="no"/>
+<layer number="207" name="207bmp" color="15" fill="10" visible="no" active="no"/>
+<layer number="208" name="208bmp" color="9" fill="10" visible="no" active="no"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="no"/>
+<layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
+<layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
+<layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
+<layer number="220" name="220bmp" color="21" fill="1" visible="no" active="no"/>
+<layer number="221" name="221bmp" color="22" fill="1" visible="no" active="no"/>
+<layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
+<layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
+<layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="no" active="no"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="no" active="no"/>
+<layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
+<layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
+<layer number="254" name="OrgLBR" color="13" fill="1" visible="no" active="no"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
@@ -1411,6 +1476,78 @@ Pico</text>
 </deviceset>
 </devicesets>
 </library>
+<library name="OPL Eagle Library">
+<packages>
+<package name="2P-SMD-2.0-90D">
+<wire x1="-4" y1="3" x2="-3.4" y2="3" width="0.127" layer="21"/>
+<wire x1="-3.4" y1="3" x2="3.4" y2="3" width="0.127" layer="21"/>
+<wire x1="3.4" y1="3" x2="4" y2="3" width="0.127" layer="21"/>
+<wire x1="4" y1="3" x2="4" y2="-3" width="0.127" layer="21"/>
+<wire x1="4" y1="-3" x2="-4" y2="-3" width="0.127" layer="21"/>
+<wire x1="-4" y1="-3" x2="-4" y2="3" width="0.127" layer="21"/>
+<wire x1="-4" y1="3" x2="-4" y2="4.826" width="0.127" layer="21"/>
+<wire x1="-4" y1="4.826" x2="-3.4" y2="4.826" width="0.127" layer="21"/>
+<wire x1="-3.4" y1="4.826" x2="-3.4" y2="3" width="0.127" layer="21"/>
+<wire x1="3.4" y1="3" x2="3.4" y2="4.8" width="0.127" layer="21"/>
+<wire x1="3.4" y1="4.8" x2="4" y2="4.8" width="0.127" layer="21"/>
+<wire x1="4" y1="4.8" x2="4" y2="3" width="0.127" layer="21"/>
+<wire x1="-3.4" y1="4.826" x2="-3.4" y2="3" width="0.127" layer="39"/>
+<wire x1="-3.4" y1="3" x2="3.4" y2="3" width="0.127" layer="39"/>
+<wire x1="3.4" y1="3" x2="3.4" y2="4.8" width="0.127" layer="39"/>
+<wire x1="3.4" y1="4.8" x2="4" y2="4.8" width="0.127" layer="39"/>
+<wire x1="4" y1="4.8" x2="4" y2="-3" width="0.127" layer="39"/>
+<wire x1="4" y1="-3" x2="-4" y2="-3" width="0.127" layer="39"/>
+<wire x1="-4" y1="-3" x2="-4" y2="4.826" width="0.127" layer="39"/>
+<wire x1="-4" y1="4.826" x2="-3.4" y2="4.826" width="0.127" layer="39"/>
+<smd name="+" x="-1" y="5.08" dx="3.6" dy="0.8" layer="1" roundness="50" rot="R90"/>
+<smd name="-" x="1" y="5.08" dx="3.6" dy="0.8" layer="1" roundness="50" rot="R90"/>
+<smd name="4" x="-3.9" y="-2.181" dx="2.4" dy="1.6" layer="1" roundness="50" rot="R90"/>
+<smd name="3" x="3.9" y="-2.181" dx="2.4" dy="1.6" layer="1" roundness="50" rot="R90"/>
+<text x="-1.905" y="7.62" size="0.889" layer="25" ratio="11">&gt;NAME</text>
+<text x="-1.905" y="0" size="0.635" layer="27" ratio="10">&gt;VALUE</text>
+</package>
+</packages>
+<symbols>
+<symbol name="JST-2P-2.0-SMD">
+<wire x1="2.54" y1="-3.81" x2="-2.54" y2="-3.81" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="-3.81" x2="-2.54" y2="3.81" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="3.81" x2="2.54" y2="3.81" width="0.1524" layer="94"/>
+<wire x1="2.54" y1="3.81" x2="2.54" y2="2.54" width="0.1524" layer="94"/>
+<text x="2.54" y="-3.81" size="1.27" layer="96" ratio="10" rot="R90">&gt;VALUE</text>
+<text x="-2.54" y="3.81" size="1.27" layer="95" ratio="10">&gt;NAME</text>
+<pin name="+" x="5.715" y="2.54" length="short" rot="R180"/>
+<pin name="-" x="5.715" y="-2.54" length="short" rot="R180"/>
+<pin name="3" x="0" y="-6.35" visible="off" length="short" rot="R90"/>
+<pin name="4" x="0" y="6.35" visible="off" length="short" rot="R270"/>
+<circle x="0" y="2.54" radius="1.016" width="0.1524" layer="94"/>
+<circle x="0" y="-2.54" radius="1.016" width="0.1524" layer="94"/>
+<wire x1="2.54" y1="2.54" x2="2.54" y2="-2.54" width="0.1524" layer="94"/>
+<wire x1="2.54" y1="-2.54" x2="2.54" y2="-3.81" width="0.1524" layer="94"/>
+<wire x1="2.54" y1="2.54" x2="3.81" y2="2.54" width="0.1524" layer="94"/>
+<wire x1="2.54" y1="-2.54" x2="3.81" y2="-2.54" width="0.1524" layer="94"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="JST-2P-SMD-PW" prefix="J">
+<gates>
+<gate name="J" symbol="JST-2P-2.0-SMD" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-3410050P1" package="2P-SMD-2.0-90D">
+<connects>
+<connect gate="J" pin="+" pad="+"/>
+<connect gate="J" pin="-" pad="-"/>
+<connect gate="J" pin="3" pad="3"/>
+<connect gate="J" pin="4" pad="4"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1425,6 +1562,7 @@ Pico</text>
 <part name="U$1" library="espruino_pico" deviceset="ESPRUINO_PICO_SMD" device=""/>
 <part name="JP3" library="pinhead-2" deviceset="PINHD-1X09" device="_2.54-S"/>
 <part name="JP4" library="pinhead-2" deviceset="PINHD-1X09" device="_2.54-S"/>
+<part name="J1" library="OPL Eagle Library" deviceset="JST-2P-SMD-PW" device="-3410050P1"/>
 </parts>
 <sheets>
 <sheet>
@@ -1435,6 +1573,7 @@ Pico</text>
 <instance part="U$1" gate="G$1" x="38.1" y="20.32"/>
 <instance part="JP3" gate="A" x="40.64" y="38.1" rot="R90"/>
 <instance part="JP4" gate="A" x="40.64" y="-17.78" rot="MR270"/>
+<instance part="J1" gate="J" x="15.24" y="40.64" rot="R270"/>
 </instances>
 <busses>
 </busses>
@@ -1494,6 +1633,23 @@ Pico</text>
 <pinref part="JP4" gate="A" pin="1"/>
 <wire x1="30.48" y1="-5.08" x2="30.48" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<wire x1="21.59" y1="40.64" x2="22.86" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="40.64" x2="22.86" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="34.925" x2="12.7" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="33.02" x2="12.7" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="8.89" y1="40.64" x2="7.62" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="40.64" x2="7.62" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="33.02" x2="12.7" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="45.72" x2="7.62" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="45.72" x2="7.62" y2="40.64" width="0.1524" layer="91"/>
+<junction x="12.7" y="33.02"/>
+<junction x="7.62" y="40.64"/>
+<label x="12.7" y="25.4" size="1.778" layer="95" rot="R90"/>
+<pinref part="J1" gate="J" pin="-"/>
+<pinref part="J1" gate="J" pin="3"/>
+<pinref part="J1" gate="J" pin="4"/>
+</segment>
 </net>
 <net name="N$9" class="0">
 <segment>
@@ -1551,11 +1707,16 @@ Pico</text>
 <wire x1="50.8" y1="-15.24" x2="50.8" y2="-5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="BAT" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="BAT"/>
 <pinref part="JP3" gate="A" pin="1"/>
 <wire x1="30.48" y1="27.94" x2="30.48" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<label x="17.78" y="25.4" size="1.778" layer="95" rot="R90"/>
+<pinref part="J1" gate="J" pin="+"/>
+<wire x1="17.78" y1="34.925" x2="17.78" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$16" class="0">
