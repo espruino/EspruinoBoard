@@ -7,8 +7,8 @@ This repository contains the hardware schematics for the Espruino Boards.
 
 * [Original Espruino Board](http://www.espruino.com/EspruinoBoard) - [see schematics](Original)
 * [Espruino Pico Board](http://www.espruino.com/Pico) - [see schematics](Pico)
-* [Espruino WiFi Board](http://www.espruino.com/Puck.js) - [see schematics](WiFi)
-* [Puck.js Board](http://www.espruino.com/WiFi) - [see schematics](Puck.js)
+* [Espruino WiFi Board](http://www.espruino.com/WiFi) - [see schematics](WiFi)
+* [Puck.js Board](http://www.espruino.com/Puck.js) - [see schematics](Puck.js)
 
 If you want to buy pre-made boards [please support us by buying from here](http://www.espruino.com/Order)
 
