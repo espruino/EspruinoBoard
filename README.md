@@ -16,6 +16,7 @@ If you want to buy pre-made boards [please support us by buying from here](http:
 
 * [Boxes for Espruino Boards](boxes)
 * [Fritzing part library](frizting)
+* [Bangle.js related parts](Bangle.js)
 
 See the [LICENSE](LICENSE) file for details of the license in this repository.
 
