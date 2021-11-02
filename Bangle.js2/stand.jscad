@@ -1,12 +1,12 @@
 var ex = true; // EXPORT!
 var T = 2.7; // thickness
 var psuCase = false;
-var bangleheight = 36;
+var bangleheight = 31;
 var bangleoffset = 10;
 var p2offset = bangleoffset-6-T/2, p2w=40, p2peg=13, p2pegw=12, p2peg2w=p2peg*2+p2pegw+6;
 var p3offset = bangleoffset-30, p3peg=25;
 var spw=15;
-var bppegw=10, bppegoffset = 7.5, bppeg2w=3, bppeg2offset=44, bppegwo=spw+3;
+var bppegw=10, bppegoffset = 7.5, bppeg2w=3, bppeg2offset=bangleheight+8, bppegwo=spw+3;
 var basepegw = 30, basepegh = 30, baseheight = 29;
 var sidePlateSpacing = 15;
 var bcount = 1;
@@ -36,6 +36,7 @@ function spread(obj, fillwidth, h, r, spreadextra) {
 
 function basePlate(cutouts) {
   var r = 4, w=75, h=psuCase ? 74 : 40, o=psuCase ? 15 : 0;
+  var cableWidth = 3;
   var plate =  union(
           cube({size:[w+r*2,h,T], center:true}),
           cube({size:[w,h+r*2,T], center:true}),
@@ -72,8 +73,7 @@ function basePlate(cutouts) {
       cube({size:[p2w,T,5], center:true}).translate([0,o+p2offset,0]),
       cube({size:[T,spw,5], center:true}).translate([sidePlateSpacing,o+p2offset-(spw/2)-T/2,0]), //sideplate
       cube({size:[T,spw,5], center:true}).translate([-sidePlateSpacing,o+p2offset-(spw/2)-T/2,0]), //sideplate
-      cube({size:[6,5,5], center:true}).translate([sidePlateSpacing,o+p2offset-4,0]), // hole for plug
-      cube({size:[9,4,5], center:true}).translate([sidePlateSpacing-3,o+p2offset-3,0]) // hole for cable
+      cube({size:[10,6,5], center:true}).translate([sidePlateSpacing-4,o+p2offset-3,0]) // hole for cable (and plug to poke through)
       
       //cube({size:[5,T,5], center:true}).translate([-p3peg,o+p3offset,0]),
       //cube({size:[5,T,5], center:true}).translate([p3peg,o+p3offset,0])
@@ -90,14 +90,14 @@ function basePlate(cutouts) {
       cube({size:[T,bppegwo,5], center:true}).translate([-sidePlateSpacing,o+p2offset-(bppegoffset+T),0]), //sideplate
       cube({size:[T,bppegwo,5], center:true}).translate([sidePlateSpacing,o+p2offset-(bppegoffset+T),0]),  //sideplate
       // cable
-      cube({size:[2.3,12,5], center:true}).translate([0,o-18,0]),  
-      cube({size:[4,2.3,5], center:true}).translate([8.5,o-4-1.1,0]),
-      difference( // curve
+      cube({size:[cableWidth,12,5], center:true}).translate([0,o-18,0]),  
+      cube({size:[4,cableWidth,5], center:true}).translate([8.5,o-4-cableWidth/2,0]),
+      difference( // curve for cable
           cylinder({r:8, h: 5, center:true}),
-          cylinder({r:8-2.3, h: 5, center:true}),
+          cylinder({r:8-cableWidth, h: 5, center:true}),
           cube({size:[20,20,5], center:true}).translate([10,0,0]),
           cube({size:[20,20,5], center:true}).translate([0,-10,0])
-          ).translate([8-1.1,o-12,0])
+          ).translate([8-(cableWidth/2),o-12,0])
      ).translate([0,0,T/2]).setColor(hsl2rgb(0.1,1,0.5));
   if (cutouts=="bottom") return difference(
       plate,
@@ -122,6 +122,8 @@ function baseSide() {
 
 // the one with the charge cable
 function plate2() {
+  var chargPlugWidth = 6.3-0.65;
+  var chargPlugTopWidth = 5.7-0.45;
   var m = bangleheight, h = m, w=p2w;
   var rounding = 10;
   return difference(
@@ -132,15 +134,15 @@ function plate2() {
         cube({size:[p2pegw,T,T],center:true}).translate([p2peg,-T*1.5,0]), // bottom peg mid
         cube({size:[p2peg2w,T,T],center:true}).translate([0,-T*2.5,0]), // bottom peg bottom
         //actual body
-        cylinder({r:rounding, h: T, center:true}).translate([w/2-rounding,m,0]),
+        cylinder({r:rounding, h: T, center:true}).translate([w/2-rounding,m,0]), // either side
         cylinder({r:rounding, h: T, center:true}).translate([-(w/2-rounding),m,0]),
         cube({size:[w-rounding*2,rounding*2,T],center:true}).translate([0,m,0]), // bottom peg bottom
         []//cube({size:[1,1,T*2],center:true}).translate([-10,9+6.4+chargerY-12,0]) // TEST
       ).translate([0,0,T/2]),   
       union(
-        cylinder({r:6.3/2, h: 10, center:true}), // charge cable top
-        cube({size:[6.3,17,10], center:true}).translate([0,-17/2,0]), // charge cable body
-        cube({size:[5.7,7,10], center:true}).translate([0,-17 - 7/2,0]) // charge cable stress relief
+        cylinder({r:chargPlugWidth/2, h: 10, center:true}), // charge cable top
+        cube({size:[chargPlugWidth,19,10], center:true}).translate([0,-19/2,0]), // charge cable body
+        cube({size:[chargPlugTopWidth,7,10], center:true}).translate([0,-17 - 7/2,0]) // charge cable stress relief
       ).rotateZ(180).translate([-13.5,chargerY,0]),
       cylinder({r:7.5, h: 10, center:true}).translate([0,chargerY+7,0]), // HRM
       cube({size:[T,bppeg2w+2,10], center:true}).translate([sidePlateSpacing,bppeg2offset+1,0]), // basePlate peg
@@ -149,7 +151,7 @@ function plate2() {
 }
 
 function sidePlate(cutout) {
-    var w=spw, h=45.5, r=spw;
+    var w=spw, h=45.5+bangleheight-36, r=spw;
     var p = union(
         intersection(
             union(
@@ -164,7 +166,7 @@ function sidePlate(cutout) {
             cube({size:[2,bppeg2w+1,T], center:true}).translate([-4,bppeg2offset-1.5,0]) // top 'hook'
         );
     if (!cutout) return p;
-    var co = 7.3-T;
+    var co = 7.05-T;
     return difference(p,
         cube({size:[co,20,10], center:true}).translate([co/2,chargerY+19-12,0]), // main plug
         cube({size:[co,15,10], center:true}).translate([-1+co/2,chargerY+28.5-12,0]) // plug cable
@@ -206,8 +208,8 @@ function main () {
                 spread(basePlate("bottom")).translate([0,-100,0]),
             union(
             p2.rotateZ(0).translate([8,-22,0]),
-            sidePlate(true).rotateZ(0).scale([-1,1,1]).translate([-33,-3,0]),
-            sidePlate().rotateZ(0).scale([-1,1,1]).translate([-17,-7,0])
+            sidePlate(true).rotateZ(0).scale([-1,1,1]).translate([-33,-18,0]),
+            sidePlate().rotateZ(0).scale([-1,1,1]).translate([-17,-22,0])
             ).translate([ox+2,oy]));
    else
         return union(b,
