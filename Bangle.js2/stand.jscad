@@ -1,5 +1,5 @@
 var ex = true; // EXPORT!
-var T = 2.7; // thickness
+var T = 2.9; // thickness
 var psuCase = false;
 var bangleheight = 31;
 var bangleoffset = 10;
@@ -11,7 +11,7 @@ var basepegw = 30, basepegh = 30, baseheight = 29;
 var sidePlateSpacing = 15;
 var bcount = 1;
 var bspacing = 75;
-var chargerY = 9.4;
+var chargerY = 9.9;
 
 function spread(obj, fillwidth, h, r, spreadextra) {
     var p = [];
@@ -67,22 +67,25 @@ function basePlate(cutouts) {
       cylinder({r:7/2, h: 5, center:true}).translate([14,o+bangleoffset,0]), // body...
       cylinder({r:7/2, h: 5, center:true}).translate([-14,o+bangleoffset,0]), 
       cube({size:[28,7,5], center:true}).translate([0,o+bangleoffset,0]),
-      //cube({size:[T,5,5], center:true}).translate([11,o+bangleoffset,0]), // other buttons
-      //cube({size:[T,5,5], center:true}).translate([-11,o+bangleoffset,0]), // other buttons      
       // pegs
       cube({size:[p2w,T,5], center:true}).translate([0,o+p2offset,0]),
       cube({size:[T,spw,5], center:true}).translate([sidePlateSpacing,o+p2offset-(spw/2)-T/2,0]), //sideplate
       cube({size:[T,spw,5], center:true}).translate([-sidePlateSpacing,o+p2offset-(spw/2)-T/2,0]), //sideplate
-      cube({size:[10,6,5], center:true}).translate([sidePlateSpacing-4,o+p2offset-3,0]) // hole for cable (and plug to poke through)
-      
+      cube({size:[7,4.5,5], center:true}).translate([sidePlateSpacing-2.2,o+p2offset-3.5,0]), // hole for plug to poke through
+      cube({size:[sidePlateSpacing*2,3,5], center:true}).translate([0,o+p2offset-T,0]), // hole for wire
+      cube({size:[T+sidePlateSpacing*2,5,5], center:true}).translate([0,o+p2offset+T,0]) // hole for front of charger/pegs
       //cube({size:[5,T,5], center:true}).translate([-p3peg,o+p3offset,0]),
       //cube({size:[5,T,5], center:true}).translate([p3peg,o+p3offset,0])
      ).translate([0,0,T/2]).setColor(hsl2rgb(0.1,1,0.5));  
   if (cutouts=="mid") return difference(
       plate,
+      cylinder({r:7/2, h: 5, center:true}).translate([14,o+bangleoffset,0]), // body...
+      cylinder({r:7/2, h: 5, center:true}).translate([-14,o+bangleoffset,0]), 
+      cube({size:[28,7,5], center:true}).translate([0,o+bangleoffset,0]),      
       // pegs
-      cube({size:[p2pegw,T,5], center:true}).translate([-p2peg,o+p2offset,0]),
-      cube({size:[p2pegw,T,5], center:true}).translate([p2peg,o+p2offset,0]),
+      cube({size:[p2pegw,T*2,5], center:true}).translate([-p2peg,o+p2offset+T/2,0]),
+      cube({size:[p2pegw,T*2,5], center:true}).translate([p2peg,o+p2offset+T/2,0]),
+      cube({size:[sidePlateSpacing*2,T,5], center:true}).translate([0,o+p2offset+T,0]), // bodge bit - just remove extra peg bit we didn't want
       //cube({size:[5,T,5], center:true}).translate([-p3peg,o+p3offset,0]),
       //cube({size:[5,T,5], center:true}).translate([p3peg,o+p3offset,0])
       // cutouts for sliding in
@@ -90,14 +93,14 @@ function basePlate(cutouts) {
       cube({size:[T,bppegwo,5], center:true}).translate([-sidePlateSpacing,o+p2offset-(bppegoffset+T),0]), //sideplate
       cube({size:[T,bppegwo,5], center:true}).translate([sidePlateSpacing,o+p2offset-(bppegoffset+T),0]),  //sideplate
       // cable
-      cube({size:[cableWidth,12,5], center:true}).translate([0,o-18,0]),  
-      cube({size:[4,cableWidth,5], center:true}).translate([8.5,o-4-cableWidth/2,0]),
+      cube({size:[cableWidth,16,5], center:true}).translate([0,o-16,0]),  
+      cube({size:[4,cableWidth,5], center:true}).translate([8.5,o-cableWidth/2,0]),
       difference( // curve for cable
           cylinder({r:8, h: 5, center:true}),
           cylinder({r:8-cableWidth, h: 5, center:true}),
           cube({size:[20,20,5], center:true}).translate([10,0,0]),
           cube({size:[20,20,5], center:true}).translate([0,-10,0])
-          ).translate([8-(cableWidth/2),o-12,0])
+          ).translate([8-(cableWidth/2),o-8,0])
      ).translate([0,0,T/2]).setColor(hsl2rgb(0.1,1,0.5));
   if (cutouts=="bottom") return difference(
       plate,
@@ -122,8 +125,8 @@ function baseSide() {
 
 // the one with the charge cable
 function plate2() {
-  var chargPlugWidth = 6.3-0.65;
-  var chargPlugTopWidth = 5.7-0.45;
+  var chargPlugWidth = 6.3-0.35;
+  var chargPlugTopWidth = 5.7-0.25;
   var m = bangleheight, h = m, w=p2w;
   var rounding = 10;
   return difference(
@@ -141,8 +144,8 @@ function plate2() {
       ).translate([0,0,T/2]),   
       union(
         cylinder({r:chargPlugWidth/2, h: 10, center:true}), // charge cable top
-        cube({size:[chargPlugWidth,19,10], center:true}).translate([0,-19/2,0]), // charge cable body
-        cube({size:[chargPlugTopWidth,7,10], center:true}).translate([0,-17 - 7/2,0]) // charge cable stress relief
+        cube({size:[chargPlugWidth,14,10], center:true}).translate([0,-14/2,0]), // charge cable body
+        cube({size:[chargPlugTopWidth,10,10], center:true}).translate([0,-17 - 3/2,0]) // charge cable stress relief
       ).rotateZ(180).translate([-13.5,chargerY,0]),
       cylinder({r:7.5, h: 10, center:true}).translate([0,chargerY+7,0]), // HRM
       cube({size:[T,bppeg2w+2,10], center:true}).translate([sidePlateSpacing,bppeg2offset+1,0]), // basePlate peg
@@ -202,14 +205,14 @@ function main () {
         ex?[]:spread(bangle()).rotateX(-90).translate([0,bangleoffset,bangleheight])
     );
     if (!ex) return b;
-    if (bcount==1) 
+    if (bcount==1)  // THIS IS THE FLAT VERSION
         return union(b, 
                 spread(basePlate("mid")).translate([0,-50,0]),
                 spread(basePlate("bottom")).translate([0,-100,0]),
             union(
-            p2.rotateZ(0).translate([8,-22,0]),
-            sidePlate(true).rotateZ(0).scale([-1,1,1]).translate([-33,-18,0]),
-            sidePlate().rotateZ(0).scale([-1,1,1]).translate([-17,-22,0])
+            p2.rotateZ(0).translate([-8,-22,0]),
+            sidePlate(true).rotateZ(0).scale([1,1,1]).translate([16,-22,0]),
+            sidePlate().rotateZ(0).scale([-1,1,1]).translate([-32,-22,0])
             ).translate([ox+2,oy]));
    else
         return union(b,
